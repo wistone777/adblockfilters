@@ -1,17 +1,17 @@
 #
 #!name=AdBlock Surge
 #!desc=适用于 Surge 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、xinggsf minority-mv、xinggsf。
-#!homepage=https://github.com/217heidai/adblockfilters
-#!raw-url=https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblocksurge.list
+#!homepage=https://github.com/wistone777/adblockfilters
+#!raw-url=https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblocksurge.list
 #!tag=AdBlock, 217heidai
 # Example snippet:
 # [Rule]
-# DOMAIN-SET,https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblocksurge.list,REJECT-DROP
+# DOMAIN-SET,https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblocksurge.list,REJECT-DROP
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/15 13:37:41
-#!support=266205
+#!date=2026/04/15 15:32:13
+#!support=266227
 #!proxy-select=REJECT-DROP
 #
 .0-0.fr
@@ -6884,6 +6884,7 @@
 .683290.cfd
 .6836aa6c5053e73e.com
 .6840122afa.com
+.68437w.top
 .685ba1f62e.com
 .685ef18d4735f217.com
 .685wo.com
@@ -49827,6 +49828,7 @@
 .cdp.asia
 .cdpogxaq.shop
 .cdpoker.com
+.cdptdqdhomh.com
 .xiazai.cdren.com
 .cdrhialzwntyu.store
 .cdrvrs.com
@@ -53431,6 +53433,7 @@
 .claimagainstuber.com
 .claimbase.to
 .affil.claimcloud.cz
+.claimcoderz.live
 .claimed-pengu.app
 .www.claimedmoney.com
 .claimether.com
@@ -81695,6 +81698,7 @@
 .eobysuugjotmw.space
 .sptr.eocampaign1.com
 .eociugytvzhad.website
+.eoddlpgtoxkmk.space
 .eodnprwxgjixj.online
 .e.eoeoev.cn
 .m.eoeoev.cn
@@ -88936,6 +88940,7 @@
 .sst.ffcarbon.com
 .ffcb0a79ec.com
 .ffccmm.uk
+.ffcnjt9y5bin1k.rest
 .ffd7edda110035c5.com
 .ffda64859a45f28a.com
 .ffdlzdsluvwjn.online
@@ -89168,6 +89173,7 @@
 .fiammgasse.digital
 .fiange.com
 .fianni.com
+.fiantviandetecla.cyou
 .fiar-international.com
 .ads.fiat-bg.org
 .promo.fiat.com
@@ -92478,6 +92484,7 @@
 .ads.fooyoh.com
 .fopenr.shop
 .stape.fopositivo.com
+.foqfievhzvbjo.com
 .foqqzszs.shop
 .a8clk.for-customer.com
 .for-j.com
@@ -100223,6 +100230,7 @@
 .gizmosandgeeks.com
 .gizpiwtamsi.com
 .gj500.com
+.gjbczbgjon3v3mnql6l5t5f.cfd
 .roosevelt.gjbig.com
 .gjbk0mis4q.com
 .gjctwh.cn
@@ -110788,6 +110796,7 @@
 .m.hm203.cn
 .hm2wjuuus3.execute-api.ap-northeast-1.amazonaws.com
 .hm99-free7apo.gift
+.hmacucmc.in
 .geoip.hmageo.com
 .hmai.jp
 .server.hmanyhands.com.br
@@ -125333,6 +125342,7 @@
 .go.jrwcap.com
 .jrxgcthoussjz.store
 .jrybwitdqjjuo.store
+.jrytryrykweoo.online
 .jrzrqi0au.com
 .js-cloud.com
 .js-cloudflare.com
@@ -129963,6 +129973,7 @@
 .kmbtt.com
 .kmbzzs.com
 .kmcjai.icu
+.kmcqekvzrftev.website
 .kmcsqxlrwvxyh.space
 .kmct.edu.in
 .kmctayurvedacollege.org
@@ -149126,6 +149137,7 @@
 .microfog.me
 .microg.net
 .micrographerzx.com
+.microgull.com
 .microidn.cloud
 .lynx.microl.ink
 .goemail.microlease.com
@@ -157886,6 +157898,7 @@
 .navi36.ru
 .navi38.ru
 .navi39.ru
+.navi42.ru
 .navi45.ru
 .navi5.com
 .navi52.com
@@ -163658,6 +163671,7 @@
 .ntoxrysfys.com
 .tqd.ntpddq.com
 .ntplsyboguywj.store
+.ntqbztfcazmfi.space
 .ntrandingswond.org
 .ntreqriypgoef.online
 .ntrftrksec.com
@@ -168202,6 +168216,7 @@
 .data-a406cb7ed1.onpulson.de
 .data-d10cac15a4.onpulson.de
 .onrbmrwalqttw.website
+.onrcmysho.in
 .analytics.onrecruit.net
 .analytics.onrelayer.co
 .onremlak.com
@@ -182815,7 +182830,6 @@
 .gtm.printsoul.de
 .get.printt.com
 .get.printtapp.com
-.printteestore.com
 .shazzat.prinush.com
 .my.priodokan.com
 .prio.priomartbd.com
@@ -184989,6 +185003,7 @@
 .stats.ptr.moe
 .ptron.net
 .pttlghemsjghh.online
+.pttnkfbbyeywd.online
 .campaign.pttplc.com
 .testcampaign.pttplc.com
 .pttpuhjcczqgn.site
@@ -195748,6 +195763,7 @@
 .rfilmuhipsfdh.online
 .track.msadcenter.rfjq.com
 .rfk2ddbh9.com
+.rfknvbmz.com
 .marketing.rfl.uk.com
 .rflfkqfkpurru.website
 .rfmgepktjvlfi.website
@@ -198656,6 +198672,7 @@
 .click-v4.rpdmkrclk.com
 .gtm.rpempilhadeiras.com.br
 .rpeqmzqgutuxv.online
+.rpesaxxqbzdaj.space
 .rpfree.com
 .ads.rpgdot.com
 .rpgenerator.net
@@ -212067,6 +212084,7 @@
 .ogb2.sobio-etic.com
 .shop.sobmall.com
 .abc.sobolbd.com
+.sobolebuskle.qpon
 .sobot.com
 .stp.sobrebarba.com.br
 .nrtubi.sobrico.com
@@ -231886,6 +231904,7 @@
 .sfvtk.tooturnttony.com
 .toourmarketingef.org
 .tooyrannicidesklang.info
+.tooyuwlmmnbyw.com
 .ssgtm.top-alati.hr
 .top-best.com
 .top-bloggers.com
@@ -241416,6 +241435,7 @@
 .strikenurse.usnursing.com
 .metrics.uso.org
 .usoasopersbefore.org
+.usobfwocitucr.website
 .usocial.pro
 .usonar.jp
 .smetrics.usopen.org
@@ -252916,6 +252936,7 @@
 .whqtuypvdxzdk.website
 .whqxzx.com
 .whr1h.tf
+.whrratitae.cyou
 .whshangsha.com
 .m.whsjg.cn
 .whstvdsqpzlaa.website
@@ -264437,6 +264458,7 @@
 .load.ss.zimzee.com
 .zinaley.com
 .zinamax.pl
+.stats.zincdrive.com
 .zincographical.info
 .zinekrtshkgkl.website
 .data-47ee1b0882.zinema-city.de

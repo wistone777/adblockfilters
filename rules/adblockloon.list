@@ -1,14 +1,14 @@
 #
 #!name=AdBlock Loon
 #!desc=适用于 Loon 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、xinggsf minority-mv、xinggsf。
-#!homepage=https://github.com/217heidai/adblockfilters
-#!raw-url=https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockloon.list
+#!homepage=https://github.com/wistone777/adblockfilters
+#!raw-url=https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockloon.list
 #!tag=AdBlock, 217heidai
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/15 13:37:41
-#!support=266205
+#!date=2026/04/15 15:32:12
+#!support=266227
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,0-0.fr
@@ -6881,6 +6881,7 @@ DOMAIN-SUFFIX,6830dd307dff2ea5.com
 DOMAIN-SUFFIX,683290.cfd
 DOMAIN-SUFFIX,6836aa6c5053e73e.com
 DOMAIN-SUFFIX,6840122afa.com
+DOMAIN-SUFFIX,68437w.top
 DOMAIN-SUFFIX,685ba1f62e.com
 DOMAIN-SUFFIX,685ef18d4735f217.com
 DOMAIN-SUFFIX,685wo.com
@@ -49824,6 +49825,7 @@ DOMAIN-SUFFIX,m.cdouj.com
 DOMAIN-SUFFIX,cdp.asia
 DOMAIN-SUFFIX,cdpogxaq.shop
 DOMAIN-SUFFIX,cdpoker.com
+DOMAIN-SUFFIX,cdptdqdhomh.com
 DOMAIN-SUFFIX,xiazai.cdren.com
 DOMAIN-SUFFIX,cdrhialzwntyu.store
 DOMAIN-SUFFIX,cdrvrs.com
@@ -53428,6 +53430,7 @@ DOMAIN-SUFFIX,claim-trust-wallet.com
 DOMAIN-SUFFIX,claimagainstuber.com
 DOMAIN-SUFFIX,claimbase.to
 DOMAIN-SUFFIX,affil.claimcloud.cz
+DOMAIN-SUFFIX,claimcoderz.live
 DOMAIN-SUFFIX,claimed-pengu.app
 DOMAIN-SUFFIX,www.claimedmoney.com
 DOMAIN-SUFFIX,claimether.com
@@ -81692,6 +81695,7 @@ DOMAIN-SUFFIX,eobwuie.shop
 DOMAIN-SUFFIX,eobysuugjotmw.space
 DOMAIN-SUFFIX,sptr.eocampaign1.com
 DOMAIN-SUFFIX,eociugytvzhad.website
+DOMAIN-SUFFIX,eoddlpgtoxkmk.space
 DOMAIN-SUFFIX,eodnprwxgjixj.online
 DOMAIN-SUFFIX,e.eoeoev.cn
 DOMAIN-SUFFIX,m.eoeoev.cn
@@ -88933,6 +88937,7 @@ DOMAIN-SUFFIX,lending.ffbf.com
 DOMAIN-SUFFIX,sst.ffcarbon.com
 DOMAIN-SUFFIX,ffcb0a79ec.com
 DOMAIN-SUFFIX,ffccmm.uk
+DOMAIN-SUFFIX,ffcnjt9y5bin1k.rest
 DOMAIN-SUFFIX,ffd7edda110035c5.com
 DOMAIN-SUFFIX,ffda64859a45f28a.com
 DOMAIN-SUFFIX,ffdlzdsluvwjn.online
@@ -89165,6 +89170,7 @@ DOMAIN-SUFFIX,stape.fialhoconstrutora.com.br
 DOMAIN-SUFFIX,fiammgasse.digital
 DOMAIN-SUFFIX,fiange.com
 DOMAIN-SUFFIX,fianni.com
+DOMAIN-SUFFIX,fiantviandetecla.cyou
 DOMAIN-SUFFIX,fiar-international.com
 DOMAIN-SUFFIX,ads.fiat-bg.org
 DOMAIN-SUFFIX,promo.fiat.com
@@ -92475,6 +92481,7 @@ DOMAIN-SUFFIX,ads.footymad.net
 DOMAIN-SUFFIX,ads.fooyoh.com
 DOMAIN-SUFFIX,fopenr.shop
 DOMAIN-SUFFIX,stape.fopositivo.com
+DOMAIN-SUFFIX,foqfievhzvbjo.com
 DOMAIN-SUFFIX,foqqzszs.shop
 DOMAIN-SUFFIX,a8clk.for-customer.com
 DOMAIN-SUFFIX,for-j.com
@@ -100220,6 +100227,7 @@ DOMAIN-SUFFIX,mms.gizmodo.com
 DOMAIN-SUFFIX,gizmosandgeeks.com
 DOMAIN-SUFFIX,gizpiwtamsi.com
 DOMAIN-SUFFIX,gj500.com
+DOMAIN-SUFFIX,gjbczbgjon3v3mnql6l5t5f.cfd
 DOMAIN-SUFFIX,roosevelt.gjbig.com
 DOMAIN-SUFFIX,gjbk0mis4q.com
 DOMAIN-SUFFIX,gjctwh.cn
@@ -110785,6 +110793,7 @@ DOMAIN-SUFFIX,e.hm203.cn
 DOMAIN-SUFFIX,m.hm203.cn
 DOMAIN-SUFFIX,hm2wjuuus3.execute-api.ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,hm99-free7apo.gift
+DOMAIN-SUFFIX,hmacucmc.in
 DOMAIN-SUFFIX,geoip.hmageo.com
 DOMAIN-SUFFIX,hmai.jp
 DOMAIN-SUFFIX,server.hmanyhands.com.br
@@ -125330,6 +125339,7 @@ DOMAIN-SUFFIX,jrwbwckkpjjud.website
 DOMAIN-SUFFIX,go.jrwcap.com
 DOMAIN-SUFFIX,jrxgcthoussjz.store
 DOMAIN-SUFFIX,jrybwitdqjjuo.store
+DOMAIN-SUFFIX,jrytryrykweoo.online
 DOMAIN-SUFFIX,jrzrqi0au.com
 DOMAIN-SUFFIX,js-cloud.com
 DOMAIN-SUFFIX,js-cloudflare.com
@@ -129960,6 +129970,7 @@ DOMAIN-SUFFIX,m886.kmbc.com
 DOMAIN-SUFFIX,kmbtt.com
 DOMAIN-SUFFIX,kmbzzs.com
 DOMAIN-SUFFIX,kmcjai.icu
+DOMAIN-SUFFIX,kmcqekvzrftev.website
 DOMAIN-SUFFIX,kmcsqxlrwvxyh.space
 DOMAIN-SUFFIX,kmct.edu.in
 DOMAIN-SUFFIX,kmctayurvedacollege.org
@@ -149123,6 +149134,7 @@ DOMAIN-SUFFIX,www2.microfocus.com
 DOMAIN-SUFFIX,microfog.me
 DOMAIN-SUFFIX,microg.net
 DOMAIN-SUFFIX,micrographerzx.com
+DOMAIN-SUFFIX,microgull.com
 DOMAIN-SUFFIX,microidn.cloud
 DOMAIN-SUFFIX,lynx.microl.ink
 DOMAIN-SUFFIX,goemail.microlease.com
@@ -157883,6 +157895,7 @@ DOMAIN-SUFFIX,navi35.com
 DOMAIN-SUFFIX,navi36.ru
 DOMAIN-SUFFIX,navi38.ru
 DOMAIN-SUFFIX,navi39.ru
+DOMAIN-SUFFIX,navi42.ru
 DOMAIN-SUFFIX,navi45.ru
 DOMAIN-SUFFIX,navi5.com
 DOMAIN-SUFFIX,navi52.com
@@ -163655,6 +163668,7 @@ DOMAIN-SUFFIX,ntoucbwriboqc.site
 DOMAIN-SUFFIX,ntoxrysfys.com
 DOMAIN-SUFFIX,tqd.ntpddq.com
 DOMAIN-SUFFIX,ntplsyboguywj.store
+DOMAIN-SUFFIX,ntqbztfcazmfi.space
 DOMAIN-SUFFIX,ntrandingswond.org
 DOMAIN-SUFFIX,ntreqriypgoef.online
 DOMAIN-SUFFIX,ntrftrksec.com
@@ -168199,6 +168213,7 @@ DOMAIN-SUFFIX,onprgoegobi.digital
 DOMAIN-SUFFIX,data-a406cb7ed1.onpulson.de
 DOMAIN-SUFFIX,data-d10cac15a4.onpulson.de
 DOMAIN-SUFFIX,onrbmrwalqttw.website
+DOMAIN-SUFFIX,onrcmysho.in
 DOMAIN-SUFFIX,analytics.onrecruit.net
 DOMAIN-SUFFIX,analytics.onrelayer.co
 DOMAIN-SUFFIX,onremlak.com
@@ -182812,7 +182827,6 @@ DOMAIN-SUFFIX,printslamdunk.com
 DOMAIN-SUFFIX,gtm.printsoul.de
 DOMAIN-SUFFIX,get.printt.com
 DOMAIN-SUFFIX,get.printtapp.com
-DOMAIN-SUFFIX,printteestore.com
 DOMAIN-SUFFIX,shazzat.prinush.com
 DOMAIN-SUFFIX,my.priodokan.com
 DOMAIN-SUFFIX,prio.priomartbd.com
@@ -184986,6 +185000,7 @@ DOMAIN-SUFFIX,ptqdlabxislis.store
 DOMAIN-SUFFIX,stats.ptr.moe
 DOMAIN-SUFFIX,ptron.net
 DOMAIN-SUFFIX,pttlghemsjghh.online
+DOMAIN-SUFFIX,pttnkfbbyeywd.online
 DOMAIN-SUFFIX,campaign.pttplc.com
 DOMAIN-SUFFIX,testcampaign.pttplc.com
 DOMAIN-SUFFIX,pttpuhjcczqgn.site
@@ -195745,6 +195760,7 @@ DOMAIN-SUFFIX,rfihub.net
 DOMAIN-SUFFIX,rfilmuhipsfdh.online
 DOMAIN-SUFFIX,track.msadcenter.rfjq.com
 DOMAIN-SUFFIX,rfk2ddbh9.com
+DOMAIN-SUFFIX,rfknvbmz.com
 DOMAIN-SUFFIX,marketing.rfl.uk.com
 DOMAIN-SUFFIX,rflfkqfkpurru.website
 DOMAIN-SUFFIX,rfmgepktjvlfi.website
@@ -198653,6 +198669,7 @@ DOMAIN-SUFFIX,mdws.rpcul.com
 DOMAIN-SUFFIX,click-v4.rpdmkrclk.com
 DOMAIN-SUFFIX,gtm.rpempilhadeiras.com.br
 DOMAIN-SUFFIX,rpeqmzqgutuxv.online
+DOMAIN-SUFFIX,rpesaxxqbzdaj.space
 DOMAIN-SUFFIX,rpfree.com
 DOMAIN-SUFFIX,ads.rpgdot.com
 DOMAIN-SUFFIX,rpgenerator.net
@@ -212064,6 +212081,7 @@ DOMAIN-SUFFIX,sobin.wang
 DOMAIN-SUFFIX,ogb2.sobio-etic.com
 DOMAIN-SUFFIX,shop.sobmall.com
 DOMAIN-SUFFIX,abc.sobolbd.com
+DOMAIN-SUFFIX,sobolebuskle.qpon
 DOMAIN-SUFFIX,sobot.com
 DOMAIN-SUFFIX,stp.sobrebarba.com.br
 DOMAIN-SUFFIX,nrtubi.sobrico.com
@@ -231883,6 +231901,7 @@ DOMAIN-SUFFIX,tootsykyklops.com
 DOMAIN-SUFFIX,sfvtk.tooturnttony.com
 DOMAIN-SUFFIX,toourmarketingef.org
 DOMAIN-SUFFIX,tooyrannicidesklang.info
+DOMAIN-SUFFIX,tooyuwlmmnbyw.com
 DOMAIN-SUFFIX,ssgtm.top-alati.hr
 DOMAIN-SUFFIX,top-best.com
 DOMAIN-SUFFIX,top-bloggers.com
@@ -241413,6 +241432,7 @@ DOMAIN-SUFFIX,strikeclient.usnursing.com
 DOMAIN-SUFFIX,strikenurse.usnursing.com
 DOMAIN-SUFFIX,metrics.uso.org
 DOMAIN-SUFFIX,usoasopersbefore.org
+DOMAIN-SUFFIX,usobfwocitucr.website
 DOMAIN-SUFFIX,usocial.pro
 DOMAIN-SUFFIX,usonar.jp
 DOMAIN-SUFFIX,smetrics.usopen.org
@@ -252913,6 +252933,7 @@ DOMAIN-SUFFIX,whqhb.com
 DOMAIN-SUFFIX,whqtuypvdxzdk.website
 DOMAIN-SUFFIX,whqxzx.com
 DOMAIN-SUFFIX,whr1h.tf
+DOMAIN-SUFFIX,whrratitae.cyou
 DOMAIN-SUFFIX,whshangsha.com
 DOMAIN-SUFFIX,m.whsjg.cn
 DOMAIN-SUFFIX,whstvdsqpzlaa.website
@@ -264434,6 +264455,7 @@ DOMAIN-SUFFIX,csudubxs.zimxfxq.cn
 DOMAIN-SUFFIX,load.ss.zimzee.com
 DOMAIN-SUFFIX,zinaley.com
 DOMAIN-SUFFIX,zinamax.pl
+DOMAIN-SUFFIX,stats.zincdrive.com
 DOMAIN-SUFFIX,zincographical.info
 DOMAIN-SUFFIX,zinekrtshkgkl.website
 DOMAIN-SUFFIX,data-47ee1b0882.zinema-city.de
