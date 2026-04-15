@@ -144,4 +144,3 @@ class ReadMe(object):
             
             f.write("## Star History\n")
             f.write("[![Star History Chart](https://api.star-history.com/svg?repos=wistone777/adblockfilters&type=Date)](https://star-history.com/#wistone777/adblockfilters&Date)\n")
-            '''
