@@ -4,9 +4,9 @@ payload:
   # Description: 适用于 Clash Meta(Mihomo) 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、xinggsf minority-mv、xinggsf。
   # Homepage: https://github.com/217heidai/adblockfilters
   # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmihomo.yaml
-  # Version: 20260415131341
-  # Last modified: 2026/04/15 13:13:41
-  # Blocked domains: 266194
+  # Version: 20260415133741
+  # Last modified: 2026/04/15 13:37:41
+  # Blocked domains: 266205
   #
   - '+.0-0.fr'
   - '+.0-02.net'
@@ -39643,6 +39643,7 @@ payload:
   - '+.js.blozoo.info'
   - '+.blpigisjqbykc.site'
   - '+.logs.blpprofessional.com'
+  - '+.blqizdrxcwddt.space'
   - '+.images.learn.blr.com'
   - '+.blrwsnwnvkqzh.online'
   - '+.blrzaikduqaar.site'
@@ -56236,6 +56237,7 @@ payload:
   - '+.cogmatch.net'
   - '+.cogmineo.com'
   - '+.data.relacionamento.cogna.com.br'
+  - '+.cognacjugfuls.cfd'
   - '+.cognateglobal.com'
   - '+.cognatesyringe.com'
   - '+.cognativex.com'
@@ -93250,6 +93252,7 @@ payload:
   - '+.analytics.foxgreen.eu'
   - '+.sstcokis.foxhavenroof.com'
   - '+.foxiceberg.com'
+  - '+.foxilymonacan.qpon'
   - '+.adlog.foxitcloud.com'
   - '+.go.foxitinfo.com'
   - '+.ad.foxitsoftware.com'
@@ -97652,6 +97655,7 @@ payload:
   - '+.gawije.com'
   - '+.ads.gawker.com'
   - '+.track.gawker.com'
+  - '+.gawmuighur.cfd'
   - '+.gaxkyokrghyts.online'
   - '+.analytics.gay.it'
   - '+.gayadnetwork.com'
@@ -116441,6 +116445,7 @@ payload:
   - '+.smetrics.illinois.gov'
   - '+.illinvention.com'
   - '+.illjusthavewater.com'
+  - '+.illocalditing.cyou'
   - '+.illogicalinvitationexaltation.com'
   - '+.illogicalminds.com'
   - '+.illshop.net'
@@ -118422,6 +118427,7 @@ payload:
   - '+.ads.inq.com'
   - '+.bell.inq.com'
   - '+.oascentral.inq7.net'
+  - '+.inqikfoggojrie.com'
   - '+.inqmrfxxutoyp.online'
   - '+.m.inqra.cn'
   - '+.load.server.inquilinoconfiavel.com.br'
@@ -175187,6 +175193,7 @@ payload:
   - '+.gtm.pericoco.com.br'
   - '+.server.pericoco.com.br'
   - '+.go.pericom.com'
+  - '+.pericupygmies.qpon'
   - '+.pericycle.info'
   - '+.hgiri.peridonentertainment.com'
   - '+.t.perigold.com'
@@ -212338,6 +212345,7 @@ payload:
   - '+.metrics.softwareag.com'
   - '+.smetrics.softwareag.com'
   - '+.go.softwareaggov.com'
+  - '+.www.softwarebeginner.com'
   - '+.sst.softwareeule.de'
   - '+.gtm.softwareg.com.au'
   - '+.amare.softwaregarden.com'
@@ -219711,6 +219719,7 @@ payload:
   - '+.mkzpqu.sungboon.com'
   - '+.sunglassescontrary.com'
   - '+.sunglassesexpensive.com'
+  - '+.www.sunglassesfor.com'
   - '+.smetrics.sunglasshut.com'
   - '+.sunglassmasters.com'
   - '+.ccteax.sunglasswarehouse.com'
@@ -244112,6 +244121,7 @@ payload:
   - '+.ggl.verlichtingtrends.nl'
   - '+.intlsyncviewaccweboaekrmboame9q3hrigo.vermelena2.biz.id'
   - '+.mdws.vermilioncreditunion.com'
+  - '+.vermixwaltzerhavance.cyou'
   - '+.metrics.vermontcountrystore.com'
   - '+.smetrics.vermontcountrystore.com'
   - '+.smetrics.vermontcreamery.com'
@@ -253963,6 +253973,7 @@ payload:
   - '+.app.wish2wash.com'
   - '+.a.wishabi.com'
   - '+.b.wishabi.com'
+  - '+.wishasolves.shop'
   - '+.wishcraft.co.in'
   - '+.wishdownget.com'
   - '+.server-side.wishes-from-africa.com'

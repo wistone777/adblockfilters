@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、xinggsf minority-mv、xinggsf。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasq.txt
-# Version: 20260415131341
-# Last modified: 2026/04/15 13:13:41
-# Blocked domains: 266194
+# Version: 20260415133741
+# Last modified: 2026/04/15 13:37:41
+# Blocked domains: 266205
 #
 local=/0-0.fr/
 local=/0-02.net/
@@ -39642,6 +39642,7 @@ local=/cache.blozoo.info/
 local=/js.blozoo.info/
 local=/blpigisjqbykc.site/
 local=/logs.blpprofessional.com/
+local=/blqizdrxcwddt.space/
 local=/images.learn.blr.com/
 local=/blrwsnwnvkqzh.online/
 local=/blrzaikduqaar.site/
@@ -56235,6 +56236,7 @@ local=/cogivea.com/
 local=/cogmatch.net/
 local=/cogmineo.com/
 local=/data.relacionamento.cogna.com.br/
+local=/cognacjugfuls.cfd/
 local=/cognateglobal.com/
 local=/cognatesyringe.com/
 local=/cognativex.com/
@@ -93249,6 +93251,7 @@ local=/foxfamilyoffice.ru/
 local=/analytics.foxgreen.eu/
 local=/sstcokis.foxhavenroof.com/
 local=/foxiceberg.com/
+local=/foxilymonacan.qpon/
 local=/adlog.foxitcloud.com/
 local=/go.foxitinfo.com/
 local=/ad.foxitsoftware.com/
@@ -97651,6 +97654,7 @@ local=/gawelda.pl/
 local=/gawije.com/
 local=/ads.gawker.com/
 local=/track.gawker.com/
+local=/gawmuighur.cfd/
 local=/gaxkyokrghyts.online/
 local=/analytics.gay.it/
 local=/gayadnetwork.com/
@@ -116440,6 +116444,7 @@ local=/metrics.illinois.gov/
 local=/smetrics.illinois.gov/
 local=/illinvention.com/
 local=/illjusthavewater.com/
+local=/illocalditing.cyou/
 local=/illogicalinvitationexaltation.com/
 local=/illogicalminds.com/
 local=/illshop.net/
@@ -118421,6 +118426,7 @@ local=/inpwrd.com/
 local=/ads.inq.com/
 local=/bell.inq.com/
 local=/oascentral.inq7.net/
+local=/inqikfoggojrie.com/
 local=/inqmrfxxutoyp.online/
 local=/m.inqra.cn/
 local=/load.server.inquilinoconfiavel.com.br/
@@ -175186,6 +175192,7 @@ local=/tr.mail.perial.info/
 local=/gtm.pericoco.com.br/
 local=/server.pericoco.com.br/
 local=/go.pericom.com/
+local=/pericupygmies.qpon/
 local=/pericycle.info/
 local=/hgiri.peridonentertainment.com/
 local=/t.perigold.com/
@@ -212337,6 +212344,7 @@ local=/email.softwareag.com/
 local=/metrics.softwareag.com/
 local=/smetrics.softwareag.com/
 local=/go.softwareaggov.com/
+local=/www.softwarebeginner.com/
 local=/sst.softwareeule.de/
 local=/gtm.softwareg.com.au/
 local=/amare.softwaregarden.com/
@@ -219710,6 +219718,7 @@ local=/nsm.sungardas.com/
 local=/mkzpqu.sungboon.com/
 local=/sunglassescontrary.com/
 local=/sunglassesexpensive.com/
+local=/www.sunglassesfor.com/
 local=/smetrics.sunglasshut.com/
 local=/sunglassmasters.com/
 local=/ccteax.sunglasswarehouse.com/
@@ -244111,6 +244120,7 @@ local=/verlficationguest-reserv.com/
 local=/ggl.verlichtingtrends.nl/
 local=/intlsyncviewaccweboaekrmboame9q3hrigo.vermelena2.biz.id/
 local=/mdws.vermilioncreditunion.com/
+local=/vermixwaltzerhavance.cyou/
 local=/metrics.vermontcountrystore.com/
 local=/smetrics.vermontcountrystore.com/
 local=/smetrics.vermontcreamery.com/
@@ -253962,6 +253972,7 @@ local=/metrics.wish.org/
 local=/app.wish2wash.com/
 local=/a.wishabi.com/
 local=/b.wishabi.com/
+local=/wishasolves.shop/
 local=/wishcraft.co.in/
 local=/wishdownget.com/
 local=/server-side.wishes-from-africa.com/

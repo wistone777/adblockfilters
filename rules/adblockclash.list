@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、xinggsf minority-mv、xinggsf。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclash.list
-# Version: 20260415131341
-# Last modified: 2026/04/15 13:13:41
-# Blocked domains: 266194
+# Version: 20260415133741
+# Last modified: 2026/04/15 13:37:41
+# Blocked domains: 266205
 #
 [Rule]
 DOMAIN-SUFFIX,0-0.fr,REJECT-DROP
@@ -39643,6 +39643,7 @@ DOMAIN-SUFFIX,cache.blozoo.info,REJECT-DROP
 DOMAIN-SUFFIX,js.blozoo.info,REJECT-DROP
 DOMAIN-SUFFIX,blpigisjqbykc.site,REJECT-DROP
 DOMAIN-SUFFIX,logs.blpprofessional.com,REJECT-DROP
+DOMAIN-SUFFIX,blqizdrxcwddt.space,REJECT-DROP
 DOMAIN-SUFFIX,images.learn.blr.com,REJECT-DROP
 DOMAIN-SUFFIX,blrwsnwnvkqzh.online,REJECT-DROP
 DOMAIN-SUFFIX,blrzaikduqaar.site,REJECT-DROP
@@ -56236,6 +56237,7 @@ DOMAIN-SUFFIX,cogivea.com,REJECT-DROP
 DOMAIN-SUFFIX,cogmatch.net,REJECT-DROP
 DOMAIN-SUFFIX,cogmineo.com,REJECT-DROP
 DOMAIN-SUFFIX,data.relacionamento.cogna.com.br,REJECT-DROP
+DOMAIN-SUFFIX,cognacjugfuls.cfd,REJECT-DROP
 DOMAIN-SUFFIX,cognateglobal.com,REJECT-DROP
 DOMAIN-SUFFIX,cognatesyringe.com,REJECT-DROP
 DOMAIN-SUFFIX,cognativex.com,REJECT-DROP
@@ -93250,6 +93252,7 @@ DOMAIN-SUFFIX,foxfamilyoffice.ru,REJECT-DROP
 DOMAIN-SUFFIX,analytics.foxgreen.eu,REJECT-DROP
 DOMAIN-SUFFIX,sstcokis.foxhavenroof.com,REJECT-DROP
 DOMAIN-SUFFIX,foxiceberg.com,REJECT-DROP
+DOMAIN-SUFFIX,foxilymonacan.qpon,REJECT-DROP
 DOMAIN-SUFFIX,adlog.foxitcloud.com,REJECT-DROP
 DOMAIN-SUFFIX,go.foxitinfo.com,REJECT-DROP
 DOMAIN-SUFFIX,ad.foxitsoftware.com,REJECT-DROP
@@ -97652,6 +97655,7 @@ DOMAIN-SUFFIX,gawelda.pl,REJECT-DROP
 DOMAIN-SUFFIX,gawije.com,REJECT-DROP
 DOMAIN-SUFFIX,ads.gawker.com,REJECT-DROP
 DOMAIN-SUFFIX,track.gawker.com,REJECT-DROP
+DOMAIN-SUFFIX,gawmuighur.cfd,REJECT-DROP
 DOMAIN-SUFFIX,gaxkyokrghyts.online,REJECT-DROP
 DOMAIN-SUFFIX,analytics.gay.it,REJECT-DROP
 DOMAIN-SUFFIX,gayadnetwork.com,REJECT-DROP
@@ -116441,6 +116445,7 @@ DOMAIN-SUFFIX,metrics.illinois.gov,REJECT-DROP
 DOMAIN-SUFFIX,smetrics.illinois.gov,REJECT-DROP
 DOMAIN-SUFFIX,illinvention.com,REJECT-DROP
 DOMAIN-SUFFIX,illjusthavewater.com,REJECT-DROP
+DOMAIN-SUFFIX,illocalditing.cyou,REJECT-DROP
 DOMAIN-SUFFIX,illogicalinvitationexaltation.com,REJECT-DROP
 DOMAIN-SUFFIX,illogicalminds.com,REJECT-DROP
 DOMAIN-SUFFIX,illshop.net,REJECT-DROP
@@ -118422,6 +118427,7 @@ DOMAIN-SUFFIX,inpwrd.com,REJECT-DROP
 DOMAIN-SUFFIX,ads.inq.com,REJECT-DROP
 DOMAIN-SUFFIX,bell.inq.com,REJECT-DROP
 DOMAIN-SUFFIX,oascentral.inq7.net,REJECT-DROP
+DOMAIN-SUFFIX,inqikfoggojrie.com,REJECT-DROP
 DOMAIN-SUFFIX,inqmrfxxutoyp.online,REJECT-DROP
 DOMAIN-SUFFIX,m.inqra.cn,REJECT-DROP
 DOMAIN-SUFFIX,load.server.inquilinoconfiavel.com.br,REJECT-DROP
@@ -175187,6 +175193,7 @@ DOMAIN-SUFFIX,tr.mail.perial.info,REJECT-DROP
 DOMAIN-SUFFIX,gtm.pericoco.com.br,REJECT-DROP
 DOMAIN-SUFFIX,server.pericoco.com.br,REJECT-DROP
 DOMAIN-SUFFIX,go.pericom.com,REJECT-DROP
+DOMAIN-SUFFIX,pericupygmies.qpon,REJECT-DROP
 DOMAIN-SUFFIX,pericycle.info,REJECT-DROP
 DOMAIN-SUFFIX,hgiri.peridonentertainment.com,REJECT-DROP
 DOMAIN-SUFFIX,t.perigold.com,REJECT-DROP
@@ -212338,6 +212345,7 @@ DOMAIN-SUFFIX,email.softwareag.com,REJECT-DROP
 DOMAIN-SUFFIX,metrics.softwareag.com,REJECT-DROP
 DOMAIN-SUFFIX,smetrics.softwareag.com,REJECT-DROP
 DOMAIN-SUFFIX,go.softwareaggov.com,REJECT-DROP
+DOMAIN-SUFFIX,www.softwarebeginner.com,REJECT-DROP
 DOMAIN-SUFFIX,sst.softwareeule.de,REJECT-DROP
 DOMAIN-SUFFIX,gtm.softwareg.com.au,REJECT-DROP
 DOMAIN-SUFFIX,amare.softwaregarden.com,REJECT-DROP
@@ -219711,6 +219719,7 @@ DOMAIN-SUFFIX,nsm.sungardas.com,REJECT-DROP
 DOMAIN-SUFFIX,mkzpqu.sungboon.com,REJECT-DROP
 DOMAIN-SUFFIX,sunglassescontrary.com,REJECT-DROP
 DOMAIN-SUFFIX,sunglassesexpensive.com,REJECT-DROP
+DOMAIN-SUFFIX,www.sunglassesfor.com,REJECT-DROP
 DOMAIN-SUFFIX,smetrics.sunglasshut.com,REJECT-DROP
 DOMAIN-SUFFIX,sunglassmasters.com,REJECT-DROP
 DOMAIN-SUFFIX,ccteax.sunglasswarehouse.com,REJECT-DROP
@@ -244112,6 +244121,7 @@ DOMAIN-SUFFIX,verlficationguest-reserv.com,REJECT-DROP
 DOMAIN-SUFFIX,ggl.verlichtingtrends.nl,REJECT-DROP
 DOMAIN-SUFFIX,intlsyncviewaccweboaekrmboame9q3hrigo.vermelena2.biz.id,REJECT-DROP
 DOMAIN-SUFFIX,mdws.vermilioncreditunion.com,REJECT-DROP
+DOMAIN-SUFFIX,vermixwaltzerhavance.cyou,REJECT-DROP
 DOMAIN-SUFFIX,metrics.vermontcountrystore.com,REJECT-DROP
 DOMAIN-SUFFIX,smetrics.vermontcountrystore.com,REJECT-DROP
 DOMAIN-SUFFIX,smetrics.vermontcreamery.com,REJECT-DROP
@@ -253963,6 +253973,7 @@ DOMAIN-SUFFIX,metrics.wish.org,REJECT-DROP
 DOMAIN-SUFFIX,app.wish2wash.com,REJECT-DROP
 DOMAIN-SUFFIX,a.wishabi.com,REJECT-DROP
 DOMAIN-SUFFIX,b.wishabi.com,REJECT-DROP
+DOMAIN-SUFFIX,wishasolves.shop,REJECT-DROP
 DOMAIN-SUFFIX,wishcraft.co.in,REJECT-DROP
 DOMAIN-SUFFIX,wishdownget.com,REJECT-DROP
 DOMAIN-SUFFIX,server-side.wishes-from-africa.com,REJECT-DROP
