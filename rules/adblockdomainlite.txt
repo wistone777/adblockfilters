@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20260416011708
-! Last modified: 2026/04/16 01:17:08
-! Blocked domains: 5700
+! Version: 20260416113957
+! Last modified: 2026/04/16 11:39:57
+! Blocked domains: 5697
 !
 024e3a9ad63e4fbd.com
 img.0279.net
@@ -549,7 +549,6 @@ eu-datareceiver.aki-game.net
 hk-datareceiver.aki-game.net
 jp-datareceiver.aki-game.net
 us-datareceiver.aki-game.net
-akks-telegram.com.cn
 ako.cc
 al-safew.com.cn
 alertcenter.hn.cn
@@ -3472,7 +3471,6 @@ pmm.people.com.cn
 pepnsnq.cn
 pepsico.com.cn
 petersonjace.shop
-pfd-google.com.cn
 pfdth.cn
 pfkuailian.com.cn
 pfqwbqs.cn
@@ -3542,7 +3540,6 @@ ptmabek.cn
 ptmind.com
 puchao.hl.cn
 pufhzpt.cn
-pulton.info
 pig.pupuapi.com
 puqer.cn
 purebuy.club
