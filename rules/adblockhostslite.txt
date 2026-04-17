@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/wistone777/adblockfilters
 # Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260417012544
-# Last modified: 2026/04/17 01:25:44
-# Blocked domains: 7664
+# Version: 20260417113559
+# Last modified: 2026/04/17 11:35:59
+# Blocked domains: 7657
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -4027,7 +4027,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	lltckjyxgs.com
 0.0.0.0	lme-kuailian.com.cn
 0.0.0.0	elsbhefb.lmfnil.cn
-0.0.0.0	lmqyz.com
 0.0.0.0	lnk0.com
 0.0.0.0	lnk8.cn
 0.0.0.0	lnme1q1qa.com
@@ -4860,17 +4859,14 @@ ff02::3	ip6-allhosts
 0.0.0.0	qfcdgy.cn
 0.0.0.0	qfe3hfbo.cn
 0.0.0.0	qff3kvis.cn
-0.0.0.0	qff3wkdu.cn
 0.0.0.0	qfg8gvgd.cn
 0.0.0.0	qfg8oksb.cn
 0.0.0.0	qfh5tgyv.cn
-0.0.0.0	qfh6yyag.cn
 0.0.0.0	qfh8izze.cn
 0.0.0.0	qfl5tjhf.cn
 0.0.0.0	qfn4tjkw.cn
 0.0.0.0	qfq4ulbo.cn
 0.0.0.0	qfs9bkgd.cn
-0.0.0.0	qft0ozkw.cn
 0.0.0.0	qfw5oook.cn
 0.0.0.0	qg6uf.cn
 0.0.0.0	qgkuailian.com.cn
@@ -5260,7 +5256,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	images.response.reedexpo.com.cn
 0.0.0.0	news.reedexpo.com.cn
 0.0.0.0	solutions.refinitiv.cn
-0.0.0.0	yst.remenci.cn
 0.0.0.0	www2.info.renesas.cn
 0.0.0.0	ebp.renren.com
 0.0.0.0	jebe.renren.com
@@ -7209,7 +7204,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	yitongwl.cn
 0.0.0.0	info.yitsoftware.com
 0.0.0.0	yiwk.com
-0.0.0.0	oy.yiygwl.cn
 0.0.0.0	wr.yiyouliao.com
 0.0.0.0	a.yjbys.com
 0.0.0.0	abc.yjbys.com
@@ -7363,7 +7357,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	yunzuowen.com
 0.0.0.0	yuyue008.cn
 0.0.0.0	yvdb.cn
-0.0.0.0	yvibptl.cn
 0.0.0.0	yw78.cn
 0.0.0.0	yw800.com.cn
 0.0.0.0	ywkkmze.cn
@@ -7501,7 +7494,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	zhihu-web-analytics.zhihu.com
 0.0.0.0	collector2c.zhihuishu.com
 0.0.0.0	analytics.zhihuiya.com
-0.0.0.0	zhikey.com
+0.0.0.0	www.zhikey.com
 0.0.0.0	zhilingshidai.com
 0.0.0.0	zhimaad.cn
 0.0.0.0	zhimengad.com

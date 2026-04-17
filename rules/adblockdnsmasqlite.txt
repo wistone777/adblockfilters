@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/wistone777/adblockfilters
 # Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260417012544
-# Last modified: 2026/04/17 01:25:44
-# Blocked domains: 7664
+# Version: 20260417113559
+# Last modified: 2026/04/17 11:35:59
+# Blocked domains: 7657
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -4012,7 +4012,6 @@ local=/ll-kuailian.hl.cn/
 local=/lltckjyxgs.com/
 local=/lme-kuailian.com.cn/
 local=/elsbhefb.lmfnil.cn/
-local=/lmqyz.com/
 local=/lnk0.com/
 local=/lnk8.cn/
 local=/lnme1q1qa.com/
@@ -4845,17 +4844,14 @@ local=/qfb5yhis.cn/
 local=/qfcdgy.cn/
 local=/qfe3hfbo.cn/
 local=/qff3kvis.cn/
-local=/qff3wkdu.cn/
 local=/qfg8gvgd.cn/
 local=/qfg8oksb.cn/
 local=/qfh5tgyv.cn/
-local=/qfh6yyag.cn/
 local=/qfh8izze.cn/
 local=/qfl5tjhf.cn/
 local=/qfn4tjkw.cn/
 local=/qfq4ulbo.cn/
 local=/qfs9bkgd.cn/
-local=/qft0ozkw.cn/
 local=/qfw5oook.cn/
 local=/qg6uf.cn/
 local=/qgkuailian.com.cn/
@@ -5245,7 +5241,6 @@ local=/a8cv.jp.redodopower.com/
 local=/images.response.reedexpo.com.cn/
 local=/news.reedexpo.com.cn/
 local=/solutions.refinitiv.cn/
-local=/yst.remenci.cn/
 local=/www2.info.renesas.cn/
 local=/ebp.renren.com/
 local=/jebe.renren.com/
@@ -7194,7 +7189,6 @@ local=/photo.yishuhuanbao.cn/
 local=/yitongwl.cn/
 local=/info.yitsoftware.com/
 local=/yiwk.com/
-local=/oy.yiygwl.cn/
 local=/wr.yiyouliao.com/
 local=/a.yjbys.com/
 local=/abc.yjbys.com/
@@ -7348,7 +7342,6 @@ local=/yunzhanghe.cn/
 local=/yunzuowen.com/
 local=/yuyue008.cn/
 local=/yvdb.cn/
-local=/yvibptl.cn/
 local=/yw78.cn/
 local=/yw800.com.cn/
 local=/ywkkmze.cn/
@@ -7486,7 +7479,7 @@ local=/sugar.zhihu.com/
 local=/zhihu-web-analytics.zhihu.com/
 local=/collector2c.zhihuishu.com/
 local=/analytics.zhihuiya.com/
-local=/zhikey.com/
+local=/www.zhikey.com/
 local=/zhilingshidai.com/
 local=/zhimaad.cn/
 local=/zhimengad.com/
