@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX’s Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、neodevhost。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/wistone777/adblockfilters
 # Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20260418091714
-# Last modified: 2026/04/18 09:17:14
-# Blocked domains: 7768
+# Version: 20260418112354
+# Last modified: 2026/04/18 11:23:54
+# Blocked domains: 7764
 #
 [Rule]
 DOMAIN-SUFFIX,011211.cn,REJECT-DROP
@@ -2602,7 +2602,6 @@ DOMAIN-SUFFIX,getmyip.top,REJECT-DROP
 DOMAIN-SUFFIX,getui.com,REJECT-DROP
 DOMAIN-SUFFIX,biz.gexing.com,REJECT-DROP
 DOMAIN-SUFFIX,m.gexings.com,REJECT-DROP
-DOMAIN-SUFFIX,gf-telegram.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,safebrowsing.urlsec.gg.com,REJECT-DROP
 DOMAIN-SUFFIX,ggmm777.com,REJECT-DROP
 DOMAIN-SUFFIX,ggooglle-chrrome.com.cn,REJECT-DROP
@@ -4707,7 +4706,6 @@ DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao4.com,REJECT-DROP
 DOMAIN-SUFFIX,panoeye.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,c.panqis.cn,REJECT-DROP
 DOMAIN-SUFFIX,jipinapi.panqis.cn,REJECT-DROP
-DOMAIN-SUFFIX,parking-pcnms.cn,REJECT-DROP
 DOMAIN-SUFFIX,partnerboost.com,REJECT-DROP
 DOMAIN-SUFFIX,pasco.cc,REJECT-DROP
 DOMAIN-SUFFIX,passionsex.vip,REJECT-DROP
@@ -5447,7 +5445,6 @@ DOMAIN-SUFFIX,aa.sdo.com,REJECT-DROP
 DOMAIN-SUFFIX,adrs.sdo.com,REJECT-DROP
 DOMAIN-SUFFIX,dwtracking.sdo.com,REJECT-DROP
 DOMAIN-SUFFIX,reportsk.web.sdo.com,REJECT-DROP
-DOMAIN-SUFFIX,sdthnpq.cn,REJECT-DROP
 DOMAIN-SUFFIX,p.sdu8cvc.com,REJECT-DROP
 DOMAIN-SUFFIX,sdxitong.com,REJECT-DROP
 DOMAIN-SUFFIX,sdyongyan.com.cn,REJECT-DROP
@@ -7211,7 +7208,6 @@ DOMAIN-SUFFIX,yahoo.gd.cn,REJECT-DROP
 DOMAIN-SUFFIX,yahoo.hb.cn,REJECT-DROP
 DOMAIN-SUFFIX,yahoo.hk.cn,REJECT-DROP
 DOMAIN-SUFFIX,yahoo.tj.cn,REJECT-DROP
-DOMAIN-SUFFIX,yaioo.cn,REJECT-DROP
 DOMAIN-SUFFIX,m.yalayi.com,REJECT-DROP
 DOMAIN-SUFFIX,w.yamaidei.cn,REJECT-DROP
 DOMAIN-SUFFIX,cmta.yangkeduo.com,REJECT-DROP
