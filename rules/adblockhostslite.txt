@@ -1,11 +1,11 @@
 #
 # Title: AdBlock Hosts Lite
-# Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD。Lite 版仅针对国内域名拦截。
+# Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX’s Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、neodevhost。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/wistone777/adblockfilters
 # Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260418010324
-# Last modified: 2026/04/18 01:03:24
-# Blocked domains: 7751
+# Version: 20260418091714
+# Last modified: 2026/04/18 09:17:14
+# Blocked domains: 7768
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -50,6 +50,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	0941.org
 0.0.0.0	cdn.0i-i0.com
 0.0.0.0	0n6h.cn
+0.0.0.0	0ss1vl.cn
 0.0.0.0	25w.0tzp8c.cn
 0.0.0.0	0wk6gdkg8r.com
 0.0.0.0	0x5.me
@@ -595,6 +596,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	8181zx.com
 0.0.0.0	8315.cn
 0.0.0.0	83692.com
+0.0.0.0	84207.cc
 0.0.0.0	84232.com
 0.0.0.0	849558.com
 0.0.0.0	uxek.85nv96.cn
@@ -690,6 +692,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ac-apps-google-hl.hl.cn
 0.0.0.0	acc-ackuailiandc.com.cn
 0.0.0.0	acc-kuailians.com.cn
+0.0.0.0	acceskc.com
 0.0.0.0	apilog-web.acfun.cn
 0.0.0.0	apilog.app.acfun.cn
 0.0.0.0	jscode.acg68.com
@@ -1061,6 +1064,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	app7kuailian.com.cn
 0.0.0.0	app9kuailian.com.cn
 0.0.0.0	appadhoc.net
+0.0.0.0	appc-zoom.com.cn
 0.0.0.0	mobile.appchina.com
 0.0.0.0	appdriver.cn
 0.0.0.0	appdriver.com.cn
@@ -1143,6 +1147,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	umami.azhubaby.com
 0.0.0.0	azm-kuailian.com.cn
 0.0.0.0	azu0jytzgm.com
+0.0.0.0	b258v.xyz
 0.0.0.0	b1.b2b168.com
 0.0.0.0	b1.b2b168.net
 0.0.0.0	ee.b2fwnu.cn
@@ -1916,6 +1921,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	a1.cyyangqiguan.com
 0.0.0.0	straighttangerine.cz.cc
 0.0.0.0	cz4444.cn
+0.0.0.0	czanshunda.com
 0.0.0.0	c1.czcol.cn
 0.0.0.0	m.czxjx.cn
 0.0.0.0	bd.czxuexi.com
@@ -2042,6 +2048,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	c.dengbaozx.cn
 0.0.0.0	v.dengbaozx.cn
 0.0.0.0	aem.dentsuchina.cn
+0.0.0.0	designerwatches.cn
 0.0.0.0	www.destinationurl.com
 0.0.0.0	msz3.destinia.cn
 0.0.0.0	detailroi.com
@@ -2483,7 +2490,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	t-e.flyme.cn
 0.0.0.0	t-flow.flyme.cn
 0.0.0.0	log-auth.flysleep.cn
-0.0.0.0	flyye.cn
 0.0.0.0	www.fm120.com
 0.0.0.0	api.sdk.fmobi.cn
 0.0.0.0	accoun.fnmgr.cn
@@ -3042,6 +3048,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	stun.hitv.com
 0.0.0.0	hj217.com
 0.0.0.0	gentian-frd.hjapi.com
+0.0.0.0	hjcdcgw-qx.cn
 0.0.0.0	resu8.hjfile.cn
 0.0.0.0	hjgen.cn
 0.0.0.0	hjpqt.cn
@@ -3106,6 +3113,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	hrkuailian.hl.cn
 0.0.0.0	cdnjs.hro-cosmetics.com
 0.0.0.0	hs-kuailian.com.cn
+0.0.0.0	hs6htt.com
 0.0.0.0	hseda.com
 0.0.0.0	hsehk.cn
 0.0.0.0	hsrgnac.cn
@@ -3447,6 +3455,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	adstat.izuiyou.com
 0.0.0.0	xladapi.izuiyou.com
 0.0.0.0	xlstat.izuiyou.com
+0.0.0.0	j350b.xyz
 0.0.0.0	j3n6x.co
 0.0.0.0	jab88.com
 0.0.0.0	eventlog.jackpot.de
@@ -4147,6 +4156,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	mathtype.cn
 0.0.0.0	metrics.mathworks.cn
 0.0.0.0	smetrics.mathworks.cn
+0.0.0.0	maxisaie.vip
+0.0.0.0	maxisrm.vip
 0.0.0.0	maxisuik.vip
 0.0.0.0	maxreturn.cn
 0.0.0.0	mazarine-ap.com
@@ -4211,6 +4222,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	tracking.m.mercedes-benz.com.cn
 0.0.0.0	tracking.t.mercedes-benz.com.cn
 0.0.0.0	mernrza.com
+0.0.0.0	mesmall.cn
 0.0.0.0	metaversemolecule.com
 0.0.0.0	metaword.cn
 0.0.0.0	analytics.metro.cn
@@ -5362,6 +5374,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	rui61.cn
 0.0.0.0	ruiing.com
 0.0.0.0	ldk.ruiyufangchan.cn
+0.0.0.0	rukee.cyou
 0.0.0.0	rumt-sg.com
 0.0.0.0	rumt-zh.com
 0.0.0.0	abc.ruodian360.com
@@ -5513,6 +5526,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	sigmob.com
 0.0.0.0	smetrics.marketing.signify.com.cn
 0.0.0.0	siguatv.cn
+0.0.0.0	sihuikeji.cn
 0.0.0.0	simengadx.com
 0.0.0.0	simicloud.com
 0.0.0.0	adimg.mobile.sina.cn
@@ -6036,6 +6050,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	tenddata.cn
 0.0.0.0	tengfeidn.cn
 0.0.0.0	m.tenh2.cn
+0.0.0.0	tensai146.icu
 0.0.0.0	tepusi888.cn
 0.0.0.0	answers.teradata.com.cn
 0.0.0.0	testin.cn
@@ -6153,6 +6168,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	tovppl.cn
 0.0.0.0	tq-kuailian.com.cn
 0.0.0.0	trackingio.com
+0.0.0.0	trast.help
 0.0.0.0	trk-kuailian.com.cn
 0.0.0.0	ta.trs.cn
 0.0.0.0	trustutn.org
@@ -6906,6 +6922,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	wxkuailian.com.cn
 0.0.0.0	wy-kuailian.com.cn
 0.0.0.0	wy213.com
+0.0.0.0	wz2010.com.cn
 0.0.0.0	m.wz382.cn
 0.0.0.0	wzaigo.com
 0.0.0.0	wzfjsh.cn

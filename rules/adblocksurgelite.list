@@ -1,6 +1,6 @@
 #
 #!name=AdBlock Surge Lite
-#!desc=适用于 Surge 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD。Lite 版仅针对国内域名拦截。
+#!desc=适用于 Surge 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX’s Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、neodevhost。Lite 版仅针对国内域名拦截。
 #!homepage=https://github.com/wistone777/adblockfilters
 #!raw-url=https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblocksurgelite.list
 #!tag=AdBlock, 217heidai
@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/18 01:03:24
-#!support=7751
+#!date=2026/04/18 09:17:14
+#!support=7768
 #!proxy-select=REJECT-DROP
 #
 .011211.cn
@@ -42,6 +42,7 @@
 .0941.org
 .cdn.0i-i0.com
 .0n6h.cn
+.0ss1vl.cn
 .25w.0tzp8c.cn
 .0wk6gdkg8r.com
 .0x5.me
@@ -587,6 +588,7 @@
 .8181zx.com
 .8315.cn
 .83692.com
+.84207.cc
 .84232.com
 .849558.com
 .uxek.85nv96.cn
@@ -682,6 +684,7 @@
 .ac-apps-google-hl.hl.cn
 .acc-ackuailiandc.com.cn
 .acc-kuailians.com.cn
+.acceskc.com
 .apilog-web.acfun.cn
 .apilog.app.acfun.cn
 .jscode.acg68.com
@@ -1053,6 +1056,7 @@
 .app7kuailian.com.cn
 .app9kuailian.com.cn
 .appadhoc.net
+.appc-zoom.com.cn
 .mobile.appchina.com
 .appdriver.cn
 .appdriver.com.cn
@@ -1135,6 +1139,7 @@
 .umami.azhubaby.com
 .azm-kuailian.com.cn
 .azu0jytzgm.com
+.b258v.xyz
 .b1.b2b168.com
 .b1.b2b168.net
 .ee.b2fwnu.cn
@@ -1908,6 +1913,7 @@
 .a1.cyyangqiguan.com
 .straighttangerine.cz.cc
 .cz4444.cn
+.czanshunda.com
 .c1.czcol.cn
 .m.czxjx.cn
 .bd.czxuexi.com
@@ -2034,6 +2040,7 @@
 .c.dengbaozx.cn
 .v.dengbaozx.cn
 .aem.dentsuchina.cn
+.designerwatches.cn
 .www.destinationurl.com
 .msz3.destinia.cn
 .detailroi.com
@@ -2475,7 +2482,6 @@
 .t-e.flyme.cn
 .t-flow.flyme.cn
 .log-auth.flysleep.cn
-.flyye.cn
 .www.fm120.com
 .api.sdk.fmobi.cn
 .accoun.fnmgr.cn
@@ -3034,6 +3040,7 @@
 .stun.hitv.com
 .hj217.com
 .gentian-frd.hjapi.com
+.hjcdcgw-qx.cn
 .resu8.hjfile.cn
 .hjgen.cn
 .hjpqt.cn
@@ -3098,6 +3105,7 @@
 .hrkuailian.hl.cn
 .cdnjs.hro-cosmetics.com
 .hs-kuailian.com.cn
+.hs6htt.com
 .hseda.com
 .hsehk.cn
 .hsrgnac.cn
@@ -3439,6 +3447,7 @@
 .adstat.izuiyou.com
 .xladapi.izuiyou.com
 .xlstat.izuiyou.com
+.j350b.xyz
 .j3n6x.co
 .jab88.com
 .eventlog.jackpot.de
@@ -4139,6 +4148,8 @@
 .mathtype.cn
 .metrics.mathworks.cn
 .smetrics.mathworks.cn
+.maxisaie.vip
+.maxisrm.vip
 .maxisuik.vip
 .maxreturn.cn
 .mazarine-ap.com
@@ -4203,6 +4214,7 @@
 .tracking.m.mercedes-benz.com.cn
 .tracking.t.mercedes-benz.com.cn
 .mernrza.com
+.mesmall.cn
 .metaversemolecule.com
 .metaword.cn
 .analytics.metro.cn
@@ -5354,6 +5366,7 @@
 .rui61.cn
 .ruiing.com
 .ldk.ruiyufangchan.cn
+.rukee.cyou
 .rumt-sg.com
 .rumt-zh.com
 .abc.ruodian360.com
@@ -5505,6 +5518,7 @@
 .sigmob.com
 .smetrics.marketing.signify.com.cn
 .siguatv.cn
+.sihuikeji.cn
 .simengadx.com
 .simicloud.com
 .adimg.mobile.sina.cn
@@ -6028,6 +6042,7 @@
 .tenddata.cn
 .tengfeidn.cn
 .m.tenh2.cn
+.tensai146.icu
 .tepusi888.cn
 .answers.teradata.com.cn
 .testin.cn
@@ -6145,6 +6160,7 @@
 .tovppl.cn
 .tq-kuailian.com.cn
 .trackingio.com
+.trast.help
 .trk-kuailian.com.cn
 .ta.trs.cn
 .trustutn.org
@@ -6898,6 +6914,7 @@
 .wxkuailian.com.cn
 .wy-kuailian.com.cn
 .wy213.com
+.wz2010.com.cn
 .m.wz382.cn
 .wzaigo.com
 .wzfjsh.cn
