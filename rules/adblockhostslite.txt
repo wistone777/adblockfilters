@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX’s Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、neodevhost。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/wistone777/adblockfilters
 # Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260420005422
-# Last modified: 2026/04/20 00:54:22
-# Blocked domains: 7624
+# Version: 20260420114526
+# Last modified: 2026/04/20 11:45:26
+# Blocked domains: 7607
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -463,7 +463,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	688mob.com
 0.0.0.0	sygame.695157.com
 0.0.0.0	html.696157.com
-0.0.0.0	69986.xyz
 0.0.0.0	6c.cn
 0.0.0.0	6fm4dcpj31.com
 0.0.0.0	6iiz8ni96v.com
@@ -482,8 +481,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	6xigema.com
 0.0.0.0	6ye.com.cn
 0.0.0.0	xtsk.6yush.cn
-0.0.0.0	www.70108.xyz
-0.0.0.0	www.70123.xyz
 0.0.0.0	trail.71baomu.com
 0.0.0.0	bdcdncmn-gd.inter.71edge.com
 0.0.0.0	bdcdncnc.inter.71edge.com
@@ -749,8 +746,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ajdyga.cn
 0.0.0.0	ajiang.net
 0.0.0.0	ajkuailian.com.cn
-0.0.0.0	ak03150hou.com
-0.0.0.0	ak03211hou.com
 0.0.0.0	smetrics.akamai.com
 0.0.0.0	as-datareceiver.aki-game.net
 0.0.0.0	eu-datareceiver.aki-game.net
@@ -2000,7 +1995,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	diannaodian.com
 0.0.0.0	dianru.cn
 0.0.0.0	dianru.com
-0.0.0.0	dianxin.com
 0.0.0.0	a.diaoyu.cn
 0.0.0.0	codeym.dictall.com
 0.0.0.0	static.diditaxi.com.cn
@@ -2313,6 +2307,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	api-event.falconnet.app
 0.0.0.0	config.ad.falconnet.app
 0.0.0.0	flux.faloo.com
+0.0.0.0	famespaces.click
 0.0.0.0	bdlmggcs1.familydoctor.com.cn
 0.0.0.0	kdewa111.familydoctor.com.cn
 0.0.0.0	famoway-pro.net
@@ -3348,8 +3343,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	adstat.izuiyou.com
 0.0.0.0	xladapi.izuiyou.com
 0.0.0.0	xlstat.izuiyou.com
-0.0.0.0	www.j309k.xyz
-0.0.0.0	j317e.xyz
 0.0.0.0	j350b.xyz
 0.0.0.0	j3n6x.co
 0.0.0.0	jab88.com
@@ -3940,7 +3933,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	linkjg.cn
 0.0.0.0	linkpage.cn
 0.0.0.0	linksjg.cn
-0.0.0.0	linkvans.com
 0.0.0.0	ssp.lionmobo.com
 0.0.0.0	plausible.lipux.cn
 0.0.0.0	litchiads.com
@@ -4564,7 +4556,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	visit.oschina.net
 0.0.0.0	osrrltw.cn
 0.0.0.0	otme.cn
-0.0.0.0	ou-okx.com.cn
 0.0.0.0	cp.oupeng.com
 0.0.0.0	img-ad.oupeng.com
 0.0.0.0	max-files.oupeng.com
@@ -4662,7 +4653,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	pigvideo.cn
 0.0.0.0	pigvideo.com.cn
 0.0.0.0	pikacn.com
-0.0.0.0	piln.cn
 0.0.0.0	web.pimarolu-whatsapp.com.cn
 0.0.0.0	pincai.com
 0.0.0.0	adim.pinduoduo.com
@@ -4711,7 +4701,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	polyfill-js.cn
 0.0.0.0	e.pomkl.com
 0.0.0.0	m.pomkl.com
-0.0.0.0	pop-google.com.cn
 0.0.0.0	pop800.com
 0.0.0.0	i.popincdn.com
 0.0.0.0	poqwua.cn
@@ -4745,7 +4734,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	pp2.pptv.com
 0.0.0.0	static.g.pptv.com
 0.0.0.0	tj.g.pptv.com
-0.0.0.0	pqav.cn
 0.0.0.0	pqjprom.cn
 0.0.0.0	pqkuailian.hl.cn
 0.0.0.0	prasquinor.jp
@@ -4807,7 +4795,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	qfcdgy.cn
 0.0.0.0	qfe3hfbo.cn
 0.0.0.0	qff3kvis.cn
-0.0.0.0	qfg8gvgd.cn
 0.0.0.0	qfg8oksb.cn
 0.0.0.0	qfh5tgyv.cn
 0.0.0.0	qfh8izze.cn
@@ -5251,7 +5238,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	rpahyhn.cn
 0.0.0.0	rplzmw.cn
 0.0.0.0	rskuailian.hl.cn
-0.0.0.0	rsoz.cn
+0.0.0.0	jo088.rsoz.cn
 0.0.0.0	rsvqlz.cn
 0.0.0.0	rt-quickq.hl.cn
 0.0.0.0	rtbasia.com
@@ -5320,7 +5307,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	dm.sanwen8.com
 0.0.0.0	sanya1.com
 0.0.0.0	sapmon.com
-0.0.0.0	nctreg.savwtck.cn
 0.0.0.0	saxysec.com
 0.0.0.0	e.sbaoe.com
 0.0.0.0	m.sbaoe.com
@@ -5887,7 +5873,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	m.tcenn.com
 0.0.0.0	tchkcc.cn
 0.0.0.0	sg.tdatamaster.com
-0.0.0.0	tdffk.cn
 0.0.0.0	m.tdiac.com
 0.0.0.0	site.tdk.cn
 0.0.0.0	tracking.tdk.cn
@@ -7451,7 +7436,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	zhihu-web-analytics.zhihu.com
 0.0.0.0	collector2c.zhihuishu.com
 0.0.0.0	analytics.zhihuiya.com
-0.0.0.0	www.zhikey.com
 0.0.0.0	zhilingshidai.com
 0.0.0.0	zhimaad.cn
 0.0.0.0	zhimengad.com
@@ -7602,7 +7586,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	zryw-evolux.net
 0.0.0.0	zryw-finoble.net
 0.0.0.0	zrywfinoble.net
-0.0.0.0	zsebpy.cn
 0.0.0.0	zsjxwj.com
 0.0.0.0	steam.zssjsq.com
 0.0.0.0	zszwcp.cn

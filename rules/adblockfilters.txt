@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX’s Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、neodevhost。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260420005422
-! Last modified: 2026/04/20 00:54:22
-! Blocked Filters: 100206
+! Version: 20260420114526
+! Last modified: 2026/04/20 11:45:26
+! Blocked Filters: 100207
 !
 ###AC_ad
 ###AD_160
@@ -14830,6 +14830,7 @@
 ##a[href^="https://hot-growngames.life/"]
 ##a[href^="https://in.rabbtrk.com/"]
 ##a[href^="https://iqbroker.com/"][href*="?aff="]
+##a[href^="https://ismlks.com/"]
 ##a[href^="https://jaxofuna.com/"]
 ##a[href^="https://join.bannedsextapes.com/track/"]
 ##a[href^="https://join.dreamsexworld.com/"]
@@ -40216,6 +40217,7 @@ bitporno.*#%#//scriptlet("abort-on-property-read", "_run")
 bitporno.*#%#//scriptlet("abort-on-property-write", "atOptions")
 bitsearch.to,solidtorrents.to#?##alart-box > .view-box:has(> #alart-message > a[target="_blank"])
 bitsnoop.com###vpnBar
+bitxzlhi*.top/$script,xmlhttprequest,third-party
 biz.chosun.com##.arcad-wrapper
 biz.chosun.com##.box--margin-bottom-xl.box--pad-top-xl.box--pad-bottom-xl.box--bg-grey-10
 biznews.com,businessdailyafrica.com,coastreporter.net,financialexpress.com,irishtimes.com,komonews.com,nsnews.com,prpeak.com,richmond-news.com,spokesman.com##a[href*="/sponsored/"]
@@ -61411,7 +61413,6 @@ mixrootmods.com#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
 mjakmalopolska.pl##.widget-advert_centralplacement
 mjakmalopolska.pl##div.text-center:has(> div.d-inline-block-not-important > small)
 mjzj.com##div[id^="sidebar-top-carouse"]
-mkfjbitxzlhijf*.top/$script,xmlhttprequest,third-party
 mkvcinemas.*###SH-Ads
 mkvcinemas.*##.code-block:has(a[title="mkvAnime"])
 mlb.com##.ad--article
@@ -84326,7 +84327,6 @@ zzzyk.com###Tinfo
 ||adsrv4k.com^$popup
 ||adsrvmedia.adk2.co^$important
 ||adsrvmedia.adk2.co^$important,third-party
-||adssistem.com^$third-party
 ||adsv.svc.litv.tv/ads?ad_unit=$xmlhttprequest,redirect=noopvast-3.0,important,domain=ani.gamer.com.tw
 ||adsystem*.*^
 ||adult-sex-games.com/images/*.gif
@@ -84350,6 +84350,7 @@ zzzyk.com###Tinfo
 ||advert*.ultraweb.hu^
 ||adverticum.*.hu^
 ||advertisertape.com/stat/
+||advertising.civitai.
 ||advertizmenttoyou.com^$popup
 ||advgo.net/hits/
 ||advgo.net/mushroom/
@@ -85856,7 +85857,6 @@ zzzyk.com###Tinfo
 ||betpupitarr.com^$popup
 ||betrugsalarm.com/assets/*/pubPolicy/customEvent.js
 ||betshucklean.com^$popup
-||betsmart.media^$third-party
 ||betterbe.co/wp-content/themes/magnify/resources/js/bids
 ||betteredu.net/js/pop_tuiguang_
 ||bettingpremier.com/direct/$popup
@@ -86345,6 +86345,7 @@ zzzyk.com###Tinfo
 ||bz88888.net/js/cdn.js
 ||bzhanyy.com^*.gif
 ||bzpics.com/jslib/st.js?
+||bzrcdn.openai.com/sdk/oaiq.min.js
 ||c*hit.zerkalo.io^
 ||c-ctrip.com/ResUnionOnline/R3/float/floating_normal.min.js
 ||c-ctrip.com/images/0101r120009e1kn7oCDCA.gif
@@ -90368,7 +90369,6 @@ zzzyk.com###Tinfo
 ||huavod.net/player/$replace=/let ConFig/var ConFig/,document,subdocument
 ||huavod.top/player/$replace=/let ConFig/var ConFig/,document,subdocument
 ||hub.reacti.co/index.js
-||hubdigitalads.com^$third-party
 ||hubspot.com/analytics/
 ||hubspot.com/collected-forms/$xmlhttprequest,domain=confection.io
 ||hubspot.com/cs/loader-v2.js
@@ -90985,6 +90985,7 @@ zzzyk.com###Tinfo
 ||impel.io/releases/analytics/
 ||imperiohentai.com/delivery/
 ||impressivetimes.com/wp-content/uploads/2024/07/primary-plus-advt.jpg
+||improvebin.xyz^$popup
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||imzog.com/*.php?z=*&sub=
@@ -91216,12 +91217,14 @@ zzzyk.com###Tinfo
 ||ishowx.com/www/2015/js/top.js
 ||isky.ltd/skin/js/ad.js
 ||islandecho.co.uk/uploads/*/vipupgradebackground.jpg$image
+||ismlks.com^$popup
 ||isnews.it/images/banners/$domain=isnews.it
 ||isohunt.app/a/b.js
 ||isohunt.lol/k.js
 ||isohunt2.net/nordvpn/
 ||isohuntx.com/vpn/$popup
 ||isproxy.eu^$script,domain=mahitimanch.in
+||isready2.online^$popup
 ||isso.com.cn/club/adv
 ||isso.com.cn^*/A-D/
 ||issomeoneinth.info^$popup
@@ -92824,7 +92827,6 @@ zzzyk.com###Tinfo
 ||mediabong.net/t/
 ||mediacnt.pro/ap_dg/top
 ||mediacontext.
-||mediaconvertly.com^$third-party
 ||mediadelivery.net/.metrics/
 ||mediadelivery.net/rum.js
 ||mediagroupnetwork.com/js/ua.js
@@ -98978,7 +98980,6 @@ zzzyk.com###Tinfo
 ||wetpussygames.com/images/hentai_game/600-
 ||wetpussygames.com/includes/skin-istripper.js
 ||wetpussygames.com/t78d42b806a3.js
-||wewomedia.com^$third-party
 ||wf-box.net/sandboxed_ad_vendor_iframe.html
 ||wfiles.hcomic.net/indexSwiper/*_*x*_*_TC_gif.gif
 ||wfinterface.com/tracking/$domain=wellsfargo.com
