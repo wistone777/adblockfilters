@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX’s Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20260423175403
-! Last modified: 2026/04/23 17:54:03
-! Blocked domains: 8089
+! Version: 20260424014142
+! Last modified: 2026/04/24 01:41:42
+! Blocked domains: 8063
 !
 011211.cn
 013572.cn
@@ -80,7 +80,6 @@ bdad.123pan.cn
 ent1.12584.cn
 health1.12584.cn
 img.12584.cn
-126.cn
 analytics.126.com
 ir.mail.126.com
 admusicpic.music.126.net
@@ -675,7 +674,6 @@ discover.absciex.com.cn
 ac-apps-google-hl.hl.cn
 acc-ackuailiandc.com.cn
 acc-kuailians.com.cn
-acceskc.com
 accesshub.cq.cn
 accesshub.gd.cn
 accesshub.hk.cn
@@ -692,11 +690,9 @@ memelq.acs.org
 pubstr.acs.org
 swebanalytics.acs.org
 ads.activepower.net
-ad-haiwang.hl.cn
 ad-plus.cn
 ad-scope.com.cn
 ad-web-whatsapp.com.cn
-ad-wps-wps.com.cn
 ad7.com
 adanxing.com
 adbana.com
@@ -787,10 +783,7 @@ tracking.agora.io
 webcollector-rtm.agora.io
 ahov1.top
 ahxhny.cn
-ai-google-com.hl.cn
-ai-sougou-com.hl.cn
 ai-telegram-telegram.com.cn
-ai-youdao-com.hl.cn
 ai-youdao.hl.cn
 aibantian.cn
 brc.aigrammar.net
@@ -819,7 +812,6 @@ api.aixifan.com
 dmm.aizhan.com
 fpbb.aizhan.com
 aizipai.cn
-aj-youdao-com.hl.cn
 ajdyga.cn
 ajiang.net
 ajkuailian.com.cn
@@ -1039,7 +1031,6 @@ aoqinglv.cn
 wxhawk.aoscdn.com
 log-pub-hk.aoshitang.com
 apd-todesk.com.cn
-apd-zoom-com.hl.cn
 apenclaw.com.cn
 adx.apicgate.com
 us-behavior.apitd.net
@@ -2428,7 +2419,6 @@ eqqi.cn
 m.ercos.cn
 ergeapp.com
 log.ergeduoduo.com
-erish.xyz
 erlpbwy.cn
 eryvkxm.cn
 eryx-avin.net
@@ -2536,7 +2526,6 @@ img.ferlie.net
 ks.ferlytc.com
 feronixprime74ai.net
 ffmobi.com
-fg-chrome.com.cn
 21.fh21static.com
 fhitagd.cn
 fhkuailian.com.cn
@@ -2719,7 +2708,6 @@ shqdown.ggzuhao.com
 gh-kuailian.com.cn
 gh-sougou.com.cn
 stats.dmp.ghac.cn
-ghkuailian.com.cn
 ghsnhjk.cn
 ad.partner.gifshow.com
 gdfp.gifshow.com
@@ -3272,7 +3260,6 @@ hrjg.com.cn
 hrkuailian.hl.cn
 cdnjs.hro-cosmetics.com
 hs-kuailian.com.cn
-hs6htt.com
 hseda.com
 hsehk.cn
 hsrgnac.cn
@@ -3450,7 +3437,6 @@ entree.igetget.com
 piccdn.igetget.com
 seeder.igetget.com
 ihclam.cn
-ihkuailian.com.cn
 fpbone.ihowguide.com
 appadapi.ihuman.com
 iimedia.cn
@@ -3521,7 +3507,6 @@ smetrics.marketing.interact-lighting.com.cn
 inveno.com
 inver-izes.net
 inverizes.net
-io-googlse.com.cn
 ioiksw.cn
 ip193.cn
 c81.ipanocloud.com
@@ -3983,7 +3968,6 @@ kuailian-lab.com.cn
 kuailian-ln.hl.cn
 kuailian-nn.hl.cn
 kuailian-run.com.cn
-kuailian-ttr.com.cn
 kuailian4g.com.cn
 kuailian51.com.cn
 kuailianaiting.com.cn
@@ -4128,7 +4112,6 @@ cc.lbesec.com
 cdn1.lbesec.com
 lbprjdi.cn
 kdbgqvu.lbye3zc.cn
-lc-google.com.cn
 lccfjszp.cn
 ld-kuailian.com.cn
 test-perfops.ldgslb.com
@@ -4924,8 +4907,6 @@ counter.pcauto.com.cn
 ivy.pcauto.com.cn
 pcc-kuailiansscc.com.cn
 pccleaner.cn
-pce4-kuailian.com.cn
-pce5-kuailian.com.cn
 pcidata.cn
 count5.pconline.com.cn
 count6.pconline.com.cn
@@ -5585,7 +5566,6 @@ feedback.cn.ronghub.com
 logcollection.ronghub.com
 stats.cn.ronghub.com
 rownowagainvrevo.net
-rp-google.com.cn
 rpahyhn.cn
 rplzmw.cn
 rrljs.cn
@@ -5641,7 +5621,6 @@ safew7.com.cn
 safew8.com.cn
 safewcm.org.cn
 safewco.org.cn
-safewqq.com.cn
 safewu.com.cn
 safewzz.com.cn
 sagetrc.com
@@ -6322,7 +6301,6 @@ tepusi888.cn
 answers.teradata.com.cn
 testin.cn
 m.tfeic.com
-tg-chrome.com.cn
 tg-kuailian.com.cn
 tg33.cn
 tgfyq.cn
@@ -6487,7 +6465,6 @@ tb.code.twyxi.com
 twzui6.com
 tx-telegram.com
 livetech.shopee.co.id.txlivecdn.com
-livetech.shopee.co.th.txlivecdn.com
 livetech.shopee.com.br.txlivecdn.com
 livetech.shopee.vn.txlivecdn.com
 txstatic.cn
@@ -6935,7 +6912,6 @@ vrrm.cn
 vrs-kuailian.com.cn
 n.vs108.com
 vsnoon.com
-vt-google.com.cn
 vtfkbs.cn
 vultenok.net
 vungle.cn
@@ -6949,7 +6925,6 @@ vwiy.cn
 vx-kuailian.com.cn
 vx2tbw9xin.com
 vxhsj.cn
-vy-google.com.cn
 vy-kuailian.com.cn
 vyye.cn
 vzvvifw.cn
@@ -7181,7 +7156,6 @@ wsgwc.com
 mlog.wangsu.com.wswebcdn.com
 iwfcaz.wtlaf.cn
 cdn-ad.wtzw.com
-wu-google.com.cn
 manage.wuhancloud.cn
 wukongtongji.com
 wumii.cn
@@ -7255,6 +7229,7 @@ xe-binance.com.cn
 sensors.h5.xed.plus
 xegnfwkju.com
 m.xeig.cn
+mon.ad.xelements.cn
 xerhibx.cn
 xftsjv.top
 xfyjz.cn
@@ -7346,7 +7321,6 @@ preload.xiaomi.com
 redirect.pandora.xiaomi.com
 register.xmpush.global.xiaomi.com
 resolver.mi.xiaomi.com
-sdkconfig.ad.eu.xiaomi.com
 ssp.xiaomi.com
 stat.pandora.xiaomi.com
 stats.music.xiaomi.com
