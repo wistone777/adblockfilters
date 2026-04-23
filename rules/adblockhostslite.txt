@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX’s Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、neodevhost。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/wistone777/adblockfilters
 # Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260423011317
-# Last modified: 2026/04/23 01:13:17
-# Blocked domains: 7826
+# Version: 20260423113842
+# Last modified: 2026/04/23 11:38:42
+# Blocked domains: 7814
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -944,7 +944,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	alime-pic.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0	appgiftwall.oss-us-west-1.aliyuncs.com
 0.0.0.0	beacon-api.aliyuncs.com
-0.0.0.0	bruplong.oss-accelerate.aliyuncs.com
 0.0.0.0	c3gdk-default-cn.rum.aliyuncs.com
 0.0.0.0	cdn-ads.oss-cn-shanghai.aliyuncs.com
 0.0.0.0	chaoku.oss-cn-chengdu.aliyuncs.com
@@ -2829,7 +2828,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	gzsadlmy.cn
 0.0.0.0	gzsanxiaomingshi.cn
 0.0.0.0	gzzkjdam.cn
-0.0.0.0	h111g.xyz
 0.0.0.0	h3-binance.com.cn
 0.0.0.0	h45pmx1.cn
 0.0.0.0	h5-wps.com.cn
@@ -3121,7 +3119,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	htkgsx.com
 0.0.0.0	htnxvfw.cn
 0.0.0.0	httpdns.pro
-0.0.0.0	httvd.com
 0.0.0.0	m.hua6.cn
 0.0.0.0	huabian.com
 0.0.0.0	huafangzhou.com
@@ -3455,11 +3452,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	adstat.izuiyou.com
 0.0.0.0	xladapi.izuiyou.com
 0.0.0.0	xlstat.izuiyou.com
-0.0.0.0	j338o.xyz
 0.0.0.0	j350b.xyz
-0.0.0.0	j353g.xyz
-0.0.0.0	j353q.xyz
-0.0.0.0	j357w.xyz
 0.0.0.0	j3n6x.co
 0.0.0.0	jab88.com
 0.0.0.0	eventlog.jackpot.de
@@ -4721,7 +4714,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	api-access.pangolin-sdk-toutiao4.com
 0.0.0.0	panoeye.com.cn
 0.0.0.0	c.panqis.cn
-0.0.0.0	www.par-king.cn
 0.0.0.0	partnerboost.com
 0.0.0.0	pasco.cc
 0.0.0.0	passionsex.vip
@@ -4886,7 +4878,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	pthejzb.com
 0.0.0.0	ptmabek.cn
 0.0.0.0	ptmind.com
-0.0.0.0	publicishub.com
 0.0.0.0	pufhzpt.cn
 0.0.0.0	punktopulex.com
 0.0.0.0	pig.pupuapi.com
@@ -5366,7 +5357,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	rkcfmfm97.com
 0.0.0.0	rkzby.cn
 0.0.0.0	rl1vypwyd2.com
-0.0.0.0	rlmhv.cn
 0.0.0.0	kmpl.rnqxp.cn
 0.0.0.0	tags.roberthalf.cn
 0.0.0.0	rocket-bit-pro.net
@@ -6267,7 +6257,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	stat.u.sb
 0.0.0.0	ee.u0r9.cn
 0.0.0.0	m.u0r9.cn
-0.0.0.0	u103s.xyz
 0.0.0.0	ee.u4q2.cn
 0.0.0.0	m.u4q2.cn
 0.0.0.0	u51.me
@@ -7779,7 +7768,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	stat.zol.com.cn
 0.0.0.0	wappv.zol.com.cn
 0.0.0.0	ydjs.zol.com.cn
-0.0.0.0	static.zongheng.com
 0.0.0.0	zonst.com
 0.0.0.0	zooj.cn
 0.0.0.0	adm.zookingsoft.com
