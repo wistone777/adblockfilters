@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX’s Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、neodevhost。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/wistone777/adblockfilters
 # Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260425011001
-# Last modified: 2026/04/25 01:10:01
-# Blocked domains: 7678
+# Version: 20260425112534
+# Last modified: 2026/04/25 11:25:34
+# Blocked domains: 7672
 #
 local=/011211.cn/
 local=/photo.0234408.cn/
@@ -2173,7 +2173,6 @@ local=/gwqoplkgomencav.edgeone.dev/
 local=/halblivcaslsa.edgeone.dev/
 local=/healthnuringsafehomeoffloras.edgeone.dev/
 local=/heydressuniversitydepartcolordesign.edgeone.dev/
-local=/hgfjdks-09tyui-o82e620kyk.edgeone.dev/
 local=/hostecountspringweb-4sbw8uzi5y.edgeone.dev/
 local=/kita-quote-wt6k5i5yoz.edgeone.dev/
 local=/lkjgfdwertyuiop-5137fsshgs.edgeone.dev/
@@ -2256,7 +2255,6 @@ local=/euro-invest-pl.com/
 local=/euro-invest-pl.net/
 local=/euuh.cn/
 local=/g.x.evolife.cn/
-local=/evri-notices.cn/
 local=/evri-parcelq.cn/
 local=/evri-parcelw.cn/
 local=/www.evri-uk.help/
@@ -2972,7 +2970,6 @@ local=/resu8.hjfile.cn/
 local=/hjgen.cn/
 local=/hjpqt.cn/
 local=/hk-hqlm-whatsapp.hl.cn/
-local=/hk-jxbq-whatsapp.hl.cn/
 local=/hk-wps365.com.cn/
 local=/hk2-wps3.com.cn/
 local=/hkcn-wps.com.cn/
@@ -3634,7 +3631,6 @@ local=/ad.kone.ink/
 local=/adsmart.konka.com/
 local=/sdkapi.kookong.com/
 local=/koowo.com/
-local=/koruna-machinery.com/
 local=/a.koudai.com/
 local=/tj.koudaitong.com/
 local=/wap.koudaitong.com/
@@ -4584,7 +4580,6 @@ local=/ouyaoxiazai.com/
 local=/overlay.top/
 local=/overturechina.com/
 local=/ovnrmvg.cn/
-local=/mlchjdiuy.owhyvu.cn/
 local=/umami.oyo.cool/
 local=/oyz61nhz8.com/
 local=/ozogame.com/
@@ -6890,7 +6885,6 @@ local=/xhyktech.com/
 local=/xi-xi-google.com.cn/
 local=/gemini.xiadengma.com/
 local=/cdn.xianchengyou.com/
-local=/xiangce.online/
 local=/khrtac.xiangha.com/
 local=/xiangshunjy.com/
 local=/xianliao.me/
