@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX’s Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、neodevhost。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260425170545
-! Last modified: 2026/04/25 17:05:45
-! Blocked Filters: 99910
+! Version: 20260426005629
+! Last modified: 2026/04/26 00:56:29
+! Blocked Filters: 99918
 !
 ###AC_ad
 ###AD_160
@@ -34327,6 +34327,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@||stackpathcdn.com/wp-content/plugins/*/adblock-detector/advertisement.js$domain=phoneswiki.com
 @@||stackpathcdn.com^$stealth=referrer,domain=tympanus.net
 @@||stacksnippets.net^$jsinject,elemhide,extension
+@@||stacksocial.com^$stealth=flash
 @@||stacksocial.com^$stealth=java
 @@||stacksocial.com^$stealth=referrer
 @@||stadionowioprawcy.net^$generichide
@@ -37756,6 +37757,9 @@ animefrenzy.net,royalcams.com,adultcams.me,adultchat2100.com,alphafreecams.com,b
 animeguro.com###bt-ads
 animehay.*##body > div[style^="position: fixed; bottom: 0px; z-index:"]
 animehay.*#%#//scriptlet('set-constant', 'adsCatFish', 'noopFunc')
+animehay01.site##div[style^="position: absolute; bottom: 100%; right: 0px;"][style*="cursor: pointer;"]
+animehay01.site##img[src^="/ad_banner/"]
+animehay01.site#%#//scriptlet('prevent-window-open')
 animeheaven.pro,animepahe.*#%#//scriptlet("abort-on-property-write", "__C")
 animehub.ac###main-content > center
 animehub.ac##.sb-subs
@@ -84725,6 +84729,7 @@ zzzyk.com###Tinfo
 ||animeaddicts.hu/theme/images/bannerbg.jpg
 ||animeflv.*/api/pop.php
 ||animefrenzy.net/static/jquery.js?v=
+||animehay01.site/ad_banner/
 ||animehub.ac/api/pop.php
 ||animeinweb.com/api/proxy/data/ads/
 ||animeland.tv/zenny/
@@ -88152,6 +88157,7 @@ zzzyk.com###Tinfo
 ||easypic.com/js/easypicads.js
 ||easyporn.xxx/tmp/
 ||easyview.eu/sw.js
+||eatcells.com/land/$popup
 ||eatwell101.com/wp-content/themes/*/custom/ads/
 ||ebay.com/delstats/
 ||ebay.com/nkfytkqtoxtljvzbxhr.js$script,domain=ebay.com
@@ -91966,6 +91972,7 @@ zzzyk.com###Tinfo
 ||link.tv-asahi.co.jp/tver/cookiesync?
 ||link114.cn/template/js/showpics_
 ||link1s.com/kiem-tien-mua-sua-cho-con-gai.js
+||linkadvdirect.com^$popup
 ||linkbux.com/track?$popup
 ||linkchangesnow.com^$popup
 ||linkdeli.com/widget.js
@@ -97641,6 +97648,7 @@ zzzyk.com###Tinfo
 ||tra.scds.pmdstatic.net/sourcepoint/
 ||trace-*.free-reels.com^
 ||trace-*.hungrypanda.co^
+||tracemonitorusa.life^$popup
 ||traceparts.com/logs
 ||track-*.hungrypanda.co^
 ||track-campaing.club^$popup
