@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX’s Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、neodevhost。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260426171133
-! Last modified: 2026/04/26 17:11:33
-! Blocked Filters: 101560
+! Version: 20260427005650
+! Last modified: 2026/04/27 00:56:50
+! Blocked Filters: 101561
 !
 ###AC_ad
 ###AD_160
@@ -90256,7 +90256,6 @@ zzzyk.com###Tinfo
 ||eyusky.net/weixin-img/zhifubao.jpg
 ||eyuyao.com/yyad/
 ||ezadblocker.com^$popup
-||ezdownloadpro.info^$popup
 ||ezjav.com/p.js
 ||ezprice.com.tw/ezysm/
 ||ezprice.com.tw/js/*_ysm_
@@ -90377,7 +90376,6 @@ zzzyk.com###Tinfo
 ||faxingw.cn/js/*ad
 ||faxingw.cn/js/detailgcbox.js
 ||fb.ru/stat/
-||fbmedia-ckl.com^$popup
 ||fbot.me/error
 ||fbot.me/events/
 ||fbsbx.com/paid_ads_pixel/
@@ -90419,6 +90417,7 @@ zzzyk.com###Tinfo
 ||fetishshrine.com/jsb/js_script.js
 ||fetishshrine.com/plugin.js
 ||fetlife.com/ads/
+||fewcents.co^$third-party
 ||feyorra.top/next.js
 ||ffdm*.cc/dd.js
 ||ffdm2.cc/ht_cpc.js
@@ -98089,6 +98088,7 @@ zzzyk.com###Tinfo
 ||sp148.global.ssl.fastly.net^$redirect=nooptext
 ||spa-tracker*.spapi.io^
 ||space-blogs.net/include/counter/
+||spacecatholicpalmful.com^$popup
 ||spackgeranic.shop^$popup
 ||spanishdict.com/page-view-metadata
 ||spankbang.com/api/*?ad_zone=
@@ -98918,6 +98918,7 @@ zzzyk.com###Tinfo
 ||terabox.fun/api/getsyscfg?*web_share_ads_adsterra_config
 ||terbit21.gdn/ads/
 ||terminaltrove.com/_t/
+||termsfeed.com/track/
 ||terpenwordman.top^$popup
 ||terra.com.br/metrics/
 ||terra.com.br^*/metrics.js

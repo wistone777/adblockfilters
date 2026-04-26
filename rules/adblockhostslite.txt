@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX’s Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、neodevhost。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/wistone777/adblockfilters
 # Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260426171133
-# Last modified: 2026/04/26 17:11:33
-# Blocked domains: 7791
+# Version: 20260427005651
+# Last modified: 2026/04/27 00:56:51
+# Blocked domains: 7772
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -945,7 +945,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	dongtukj.oss-cn-hongkong.aliyuncs.com
 0.0.0.0	dreemdmbabys.oss-cn-guangzhou.aliyuncs.com
 0.0.0.0	dressimage.img-cn-beijing.aliyuncs.com
-0.0.0.0	eex8nehrx0-default-cn.rum.aliyuncs.com
 0.0.0.0	ep2x3kiawg-sdk.rum.aliyuncs.com
 0.0.0.0	f7vkagmqwq-sdk.rum.aliyuncs.com
 0.0.0.0	f8ds5tkidk-sdk.rum.aliyuncs.com
@@ -1058,14 +1057,12 @@ ff02::3	ip6-allhosts
 0.0.0.0	app-safew-zh.hl.cn
 0.0.0.0	app-whatapp.hl.cn
 0.0.0.0	app-whatsapp-hl.com.cn
-0.0.0.0	app2kuailian.com.cn
 0.0.0.0	appadhoc.net
 0.0.0.0	mobile.appchina.com
 0.0.0.0	appdriver.cn
 0.0.0.0	appdriver.com.cn
 0.0.0.0	appgo.cn
 0.0.0.0	apphk-wps.com.cn
-0.0.0.0	appikuailian.com.cn
 0.0.0.0	apple-club.cn
 0.0.0.0	iadsdk.apple.com
 0.0.0.0	securemetrics.apple.com.cn
@@ -1641,7 +1638,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ce71jubc2.com
 0.0.0.0	tvuser-ch.cedock.com
 0.0.0.0	cengqinglin.cn
-0.0.0.0	cf-kuailian.com.cn
 0.0.0.0	update.cg100iii.com
 0.0.0.0	cgf-kuailian.com.cn
 0.0.0.0	cgigc.com.cn
@@ -1763,8 +1759,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	clicki.cn
 0.0.0.0	clickvalue.cn
 0.0.0.0	clientservices.googleapis.com
-0.0.0.0	7mnpeh.com1.z0.glb.clouddn.com
-0.0.0.0	7xi9g1.com1.z0.glb.clouddn.com
 0.0.0.0	bkt.clouddn.com
 0.0.0.0	advertise.cloudlinks.cn
 0.0.0.0	cm-analysis.com
@@ -2518,7 +2512,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	fucnm.com
 0.0.0.0	fugetech.com
 0.0.0.0	fujincenter.com
-0.0.0.0	fukuailian.com.cn
 0.0.0.0	fumandi.hl.cn
 0.0.0.0	adm.funshion.com
 0.0.0.0	conf.funshion.com
@@ -2781,7 +2774,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	gridsum.com
 0.0.0.0	gridsumdissector.com
 0.0.0.0	countly.growatt.com
-0.0.0.0	growingcat.com
 0.0.0.0	growingio.cn
 0.0.0.0	growingio.com
 0.0.0.0	ee.grtnahd.cn
@@ -3163,7 +3155,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	boardy.huanqiu.com
 0.0.0.0	interactive.huanqiu.com
 0.0.0.0	ipengtai.huanqiu.com
-0.0.0.0	huanqiucaifu.com
 0.0.0.0	huanqiucaijing.cn
 0.0.0.0	ads.huantest.com
 0.0.0.0	huanyongqg.com
@@ -3664,7 +3655,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	download.kaobeitu.com
 0.0.0.0	smetrics.karcher.cn
 0.0.0.0	bee.kascend.com
-0.0.0.0	kb-quickq.hl.cn
 0.0.0.0	kbkb.bet
 0.0.0.0	doit.kccqgj.cn
 0.0.0.0	kddtri.cn
@@ -4207,7 +4197,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	mbaobao.com
 0.0.0.0	mckumf5ii4.com
 0.0.0.0	mconedh.cn
-0.0.0.0	md-kuailian.com.cn
 0.0.0.0	uid.mdbchina.com
 0.0.0.0	media8.cn
 0.0.0.0	lepodownload.mediatek.com
@@ -4634,7 +4623,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	c.nuhcpf.com
 0.0.0.0	log.nuomi.com
 0.0.0.0	ads.nuonuo.com
-0.0.0.0	metric.nuonuo.com
 0.0.0.0	m.nuxyz.cn
 0.0.0.0	promotionad.nvcam.net
 0.0.0.0	ad.nvdvr.cn
@@ -4669,7 +4657,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	e.ohuam.com
 0.0.0.0	oilquantum.com
 0.0.0.0	apps5.oingo.com
-0.0.0.0	oioda.com
 0.0.0.0	ojg8sflgl.com
 0.0.0.0	okhan.net
 0.0.0.0	okmgy.cn
@@ -4846,7 +4833,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	fp-it-acc.portal101.cn
 0.0.0.0	webtrack.pospal.cn
 0.0.0.0	poweroilquant.com
-0.0.0.0	pp-kuailian.hl.cn
 0.0.0.0	log.cs.pp.cn
 0.0.0.0	patriot.cs.pp.cn
 0.0.0.0	server.m.pp.cn
@@ -5420,7 +5406,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	safew7.com.cn
 0.0.0.0	safew8.com.cn
 0.0.0.0	safewu.com.cn
-0.0.0.0	safewzz.com.cn
 0.0.0.0	sagetrc.com
 0.0.0.0	saitef.cn
 0.0.0.0	samevay.com.cn
@@ -5445,7 +5430,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	js.sanwen.net
 0.0.0.0	dm.sanwen8.com
 0.0.0.0	sanya1.com
-0.0.0.0	sapmon.com
 0.0.0.0	saxysec.com
 0.0.0.0	e.sbaoe.com
 0.0.0.0	m.sbaoe.com
@@ -5715,7 +5699,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	sogou-ai.com.cn
 0.0.0.0	sogou-browser.cn
 0.0.0.0	sogou-sogou.cn
-0.0.0.0	sogou-xiazai.com.cn
 0.0.0.0	123.sogou.com
 0.0.0.0	files2.sogou.com
 0.0.0.0	info.pinyin.sogou.com
@@ -6715,7 +6698,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	vwe5pjt0jq.com
 0.0.0.0	vwiy.cn
 0.0.0.0	vx2tbw9xin.com
-0.0.0.0	vy-kuailian.com.cn
 0.0.0.0	vyye.cn
 0.0.0.0	vzvvifw.cn
 0.0.0.0	w3cfba6ufr.com
@@ -7455,7 +7437,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	wenxue.youzhicn.com
 0.0.0.0	yoyi.tv
 0.0.0.0	analysis.yozocloud.cn
-0.0.0.0	yp-kuailian.com.cn
 0.0.0.0	photo.ypkjq.cn
 0.0.0.0	yppw666.cn
 0.0.0.0	photo.yqydjr.cn
