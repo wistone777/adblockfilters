@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX’s Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、neodevhost。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/wistone777/adblockfilters
 # Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260427182615
-# Last modified: 2026/04/27 18:26:15
-# Blocked domains: 7776
+# Version: 20260428013906
+# Last modified: 2026/04/28 01:39:06
+# Blocked domains: 7765
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -233,7 +233,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	2607.cn
 0.0.0.0	26zsd.cn
 0.0.0.0	a1.289.com
-0.0.0.0	29566.cn
 0.0.0.0	2bj.cn
 0.0.0.0	t.2d-c.cn
 0.0.0.0	2girls1finger.org
@@ -538,8 +537,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	688mob.com
 0.0.0.0	sygame.695157.com
 0.0.0.0	html.696157.com
-0.0.0.0	69639.cc
-0.0.0.0	69880.xyz
 0.0.0.0	6c.cn
 0.0.0.0	6fm4dcpj31.com
 0.0.0.0	6iiz8ni96v.com
@@ -598,8 +595,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	8181zx.com
 0.0.0.0	8315.cn
 0.0.0.0	83692.com
-0.0.0.0	83957.cc
-0.0.0.0	84031.cc
 0.0.0.0	84232.com
 0.0.0.0	849558.com
 0.0.0.0	uxek.85nv96.cn
@@ -2557,7 +2552,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	r01.g1c5.com
 0.0.0.0	kcc.g31hc.cn
 0.0.0.0	g77776666.com
-0.0.0.0	g96y.xyz
 0.0.0.0	gainifyads.com
 0.0.0.0	fc.gaizong.cn
 0.0.0.0	game2.cn
@@ -3471,7 +3465,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	xladapi.izuiyou.com
 0.0.0.0	xlstat.izuiyou.com
 0.0.0.0	j-kuailian.com.cn
-0.0.0.0	j367c.xyz
 0.0.0.0	j3n6x.co
 0.0.0.0	jab88.com
 0.0.0.0	eventlog.jackpot.de
@@ -3668,7 +3661,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	kajicam.com
 0.0.0.0	smart-789.kakamobi.cn
 0.0.0.0	js.kalvinbg.cn
-0.0.0.0	kangqiaohuawei.com
 0.0.0.0	img2.user.kanimg.com
 0.0.0.0	kkpgv.kankan.com
 0.0.0.0	kkpgv2.kankan.com
@@ -4658,7 +4650,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	obv3epx22d.com
 0.0.0.0	nyvqdp.ocbsse.cn
 0.0.0.0	analytics.oceanengine.com
-0.0.0.0	oclrm.click
 0.0.0.0	offerstrack.net
 0.0.0.0	office-wps-hl.com.cn
 0.0.0.0	office-wps-hl.hl.cn
@@ -7269,7 +7260,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	yatemy.cn
 0.0.0.0	e.ybanj.com
 0.0.0.0	m.ybanj.com
-0.0.0.0	ybgdfhq.com.cn
 0.0.0.0	ych168.cn
 0.0.0.0	ycsshb.cn
 0.0.0.0	ycxjtd.com
@@ -7334,7 +7324,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	yitongwl.cn
 0.0.0.0	info.yitsoftware.com
 0.0.0.0	yiwk.com
-0.0.0.0	yiwu1818.com
 0.0.0.0	wr.yiyouliao.com
 0.0.0.0	a.yjbys.com
 0.0.0.0	abc.yjbys.com

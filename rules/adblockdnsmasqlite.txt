@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX’s Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、neodevhost。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/wistone777/adblockfilters
 # Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260427182615
-# Last modified: 2026/04/27 18:26:15
-# Blocked domains: 7776
+# Version: 20260428013906
+# Last modified: 2026/04/28 01:39:06
+# Blocked domains: 7765
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -218,7 +218,6 @@ local=/25662zubo23739.com/
 local=/2607.cn/
 local=/26zsd.cn/
 local=/a1.289.com/
-local=/29566.cn/
 local=/2bj.cn/
 local=/t.2d-c.cn/
 local=/2girls1finger.org/
@@ -523,8 +522,6 @@ local=/68287zubo85737.com/
 local=/688mob.com/
 local=/sygame.695157.com/
 local=/html.696157.com/
-local=/69639.cc/
-local=/69880.xyz/
 local=/6c.cn/
 local=/6fm4dcpj31.com/
 local=/6iiz8ni96v.com/
@@ -583,8 +580,6 @@ local=/m1.81312.com/
 local=/8181zx.com/
 local=/8315.cn/
 local=/83692.com/
-local=/83957.cc/
-local=/84031.cc/
 local=/84232.com/
 local=/849558.com/
 local=/uxek.85nv96.cn/
@@ -2542,7 +2537,6 @@ local=/g15wt3ci68.com/
 local=/r01.g1c5.com/
 local=/kcc.g31hc.cn/
 local=/g77776666.com/
-local=/g96y.xyz/
 local=/gainifyads.com/
 local=/fc.gaizong.cn/
 local=/game2.cn/
@@ -3456,7 +3450,6 @@ local=/adstat.izuiyou.com/
 local=/xladapi.izuiyou.com/
 local=/xlstat.izuiyou.com/
 local=/j-kuailian.com.cn/
-local=/j367c.xyz/
 local=/j3n6x.co/
 local=/jab88.com/
 local=/eventlog.jackpot.de/
@@ -3653,7 +3646,6 @@ local=/kaiyun-proton.com.cn/
 local=/kajicam.com/
 local=/smart-789.kakamobi.cn/
 local=/js.kalvinbg.cn/
-local=/kangqiaohuawei.com/
 local=/img2.user.kanimg.com/
 local=/kkpgv.kankan.com/
 local=/kkpgv2.kankan.com/
@@ -4643,7 +4635,6 @@ local=/gtm.oasisfeng.com/
 local=/obv3epx22d.com/
 local=/nyvqdp.ocbsse.cn/
 local=/analytics.oceanengine.com/
-local=/oclrm.click/
 local=/offerstrack.net/
 local=/office-wps-hl.com.cn/
 local=/office-wps-hl.hl.cn/
@@ -7254,7 +7245,6 @@ local=/cps.yaoqing.com/
 local=/yatemy.cn/
 local=/e.ybanj.com/
 local=/m.ybanj.com/
-local=/ybgdfhq.com.cn/
 local=/ych168.cn/
 local=/ycsshb.cn/
 local=/ycxjtd.com/
@@ -7319,7 +7309,6 @@ local=/photo.yishuhuanbao.cn/
 local=/yitongwl.cn/
 local=/info.yitsoftware.com/
 local=/yiwk.com/
-local=/yiwu1818.com/
 local=/wr.yiyouliao.com/
 local=/a.yjbys.com/
 local=/abc.yjbys.com/

@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX’s Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260427182615
-! Last modified: 2026/04/27 18:26:15
-! Blocked domains: 7776
+! Version: 20260428013906
+! Last modified: 2026/04/28 01:39:06
+! Blocked domains: 7765
 ! unBlocked domains: 31
 !
 ||011211.cn^
@@ -219,7 +219,6 @@
 ||2607.cn^
 ||26zsd.cn^
 ||a1.289.com^
-||29566.cn^
 ||2bj.cn^
 ||t.2d-c.cn^
 ||2girls1finger.org^
@@ -524,8 +523,6 @@
 ||688mob.com^
 ||sygame.695157.com^
 ||html.696157.com^
-||69639.cc^
-||69880.xyz^
 ||6c.cn^
 ||6fm4dcpj31.com^
 ||6iiz8ni96v.com^
@@ -584,8 +581,6 @@
 ||8181zx.com^
 ||8315.cn^
 ||83692.com^
-||83957.cc^
-||84031.cc^
 ||84232.com^
 ||849558.com^
 ||uxek.85nv96.cn^
@@ -2543,7 +2538,6 @@
 ||r01.g1c5.com^
 ||kcc.g31hc.cn^
 ||g77776666.com^
-||g96y.xyz^
 ||gainifyads.com^
 ||fc.gaizong.cn^
 ||game2.cn^
@@ -3457,7 +3451,6 @@
 ||xladapi.izuiyou.com^
 ||xlstat.izuiyou.com^
 ||j-kuailian.com.cn^
-||j367c.xyz^
 ||j3n6x.co^
 ||jab88.com^
 ||eventlog.jackpot.de^
@@ -3654,7 +3647,6 @@
 ||kajicam.com^
 ||smart-789.kakamobi.cn^
 ||js.kalvinbg.cn^
-||kangqiaohuawei.com^
 ||img2.user.kanimg.com^
 ||kkpgv.kankan.com^
 ||kkpgv2.kankan.com^
@@ -4644,7 +4636,6 @@
 ||obv3epx22d.com^
 ||nyvqdp.ocbsse.cn^
 ||analytics.oceanengine.com^
-||oclrm.click^
 ||offerstrack.net^
 ||office-wps-hl.com.cn^
 ||office-wps-hl.hl.cn^
@@ -7255,7 +7246,6 @@
 ||yatemy.cn^
 ||e.ybanj.com^
 ||m.ybanj.com^
-||ybgdfhq.com.cn^
 ||ych168.cn^
 ||ycsshb.cn^
 ||ycxjtd.com^
@@ -7320,7 +7310,6 @@
 ||yitongwl.cn^
 ||info.yitsoftware.com^
 ||yiwk.com^
-||yiwu1818.com^
 ||wr.yiyouliao.com^
 ||a.yjbys.com^
 ||abc.yjbys.com^
