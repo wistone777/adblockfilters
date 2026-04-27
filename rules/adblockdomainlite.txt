@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX’s Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20260427005651
-! Last modified: 2026/04/27 00:56:51
-! Blocked domains: 7772
+! Version: 20260427115338
+! Last modified: 2026/04/27 11:53:38
+! Blocked domains: 7765
 !
 011211.cn
 013572.cn
@@ -16,7 +16,6 @@ img.0279.net
 o.027eat.com
 jc.0351dvd.cn
 036e.cn
-gemini.03vps.cn
 0471fcw.com
 0512pifa.com.cn
 api.0530hz.cn
@@ -2238,7 +2237,6 @@ easyliao.com
 img.easypass.cn
 easyrecoverychina.com
 easytomessage.com
-vpass-login.eawfcz.cn
 eb-kuailian.com.cn
 ebjvu.cn
 eblnzoq.cn
@@ -2251,7 +2249,6 @@ c2vydmvydxbkyxri-kte1fxva3p.edgeone.app
 critical-blush-g6rnkksr8r.edgeone.app
 dotnotblock-pfwzl61nwt.edgeone.app
 hq-cpanel-uptime-upgrade-hnrv61j7if.edgeone.app
-uyhgr.edgeone.app
 0j9h876we-7gtl3x3m8j.edgeone.dev
 fixverify-kzlxv1e5mb.edgeone.dev
 gautamandgautam-byizfzvunb.edgeone.dev
@@ -3130,7 +3127,6 @@ log.appstore3.huan.tv
 monitor-ads-test.huan.tv
 service.changhong.upgrade2.huan.tv
 huanbao110.com.cn
-huangguanzuqiu.com.cn
 hy.huangye88.com.cn
 hy.huangye88.net
 17.huanqiu.com
@@ -4592,7 +4588,6 @@ z.nowscore.com
 util.nphoto.net
 nphqw.cn
 nptpjz.cn
-nqnma.cn
 m.nqut.cn
 nrjzkj.cn
 nryqr.cn
@@ -4907,7 +4902,6 @@ top.h.qhimg.com
 top.h.qhmsg.com
 qhonzpl.cn
 news.qhstatic.com
-applejapanc9186a91a573408e9029396e9f476e7a.qhywd.cn
 qhyxx-live.com
 c.qiandao.cn
 sensors-api.qiandao.cn
@@ -6163,7 +6157,6 @@ toutiaopage.com
 tovbus.cn
 tovppl.cn
 tq-kuailian.com.cn
-dpd.tracescwz.icu
 trackingio.com
 tradesoul.cn
 tradplus.cn
