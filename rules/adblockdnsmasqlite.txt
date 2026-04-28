@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX’s Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、neodevhost。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/wistone777/adblockfilters
 # Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260428013906
-# Last modified: 2026/04/28 01:39:06
-# Blocked domains: 7765
+# Version: 20260428115751
+# Last modified: 2026/04/28 11:57:51
+# Blocked domains: 7760
 #
 local=/011211.cn/
 local=/013572.cn/
@@ -106,7 +106,6 @@ local=/yt-adp.nosdn.127.net/
 local=/12i.cn/
 local=/133u.com/
 local=/133uu.com/
-local=/13450.cn/
 local=/1357902.cn/
 local=/lyapi.1391.com/
 local=/mhjk.1391.com/
@@ -2271,7 +2270,6 @@ local=/reviewsource-inquiryweb-22qyctxg9d.edgeone.dev/
 local=/roundcube-jrcfj7x9ek.edgeone.dev/
 local=/rtyuioplkjhgf-2wns89uj3k.edgeone.dev/
 local=/srv65ertui8uyt655io-7douf96n3o.edgeone.dev/
-local=/suryaprasanthfx-ctxr7fqp4s.edgeone.dev/
 local=/tropical-red-pd56z5jhth.edgeone.dev/
 local=/tyyuiopopoiuytr-dwrasvzg2a.edgeone.dev/
 local=/vambanlopcaxomilsss.edgeone.dev/
@@ -4145,7 +4143,6 @@ local=/lyzon.com.cn/
 local=/app.lz55.cn/
 local=/lzitzfb.cn/
 local=/m-i4.cn/
-local=/www.m105i.xyz/
 local=/mlog.m1905.cn/
 local=/trace.m1905.cn/
 local=/vodlog.m1905.cn/
@@ -4503,7 +4500,6 @@ local=/vaamsmgfreocmroe-1342087530.cos.sa-saopaulo.myqcloud.com/
 local=/www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com/
 local=/www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com/
 local=/xiaoma-10021647.file.myqcloud.com/
-local=/myqvaic.cn/
 local=/datarangers-event.myrightone.com/
 local=/analytics.myshoptago.com/
 local=/mytanwan.com/
@@ -7727,7 +7723,6 @@ local=/m.zosue.cn/
 local=/ee.zowmgxpz.cn/
 local=/m.zowmgxpz.cn/
 local=/zowralr.cn/
-local=/www.zoyue.com.cn/
 local=/zp0573.cn/
 local=/zq-hk.cn/
 local=/m.zq13n.cn/

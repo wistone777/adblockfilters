@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX’s Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260428013906
-! Last modified: 2026/04/28 01:39:06
-! Blocked domains: 7765
+! Version: 20260428115751
+! Last modified: 2026/04/28 11:57:51
+! Blocked domains: 7760
 ! unBlocked domains: 31
 !
 ||011211.cn^
@@ -107,7 +107,6 @@
 ||12i.cn^
 ||133u.com^
 ||133uu.com^
-||13450.cn^
 ||1357902.cn^
 ||lyapi.1391.com^
 ||mhjk.1391.com^
@@ -2272,7 +2271,6 @@
 ||roundcube-jrcfj7x9ek.edgeone.dev^
 ||rtyuioplkjhgf-2wns89uj3k.edgeone.dev^
 ||srv65ertui8uyt655io-7douf96n3o.edgeone.dev^
-||suryaprasanthfx-ctxr7fqp4s.edgeone.dev^
 ||tropical-red-pd56z5jhth.edgeone.dev^
 ||tyyuiopopoiuytr-dwrasvzg2a.edgeone.dev^
 ||vambanlopcaxomilsss.edgeone.dev^
@@ -4146,7 +4144,6 @@
 ||app.lz55.cn^
 ||lzitzfb.cn^
 ||m-i4.cn^
-||www.m105i.xyz^
 ||mlog.m1905.cn^
 ||trace.m1905.cn^
 ||vodlog.m1905.cn^
@@ -4504,7 +4501,6 @@
 ||www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com^
 ||www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com^
 ||xiaoma-10021647.file.myqcloud.com^
-||myqvaic.cn^
 ||datarangers-event.myrightone.com^
 ||analytics.myshoptago.com^
 ||mytanwan.com^
@@ -7728,7 +7724,6 @@
 ||ee.zowmgxpz.cn^
 ||m.zowmgxpz.cn^
 ||zowralr.cn^
-||www.zoyue.com.cn^
 ||zp0573.cn^
 ||zq-hk.cn^
 ||m.zq13n.cn^

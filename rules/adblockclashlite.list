@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX’s Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、neodevhost。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/wistone777/adblockfilters
 # Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20260428013906
-# Last modified: 2026/04/28 01:39:06
-# Blocked domains: 7765
+# Version: 20260428115751
+# Last modified: 2026/04/28 11:57:51
+# Blocked domains: 7760
 #
 [Rule]
 DOMAIN-SUFFIX,011211.cn,REJECT-DROP
@@ -107,7 +107,6 @@ DOMAIN-SUFFIX,yt-adp.nosdn.127.net,REJECT-DROP
 DOMAIN-SUFFIX,12i.cn,REJECT-DROP
 DOMAIN-SUFFIX,133u.com,REJECT-DROP
 DOMAIN-SUFFIX,133uu.com,REJECT-DROP
-DOMAIN-SUFFIX,13450.cn,REJECT-DROP
 DOMAIN-SUFFIX,1357902.cn,REJECT-DROP
 DOMAIN-SUFFIX,lyapi.1391.com,REJECT-DROP
 DOMAIN-SUFFIX,mhjk.1391.com,REJECT-DROP
@@ -2272,7 +2271,6 @@ DOMAIN-SUFFIX,reviewsource-inquiryweb-22qyctxg9d.edgeone.dev,REJECT-DROP
 DOMAIN-SUFFIX,roundcube-jrcfj7x9ek.edgeone.dev,REJECT-DROP
 DOMAIN-SUFFIX,rtyuioplkjhgf-2wns89uj3k.edgeone.dev,REJECT-DROP
 DOMAIN-SUFFIX,srv65ertui8uyt655io-7douf96n3o.edgeone.dev,REJECT-DROP
-DOMAIN-SUFFIX,suryaprasanthfx-ctxr7fqp4s.edgeone.dev,REJECT-DROP
 DOMAIN-SUFFIX,tropical-red-pd56z5jhth.edgeone.dev,REJECT-DROP
 DOMAIN-SUFFIX,tyyuiopopoiuytr-dwrasvzg2a.edgeone.dev,REJECT-DROP
 DOMAIN-SUFFIX,vambanlopcaxomilsss.edgeone.dev,REJECT-DROP
@@ -4146,7 +4144,6 @@ DOMAIN-SUFFIX,lyzon.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,app.lz55.cn,REJECT-DROP
 DOMAIN-SUFFIX,lzitzfb.cn,REJECT-DROP
 DOMAIN-SUFFIX,m-i4.cn,REJECT-DROP
-DOMAIN-SUFFIX,www.m105i.xyz,REJECT-DROP
 DOMAIN-SUFFIX,mlog.m1905.cn,REJECT-DROP
 DOMAIN-SUFFIX,trace.m1905.cn,REJECT-DROP
 DOMAIN-SUFFIX,vodlog.m1905.cn,REJECT-DROP
@@ -4504,7 +4501,6 @@ DOMAIN-SUFFIX,vaamsmgfreocmroe-1342087530.cos.sa-saopaulo.myqcloud.com,REJECT-DR
 DOMAIN-SUFFIX,www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com,REJECT-DROP
 DOMAIN-SUFFIX,www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com,REJECT-DROP
 DOMAIN-SUFFIX,xiaoma-10021647.file.myqcloud.com,REJECT-DROP
-DOMAIN-SUFFIX,myqvaic.cn,REJECT-DROP
 DOMAIN-SUFFIX,datarangers-event.myrightone.com,REJECT-DROP
 DOMAIN-SUFFIX,analytics.myshoptago.com,REJECT-DROP
 DOMAIN-SUFFIX,mytanwan.com,REJECT-DROP
@@ -7728,7 +7724,6 @@ DOMAIN-SUFFIX,m.zosue.cn,REJECT-DROP
 DOMAIN-SUFFIX,ee.zowmgxpz.cn,REJECT-DROP
 DOMAIN-SUFFIX,m.zowmgxpz.cn,REJECT-DROP
 DOMAIN-SUFFIX,zowralr.cn,REJECT-DROP
-DOMAIN-SUFFIX,www.zoyue.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,zp0573.cn,REJECT-DROP
 DOMAIN-SUFFIX,zq-hk.cn,REJECT-DROP
 DOMAIN-SUFFIX,m.zq13n.cn,REJECT-DROP
