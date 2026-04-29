@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX’s Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20260429015445
-! Last modified: 2026/04/29 01:54:45
-! Blocked domains: 7019
+! Version: 20260429115449
+! Last modified: 2026/04/29 11:54:49
+! Blocked domains: 7017
 !
 011211.cn
 013572.cn
@@ -823,7 +823,6 @@ loggw.alipaydns.com
 alipaylog.com
 acjs.aliyun.com
 click.aliyun.com
-update.aegis.aliyun.com
 1fur2cuzsul-sdk.rum.aliyuncs.com
 1fw35mn5y7h-sdk.rum.aliyuncs.com
 1hlahoc4rpc-sdk.rum.aliyuncs.com
@@ -1628,7 +1627,9 @@ senlog.cmpassport.com
 cmpxaup.cn
 cn-aii4.hl.cn
 cn-office-wps.com.cn
-cn-oyi-okx.com.cn
+m.cn-oyi-okx.com.cn
+www.cn-oyi-okx.com.cn
+zh.cn-oyi-okx.com.cn
 cn-platform-wps.com.cn
 cn-safew-zh.hl.cn
 www.cn-wap-fengniaogame.com
@@ -2199,7 +2200,6 @@ ks.ferlytc.com
 ffmobi.com
 21.fh21static.com
 fhitagd.cn
-rblnnql.fhmselx.cn
 www.fiibz.cn
 fileshider.com
 firefang.cn
@@ -2697,7 +2697,6 @@ hh04050aoik.com
 hh6666.com
 hhdr-telegram.com.cn
 hhttm.top
-hhbs.hhu.edu.cn
 sdd.hi1718.com
 hi9377.com
 s1.hiapk.com
@@ -6729,8 +6728,6 @@ yunshipei.com
 app.storage.yunvm.com
 httpdns.yunxindns.com
 statistic-overseas.yunxinfw.com
-logrcv.yunxish.com
-tracelog-debug.yunxish.com
 yunzhanghe.cn
 yuxing.hl.cn
 yuyue008.cn
@@ -6973,6 +6970,7 @@ pvtest.zol.com.cn
 stat.zol.com.cn
 wappv.zol.com.cn
 ydjs.zol.com.cn
+static.zongheng.com
 zonst.com
 zooj.cn
 adm.zookingsoft.com

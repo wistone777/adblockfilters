@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/29 01:54:45
-#!support=7019
+#!date=2026/04/29 11:54:50
+#!support=7017
 #!proxy-select=REJECT-DROP
 #
 .011211.cn
@@ -830,7 +830,6 @@
 .alipaylog.com
 .acjs.aliyun.com
 .click.aliyun.com
-.update.aegis.aliyun.com
 .1fur2cuzsul-sdk.rum.aliyuncs.com
 .1fw35mn5y7h-sdk.rum.aliyuncs.com
 .1hlahoc4rpc-sdk.rum.aliyuncs.com
@@ -1635,7 +1634,9 @@
 .cmpxaup.cn
 .cn-aii4.hl.cn
 .cn-office-wps.com.cn
-.cn-oyi-okx.com.cn
+.m.cn-oyi-okx.com.cn
+.www.cn-oyi-okx.com.cn
+.zh.cn-oyi-okx.com.cn
 .cn-platform-wps.com.cn
 .cn-safew-zh.hl.cn
 .www.cn-wap-fengniaogame.com
@@ -2206,7 +2207,6 @@
 .ffmobi.com
 .21.fh21static.com
 .fhitagd.cn
-.rblnnql.fhmselx.cn
 .www.fiibz.cn
 .fileshider.com
 .firefang.cn
@@ -2704,7 +2704,6 @@
 .hh6666.com
 .hhdr-telegram.com.cn
 .hhttm.top
-.hhbs.hhu.edu.cn
 .sdd.hi1718.com
 .hi9377.com
 .s1.hiapk.com
@@ -6736,8 +6735,6 @@
 .app.storage.yunvm.com
 .httpdns.yunxindns.com
 .statistic-overseas.yunxinfw.com
-.logrcv.yunxish.com
-.tracelog-debug.yunxish.com
 .yunzhanghe.cn
 .yuxing.hl.cn
 .yuyue008.cn
@@ -6980,6 +6977,7 @@
 .stat.zol.com.cn
 .wappv.zol.com.cn
 .ydjs.zol.com.cn
+.static.zongheng.com
 .zonst.com
 .zooj.cn
 .adm.zookingsoft.com

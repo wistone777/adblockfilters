@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/29 01:54:45
-#!support=7019
+#!date=2026/04/29 11:54:49
+#!support=7017
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,011211.cn
@@ -827,7 +827,6 @@ DOMAIN-SUFFIX,loggw.alipaydns.com
 DOMAIN-SUFFIX,alipaylog.com
 DOMAIN-SUFFIX,acjs.aliyun.com
 DOMAIN-SUFFIX,click.aliyun.com
-DOMAIN-SUFFIX,update.aegis.aliyun.com
 DOMAIN-SUFFIX,1fur2cuzsul-sdk.rum.aliyuncs.com
 DOMAIN-SUFFIX,1fw35mn5y7h-sdk.rum.aliyuncs.com
 DOMAIN-SUFFIX,1hlahoc4rpc-sdk.rum.aliyuncs.com
@@ -1632,7 +1631,9 @@ DOMAIN-SUFFIX,senlog.cmpassport.com
 DOMAIN-SUFFIX,cmpxaup.cn
 DOMAIN-SUFFIX,cn-aii4.hl.cn
 DOMAIN-SUFFIX,cn-office-wps.com.cn
-DOMAIN-SUFFIX,cn-oyi-okx.com.cn
+DOMAIN-SUFFIX,m.cn-oyi-okx.com.cn
+DOMAIN-SUFFIX,www.cn-oyi-okx.com.cn
+DOMAIN-SUFFIX,zh.cn-oyi-okx.com.cn
 DOMAIN-SUFFIX,cn-platform-wps.com.cn
 DOMAIN-SUFFIX,cn-safew-zh.hl.cn
 DOMAIN-SUFFIX,www.cn-wap-fengniaogame.com
@@ -2203,7 +2204,6 @@ DOMAIN-SUFFIX,ks.ferlytc.com
 DOMAIN-SUFFIX,ffmobi.com
 DOMAIN-SUFFIX,21.fh21static.com
 DOMAIN-SUFFIX,fhitagd.cn
-DOMAIN-SUFFIX,rblnnql.fhmselx.cn
 DOMAIN-SUFFIX,www.fiibz.cn
 DOMAIN-SUFFIX,fileshider.com
 DOMAIN-SUFFIX,firefang.cn
@@ -2701,7 +2701,6 @@ DOMAIN-SUFFIX,hh04050aoik.com
 DOMAIN-SUFFIX,hh6666.com
 DOMAIN-SUFFIX,hhdr-telegram.com.cn
 DOMAIN-SUFFIX,hhttm.top
-DOMAIN-SUFFIX,hhbs.hhu.edu.cn
 DOMAIN-SUFFIX,sdd.hi1718.com
 DOMAIN-SUFFIX,hi9377.com
 DOMAIN-SUFFIX,s1.hiapk.com
@@ -6733,8 +6732,6 @@ DOMAIN-SUFFIX,yunshipei.com
 DOMAIN-SUFFIX,app.storage.yunvm.com
 DOMAIN-SUFFIX,httpdns.yunxindns.com
 DOMAIN-SUFFIX,statistic-overseas.yunxinfw.com
-DOMAIN-SUFFIX,logrcv.yunxish.com
-DOMAIN-SUFFIX,tracelog-debug.yunxish.com
 DOMAIN-SUFFIX,yunzhanghe.cn
 DOMAIN-SUFFIX,yuxing.hl.cn
 DOMAIN-SUFFIX,yuyue008.cn
@@ -6977,6 +6974,7 @@ DOMAIN-SUFFIX,pvtest.zol.com.cn
 DOMAIN-SUFFIX,stat.zol.com.cn
 DOMAIN-SUFFIX,wappv.zol.com.cn
 DOMAIN-SUFFIX,ydjs.zol.com.cn
+DOMAIN-SUFFIX,static.zongheng.com
 DOMAIN-SUFFIX,zonst.com
 DOMAIN-SUFFIX,zooj.cn
 DOMAIN-SUFFIX,adm.zookingsoft.com
