@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX’s Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20260430014700
-! Last modified: 2026/04/30 01:47:00
-! Blocked domains: 7416
+! Version: 20260430115559
+! Last modified: 2026/04/30 11:55:59
+! Blocked domains: 7408
 !
 013572.cn
 019103.com
@@ -1280,7 +1280,6 @@ wzjs.cdn.bcebos.com
 wzjs2.cdn.bcebos.com
 httpdns.bcelive.com
 bckrono.cn
-rypmzf.bd3le4.cn
 ecma.bdimg.com
 ecmb.bdimg.com
 ecmc.bdimg.com
@@ -2207,7 +2206,6 @@ etui8.cn
 euuh.cn
 g.x.evolife.cn
 evri-parcelq.cn
-evri-parcelw.cn
 www.evri-uk.help
 duologinsupersdk.ewan.cn
 ewrrpuquc1.com
@@ -3250,7 +3248,6 @@ rabc1.iteye.com
 rabc2.iteye.com
 stat.iteye.com
 ityangstudy.cn
-ivbmu.cn
 ivqtrjt.cn
 blog.ivup.cn
 ad.iwhop.cn
@@ -3449,7 +3446,6 @@ e.jzvog.cn
 m.jzvog.cn
 k1-binance.com.cn
 k2n0f.cn
-k60f.xyz
 k69wes8q8.com
 k99.cc
 log.kaayun.com
@@ -3971,7 +3967,6 @@ mangomob.net
 adsapi.manhuaren.com
 bi.manhuaren.com
 euadsapi.manhuaren.com
-mankalong.cn
 manyou.com
 adx.maplehaze.cn
 accounts.marketwebb.me
@@ -4517,7 +4512,6 @@ ozogame.com
 p0yixb3wfv.com
 p1-binance.com.cn
 p188.cn
-p215p.xyz
 p2cdn.com
 p555.cc
 p74ugyuur.com
@@ -5833,7 +5827,6 @@ datas.tianqistatic.com
 yptqys.tianqistatic.com
 fz.tiansys.cn
 tiantiansoft.com
-yamaxun.tianzhe.cn
 adx-bid.tianzhuobj.com
 tiaosa.cn
 tiexing.com
@@ -5847,7 +5840,6 @@ img2.titan007.com
 a.tiyuxiu.com
 tjfytech.com
 tjq.com
-shop.tkkuajinfui.icu
 tkmdng.cn
 tkmly.cn
 livetech.shopee.com.br.tlivecdn.com
