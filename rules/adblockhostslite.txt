@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX’s Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、neodevhost。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/wistone777/adblockfilters
 # Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260501175608
-# Last modified: 2026/05/01 17:56:08
-# Blocked domains: 7713
+# Version: 20260502010839
+# Last modified: 2026/05/02 01:08:39
+# Blocked domains: 7693
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -489,7 +489,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	58tg.com
 0.0.0.0	595image.com
 0.0.0.0	59gt.cn
-0.0.0.0	5ae967e43f81bf37.com
 0.0.0.0	5b0a1c63v9.com
 0.0.0.0	5etv.com
 0.0.0.0	5hffr1p22j.com
@@ -558,7 +557,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	bdcdncnc.inter.71edge.com
 0.0.0.0	mfkn.71mxc6.cn
 0.0.0.0	71zrh.cn
-0.0.0.0	www.72072.xyz
 0.0.0.0	72225.xyz
 0.0.0.0	73336zubo25326.com
 0.0.0.0	e.73z9p.cn
@@ -696,7 +694,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	acgshenshicha.cn
 0.0.0.0	passport.acla.org.cn
 0.0.0.0	acloud.com
-0.0.0.0	aclsx.cn
 0.0.0.0	acoxcv.cn
 0.0.0.0	memelq.acs.org
 0.0.0.0	pubstr.acs.org
@@ -704,7 +701,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ads.activepower.net
 0.0.0.0	ad-plus.cn
 0.0.0.0	ad-scope.com.cn
-0.0.0.0	ad-web-whatsapp.com.cn
 0.0.0.0	ad7.com
 0.0.0.0	adanxing.com
 0.0.0.0	adbana.com
@@ -1046,7 +1042,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	app-safew-safew.hl.cn
 0.0.0.0	app-safew-win.hl.cn
 0.0.0.0	app-safew-zh.hl.cn
-0.0.0.0	app-whatsapp-hl.com.cn
 0.0.0.0	appadhoc.net
 0.0.0.0	mobile.appchina.com
 0.0.0.0	appdriver.cn
@@ -1740,7 +1735,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	clasha.hl.cn
 0.0.0.0	clashd.hl.cn
 0.0.0.0	clashqaz.hl.cn
-0.0.0.0	clawxx.com.cn
 0.0.0.0	cleartone.club
 0.0.0.0	log-api.cli.im
 0.0.0.0	click.com.cn
@@ -2149,7 +2143,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	stun1.douyucdn.cn
 0.0.0.0	dotcounter.douyutv.com
 0.0.0.0	download-m-whatsapp.com.cn
-0.0.0.0	download-web-whatsapp.com.cn
 0.0.0.0	s.doyo.cn
 0.0.0.0	umami.dp.tech
 0.0.0.0	s.dpcq1.net
@@ -2384,11 +2377,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	fansd-youdao.hl.cn
 0.0.0.0	fanyi100.com.cn
 0.0.0.0	fanzhuang.net.cn
-0.0.0.0	fasm-youdao.com.cn
-0.0.0.0	fasp-youdao.com.cn
 0.0.0.0	fastapi.net
 0.0.0.0	fastcache.com.cn
-0.0.0.0	fasuu-youdao.com.cn
 0.0.0.0	dsp.fcbox.com
 0.0.0.0	hugelog.fcbox.com
 0.0.0.0	fccxgjg.com
@@ -3580,7 +3570,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	1.jushtong.com
 0.0.0.0	juzi.cn
 0.0.0.0	kkgyqft.jvjme.cn
-0.0.0.0	jwb-whatsapp.com.cn
 0.0.0.0	jwg365.cn
 0.0.0.0	kzni.jwhfn.cn
 0.0.0.0	jxdown.com
@@ -3732,8 +3721,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	kuailian-888.com.cn
 0.0.0.0	kuailian-ab1.com.cn
 0.0.0.0	kuailian-ab2.com.cn
-0.0.0.0	kuailian-asq.com.cn
-0.0.0.0	kuailian-asu.com.cn
 0.0.0.0	kuailian-cd1.com.cn
 0.0.0.0	kuailian-cd2.com.cn
 0.0.0.0	kuailian-do.com.cn
@@ -4398,7 +4385,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	mo.mptckm.cn
 0.0.0.0	mrlxc51byo.com
 0.0.0.0	mrw.so
-0.0.0.0	msgdex-whatsapp.com.cn
 0.0.0.0	srtb.msn.cn
 0.0.0.0	c.msn.com.cn
 0.0.0.0	livewebbs2pcdn.msstatic.com
@@ -4605,7 +4591,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ad.oceanengine.com
 0.0.0.0	analytics.oceanengine.com
 0.0.0.0	offerstrack.net
-0.0.0.0	office-wps-hl.com.cn
 0.0.0.0	office-wps-hl.hl.cn
 0.0.0.0	office0.cn
 0.0.0.0	office300.com.cn
@@ -4802,7 +4787,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	plt.data.pplive.com
 0.0.0.0	ppvabs.pplive.com
 0.0.0.0	web.data.pplive.com
-0.0.0.0	pps-web-whatsapp.com.cn
 0.0.0.0	game.pps.tv
 0.0.0.0	api.afdback.ppsimg.com
 0.0.0.0	static.g.ppstream.com
@@ -4817,7 +4801,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	pqjprom.cn
 0.0.0.0	prasquinor.jp
 0.0.0.0	prlioxb.cn
-0.0.0.0	proewildfire.cn
 0.0.0.0	info.protiviti.com.cn
 0.0.0.0	protonmail.org.cn
 0.0.0.0	exhmxly.przc.cn
@@ -4878,7 +4861,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	top.h.qhmsg.com
 0.0.0.0	qhonzpl.cn
 0.0.0.0	news.qhstatic.com
-0.0.0.0	qhyxx-live.com
 0.0.0.0	c.qiandao.cn
 0.0.0.0	sensors-api.qiandao.cn
 0.0.0.0	download.qianka.com
@@ -6672,7 +6654,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ee.w82ph.cn
 0.0.0.0	m.w82ph.cn
 0.0.0.0	w97nv5ibv4.com
-0.0.0.0	wa-web-whatsapp.com.cn
 0.0.0.0	w.waacorp.com
 0.0.0.0	oxussid.waazsz.cn
 0.0.0.0	tongdun-fingerprint.walmartmobile.cn
@@ -6727,7 +6708,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	zgzxm.weathercn.com
 0.0.0.0	zgzxs.weathercn.com
 0.0.0.0	weaxym.com
-0.0.0.0	web-drp-whatsapp.com.cn
 0.0.0.0	web-qishui.com.cn
 0.0.0.0	web3-coindenex.com
 0.0.0.0	web605.cn

@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX’s Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20260501175608
-! Last modified: 2026/05/01 17:56:08
-! Blocked domains: 7713
+! Version: 20260502010839
+! Last modified: 2026/05/02 01:08:39
+! Blocked domains: 7693
 !
 011211.cn
 013572.cn
@@ -474,7 +474,6 @@ analytics.58pic.com
 58tg.com
 595image.com
 59gt.cn
-5ae967e43f81bf37.com
 5b0a1c63v9.com
 5etv.com
 5hffr1p22j.com
@@ -543,7 +542,6 @@ bdcdncmn-gd.inter.71edge.com
 bdcdncnc.inter.71edge.com
 mfkn.71mxc6.cn
 71zrh.cn
-www.72072.xyz
 72225.xyz
 73336zubo25326.com
 e.73z9p.cn
@@ -681,7 +679,6 @@ jscode.acg68.com
 acgshenshicha.cn
 passport.acla.org.cn
 acloud.com
-aclsx.cn
 acoxcv.cn
 memelq.acs.org
 pubstr.acs.org
@@ -689,7 +686,6 @@ swebanalytics.acs.org
 ads.activepower.net
 ad-plus.cn
 ad-scope.com.cn
-ad-web-whatsapp.com.cn
 ad7.com
 adanxing.com
 adbana.com
@@ -1031,7 +1027,6 @@ app-safew-com.hl.cn
 app-safew-safew.hl.cn
 app-safew-win.hl.cn
 app-safew-zh.hl.cn
-app-whatsapp-hl.com.cn
 appadhoc.net
 mobile.appchina.com
 appdriver.cn
@@ -1725,7 +1720,6 @@ clarins.com.cn
 clasha.hl.cn
 clashd.hl.cn
 clashqaz.hl.cn
-clawxx.com.cn
 cleartone.club
 log-api.cli.im
 click.com.cn
@@ -2134,7 +2128,6 @@ stun.douyucdn.cn
 stun1.douyucdn.cn
 dotcounter.douyutv.com
 download-m-whatsapp.com.cn
-download-web-whatsapp.com.cn
 s.doyo.cn
 umami.dp.tech
 s.dpcq1.net
@@ -2369,11 +2362,8 @@ fanqianbb.com
 fansd-youdao.hl.cn
 fanyi100.com.cn
 fanzhuang.net.cn
-fasm-youdao.com.cn
-fasp-youdao.com.cn
 fastapi.net
 fastcache.com.cn
-fasuu-youdao.com.cn
 dsp.fcbox.com
 hugelog.fcbox.com
 fccxgjg.com
@@ -3565,7 +3555,6 @@ jusha.com
 1.jushtong.com
 juzi.cn
 kkgyqft.jvjme.cn
-jwb-whatsapp.com.cn
 jwg365.cn
 kzni.jwhfn.cn
 jxdown.com
@@ -3717,8 +3706,6 @@ kuailian-666.com.cn
 kuailian-888.com.cn
 kuailian-ab1.com.cn
 kuailian-ab2.com.cn
-kuailian-asq.com.cn
-kuailian-asu.com.cn
 kuailian-cd1.com.cn
 kuailian-cd2.com.cn
 kuailian-do.com.cn
@@ -4383,7 +4370,6 @@ mp83fkx.cn
 mo.mptckm.cn
 mrlxc51byo.com
 mrw.so
-msgdex-whatsapp.com.cn
 srtb.msn.cn
 c.msn.com.cn
 livewebbs2pcdn.msstatic.com
@@ -4590,7 +4576,6 @@ nyvqdp.ocbsse.cn
 ad.oceanengine.com
 analytics.oceanengine.com
 offerstrack.net
-office-wps-hl.com.cn
 office-wps-hl.hl.cn
 office0.cn
 office300.com.cn
@@ -4787,7 +4772,6 @@ gas.data.pplive.com
 plt.data.pplive.com
 ppvabs.pplive.com
 web.data.pplive.com
-pps-web-whatsapp.com.cn
 game.pps.tv
 api.afdback.ppsimg.com
 static.g.ppstream.com
@@ -4802,7 +4786,6 @@ tj.g.pptv.com
 pqjprom.cn
 prasquinor.jp
 prlioxb.cn
-proewildfire.cn
 info.protiviti.com.cn
 protonmail.org.cn
 exhmxly.przc.cn
@@ -4863,7 +4846,6 @@ top.h.qhimg.com
 top.h.qhmsg.com
 qhonzpl.cn
 news.qhstatic.com
-qhyxx-live.com
 c.qiandao.cn
 sensors-api.qiandao.cn
 download.qianka.com
@@ -6657,7 +6639,6 @@ w8.com.cn
 ee.w82ph.cn
 m.w82ph.cn
 w97nv5ibv4.com
-wa-web-whatsapp.com.cn
 w.waacorp.com
 oxussid.waazsz.cn
 tongdun-fingerprint.walmartmobile.cn
@@ -6712,7 +6693,6 @@ mbs.weathercn.com
 zgzxm.weathercn.com
 zgzxs.weathercn.com
 weaxym.com
-web-drp-whatsapp.com.cn
 web-qishui.com.cn
 web3-coindenex.com
 web605.cn
