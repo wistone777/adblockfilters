@@ -4,9 +4,9 @@ payload:
   # Description: 适用于 Clash Meta(Mihomo) 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX’s Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、neodevhost。Lite 版仅针对国内域名拦截。
   # Homepage: https://github.com/wistone777/adblockfilters
   # Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockmihomolite.yaml
-  # Version: 20260501014053
-  # Last modified: 2026/05/01 01:40:53
-  # Blocked domains: 7453
+  # Version: 20260501120742
+  # Last modified: 2026/05/01 12:07:42
+  # Blocked domains: 7442
   #
   - '+.011211.cn'
   - '+.013572.cn'
@@ -1591,7 +1591,6 @@ payload:
   - '+.ssgg.chazidian.com'
   - '+.yong.chazidian.com'
   - '+.bdasd.chdbook.cn'
-  - '+.host.chejieqixiu.com'
   - '+.atrace.chelaile.net.cn'
   - '+.logs.chelaile.net.cn'
   - '+.chemdraw.com.cn'
@@ -1717,7 +1716,6 @@ payload:
   - '+.ggc.cmvideo.cn'
   - '+.ggv.cmvideo.cn'
   - '+.ggx.cmvideo.cn'
-  - '+.m.cn-oyi-okx.com.cn'
   - '+.www.cn-oyi-okx.com.cn'
   - '+.zh.cn-oyi-okx.com.cn'
   - '+.www.cn-wap-fengniaogame.com'
@@ -2266,7 +2264,6 @@ payload:
   - '+.erlpbwy.cn'
   - '+.ethan.wang'
   - '+.etitgo.com'
-  - '+.c.etoolads.cn'
   - '+.marketing.etouch.cn'
   - '+.etui8.cn'
   - '+.euuh.cn'
@@ -3234,7 +3231,6 @@ payload:
   - '+.paopao-monitor.iqiyi.com'
   - '+.policy.video.iqiyi.com'
   - '+.puma-api.iqiyi.com'
-  - '+.puma.api.iqiyi.com'
   - '+.static-s.iqiyi.com'
   - '+.static.g.iqiyi.com'
   - '+.store.iqiyi.com'
@@ -5052,7 +5048,6 @@ payload:
   - '+.ad.quwin.cn'
   - '+.vn-ebay.quxlpuj.cn'
   - '+.quyaoya.com'
-  - '+.api.qvpublish.com'
   - '+.u.qxen.com'
   - '+.api.ts.feedback.qy.net'
   - '+.msg.qy.net'
@@ -5247,7 +5242,6 @@ payload:
   - '+.stats.sg-light-edge.com'
   - '+.sg92.com'
   - '+.sgcn-wps.com.cn'
-  - '+.track.sgdmobile.com'
   - '+.sglyd.cn'
   - '+.zqzrzcto.shacukj.cn'
   - '+.w88.shanghaidisneyresort.com.cn'
@@ -5828,7 +5822,6 @@ payload:
   - '+.tianji520.cn'
   - '+.tianjimedia.com'
   - '+.tianmidian.com'
-  - '+.tracker.tianmu.mobi'
   - '+.tiannbo.com'
   - '+.ip.tianqiapi.com'
   - '+.datas.tianqistatic.com'
@@ -5884,7 +5877,6 @@ payload:
   - '+.topsem.com'
   - '+.topstat.cn'
   - '+.static.topxgun.com'
-  - '+.api.touch-moblie.com'
   - '+.touclick.com'
   - '+.toushibao.com'
   - '+.ad.toutiao.com'
@@ -5934,7 +5926,6 @@ payload:
   - '+.tui98.cn'
   - '+.tuia.cn'
   - '+.activity.tuiapple.com'
-  - '+.activity.tuifish.com'
   - '+.lm1.tuliu.com'
   - '+.tumeite.cn'
   - '+.analy.tuniu.cn'
@@ -6075,7 +6066,6 @@ payload:
   - '+.updatehub.nx.cn'
   - '+.updatehub.sx.cn'
   - '+.uphzxdv.cn'
-  - '+.ads-sdk-cn.upltv.com'
   - '+.mobilelog.upqzfile.com'
   - '+.other.upqzfile.com'
   - '+.video.upqzfile.com'
@@ -7447,7 +7437,6 @@ payload:
   - '+.5mm.zxfw5.cn'
   - '+.zxiws.cn'
   - '+.zxrcfw.com'
-  - '+.api.ssp.zxrtb.com'
   - '+.zxw51.com'
   - '+.httpdns.zybang.com'
   - '+.mf01.zybang.com'
