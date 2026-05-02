@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX’s Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts、anti-AD、neodevhost。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/wistone777/adblockfilters
 # Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260502010839
-# Last modified: 2026/05/02 01:08:39
-# Blocked domains: 7693
+# Version: 20260502114017
+# Last modified: 2026/05/02 11:40:17
+# Blocked domains: 7686
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -967,7 +967,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	o2o-ad-dev.oss-cn-shanghai.aliyuncs.com
 0.0.0.0	retcode-sg-lazada.arms.aliyuncs.com
 0.0.0.0	ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com
-0.0.0.0	sgnfyn.oss-cn-shenzhen.aliyuncs.com
 0.0.0.0	shangmei-test.oss-cn-beijing.aliyuncs.com
 0.0.0.0	shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 0.0.0.0	star-seo.oss-ap-northeast-1.aliyuncs.com
@@ -3142,7 +3141,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	huayiav.cn
 0.0.0.0	hubcloud.com.cn
 0.0.0.0	hubiazhi.com
-0.0.0.0	download2.huduntech.com
 0.0.0.0	huidakms.com.cn
 0.0.0.0	huishenghuiying.com
 0.0.0.0	huishenghuiying.com.cn
@@ -3290,7 +3288,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	metrics.ilovematlab.cn
 0.0.0.0	smetrics.ilovematlab.cn
 0.0.0.0	imageter.com
-0.0.0.0	windriversfiles.imeitools.com
 0.0.0.0	img001.com
 0.0.0.0	tj.img4399.com
 0.0.0.0	imindmap.cc
@@ -3569,7 +3566,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	jusha.com
 0.0.0.0	1.jushtong.com
 0.0.0.0	juzi.cn
-0.0.0.0	kkgyqft.jvjme.cn
 0.0.0.0	jwg365.cn
 0.0.0.0	kzni.jwhfn.cn
 0.0.0.0	jxdown.com
@@ -4843,8 +4839,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	qdhyy.cn
 0.0.0.0	qdn4ydsg3s.com
 0.0.0.0	qdsfzz.cn
-0.0.0.0	apple114f41a952c24ba9b27973dd84b97604.qduxz.cn
-0.0.0.0	www.qduxz.cn
 0.0.0.0	qdzilh.cn
 0.0.0.0	qeeyou.cn
 0.0.0.0	qevcxo.cn
@@ -7659,7 +7653,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	stat.zol.com.cn
 0.0.0.0	wappv.zol.com.cn
 0.0.0.0	ydjs.zol.com.cn
-0.0.0.0	static.zongheng.com
 0.0.0.0	zonst.com
 0.0.0.0	zooj.cn
 0.0.0.0	adm.zookingsoft.com
