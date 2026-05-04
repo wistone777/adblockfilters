@@ -118,5 +118,3 @@ class ReadMe(object):
                 f.write("| %s | %s |%s %s |\n" % (rule.name, rule.type, self.__subscribeLink(rule.filename, rule.url),rule.latest))
             f.write("\n")
             
-            f.write("## Star History\n")
-            f.write("[![Star History Chart](https://api.star-history.com/svg?repos=wistone777/adblockfilters&type=Date)](https://star-history.com/#wistone777/adblockfilters&Date)\n")
