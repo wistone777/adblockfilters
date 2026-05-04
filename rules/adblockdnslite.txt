@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260504182209
-! Last modified: 2026/05/04 18:22:09
-! Blocked domains: 7581
+! Version: 20260505014831
+! Last modified: 2026/05/05 01:48:31
+! Blocked domains: 7575
 ! unBlocked domains: 30
 !
 ||011211.cn^
@@ -2663,14 +2663,12 @@
 ||google-ah.com.cn^
 ||google-analytics-cn.com^
 ||google-analytics.com^
-||google-apps-chrome.hl.cn^
 ||google-cchhrome.hl.cn^
 ||google-ch-chrome.com.cn^
 ||google-chrome-down.com.cn^
 ||google-chrome-pcc.com.cn^
 ||google-chrome-qq.com.cn^
 ||google-chrrome-zh.hl.cn^
-||google-chrromee.hl.cn^
 ||google-chrrrome.hl.cn^
 ||google-cn-zh-chrome.hl.cn^
 ||google-cnzh-chrome-hl.hl.cn^
@@ -2681,7 +2679,6 @@
 ||google-og.com.cn^
 ||google-zh-cn-chrome.hl.cn^
 ||google-zhcn-chrome.com.cn^
-||google-zhcn-chrome.hl.cn^
 ||ads.google.cn^
 ||adsense.google.cn^
 ||adservice.google.com^
@@ -6611,7 +6608,6 @@
 ||zgzxs.weathercn.com^
 ||weaxym.com^
 ||web-qishui.com.cn^
-||web3-coindenex.com^
 ||web605.cn^
 ||webdissector.com^
 ||webfunny.cn^
@@ -6709,7 +6705,6 @@
 ||wps-bgcn.com.cn^
 ||wps-bgcom.com.cn^
 ||wps-cn-ol.com.cn^
-||wps-cnzh-office.com.cn^
 ||wps-hkcn.com.cn^
 ||wps-hkzh.com.cn^
 ||wps-offfice-cn.com.cn^
@@ -6723,7 +6718,6 @@
 ||wps-pros.com.cn^
 ||wps-sj.com.cn^
 ||wps-spw.hl.cn^
-||wps-zh-office.com.cn^
 ||wps-zhcn-offce.com.cn^
 ||wps-zhcn-office.hl.cn^
 ||wps.ac.cn^
