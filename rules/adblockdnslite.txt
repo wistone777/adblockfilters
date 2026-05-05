@@ -1,12 +1,12 @@
 !
 ! Title: AdBlock DNS Lite
-! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、neodevhost。Lite 版仅针对国内域名拦截。
+! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260505201917
-! Last modified: 2026/05/05 20:19:17
+! Version: 20260505203213
+! Last modified: 2026/05/05 20:32:13
 ! Blocked domains: 5331
-! unBlocked domains: 15
+! unBlocked domains: 21
 !
 ||014d3c192313c843.com^
 ||0160b12e12c2689b.com^
@@ -5339,6 +5339,9 @@
 ||log-auth.zztfly.com^
 ||upc.zztfly.com^
 ||zztxr.cn^
+@@||adm.10jqka.com.cn^
+@@||adverts.1foo.com^
+@@||ads.95516.com^
 @@||captcha.su.baidu.com^
 @@||buyad.bi-xenon.cn^
 @@||acs-m.daraz.pk^
@@ -5349,8 +5352,11 @@
 @@||x2.ifengimg.com^
 @@||advert.kf5.com^
 @@||trk.ecomm.lenovo.com^
+@@||ads.lingxing.com^
 @@||log.mmstat.com^
 @@||sax.sina.com.cn^
 @@||sobot.com^
 @@||click.simba.taobao.com^
+@@||ad.vivo.com.cn^
+@@||widget.weibo.com^
 @@||app-advertise.zhihuishu.com^

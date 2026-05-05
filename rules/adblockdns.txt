@@ -1,12 +1,12 @@
 !
 ! Title: AdBlock DNS
-! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、neodevhost。
+! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdns.txt
-! Version: 20260505201917
-! Last modified: 2026/05/05 20:19:17
+! Version: 20260505203213
+! Last modified: 2026/05/05 20:32:13
 ! Blocked domains: 255600
-! unBlocked domains: 225
+! unBlocked domains: 278
 !
 ||0-0.fr^
 ||0-02.net^
@@ -255608,14 +255608,20 @@
 ||zzzmjfixezere.site^
 ||zzzperform.com^
 ||zzzzzzzkplpllllpppllpppl.com^
+@@||adm.10jqka.com.cn^
+@@||widget.1688.com^
+@@||files.1drv.com^
+@@||adverts.1foo.com^
 @@||alllaw.112.2o7.net^
 @@||citiintl.122.2o7.net^
 @@||puma.112.2o7.net^
 @@||vitacost.122.2o7.net^
 @@||s.mvconf.f.360.cn^
+@@||ads.95516.com^
 @@||px.a8.net^
 @@||ad-gone.com^
 @@||ad.jp^
+@@||ad.nl^
 @@||ad-block.dns.adguard.com^
 @@||adblock.adguard.com^
 @@||download.adguard.com^
@@ -255626,18 +255632,24 @@
 @@||go.adjust.com^
 @@||feed.adrelayer.com^
 @@||afi-b.com^
+@@||login-sh.aki-game.com^
+@@||ads.console.aliyun.com^
+@@||pixel.prime.amazon.dev^
 @@||analytics.amplitude.com^
 @@||79423.analytics.edgekey.net^
 @@||ma135-r.analytics.edgekey.net^
 @@||ssai.aniview.com^
 @@||click.appcast.io^
+@@||analytics.itunes.apple.com^
 @@||artifactory.appodeal.com^
 @@||app.appsflyer.com^
 @@||cdn.atmedia.hu^
 @@||click.avs.io^
 @@||awin1.com^
 @@||email.awscloud.com^
+@@||ad.ext.azure.cn^
 @@||ad.azure.com^
+@@||ad.ext.azure.com^
 @@||js.monitor.azure.com^
 @@||baozhang.baidu.com^
 @@||captcha.su.baidu.com^
@@ -255658,11 +255670,13 @@
 @@||autocomplete.clearbit.com^
 @@||netatmo.commander1.com^
 @@||puzzles-games-api.gp-prod.conde.digital^
+@@||ads.atmosphere.copernicus.eu^
 @@||data.digital.costco.ca^
 @@||data.digital.costco.com^
 @@||data.orders.costco.com^
 @@||counter-strike.net^
 @@||click.cptrack.de^
+@@||adm.crowdicity.com^
 @@||tags.crwdcntrl.net^
 @@||e.customeriomail.com^
 @@||cutcaptcha.com^
@@ -255673,11 +255687,14 @@
 @@||cdn.datatables.net^
 @@||sbs.demdex.net^
 @@||media-consumer365.desigual.com^
+@@||adashx.ut.dingtalk.com^
+@@||h-adashx.ut.dingtalk.com^
 @@||refer.discover.com^
 @@||redirect.disqus.com^
 @@||banner.dna.fi^
 @@||api.docodoco.jp^
 @@||www.dogpile.com^
+@@||ads.doordash.com^
 @@||cj.dotomi.com^
 @@||5471782.fls.doubleclick.net^
 @@||pagead.l.doubleclick.net^
@@ -255687,17 +255704,23 @@
 @@||daikoku.ebis.ne.jp^
 @@||f-gear.ec-optimizer.com^
 @@||itoya.ec-optimizer.com^
+@@||ads.elevateplatform.co.uk^
 @@||email.elitedangerous.com^
 @@||dxcloud.episerver.net^
 @@||partner.everydays.de^
 @@||click.virt.exacttarget.com^
 @@||public-cis.exponea.com^
+@@||widget.ezidebit.com.au^
+@@||star.c10r.facebook.com^
+@@||star.fallback.c10r.facebook.com^
+@@||www.fbsbx.com^
 @@||gate.first-id.fr^
 @@||home.focusatwill.com^
 @@||login.gaijin.net^
 @@||tlh.gedidigital.it^
 @@||str.hit.gemius.pl^
 @@||links.getblueshift.com^
+@@||ads.google.com^
 @@||developers.google.com^
 @@||www.googleadservices.com^
 @@||promo.gramedia.com^
@@ -255706,6 +255729,7 @@
 @@||hidive.com^
 @@||href.li^
 @@||id.i2i.jp^
+@@||metrics.icloud.com^
 @@||marketing.net.idealo-partner.com^
 @@||x2.ifengimg.com^
 @@||prod.impartner.live^
@@ -255713,21 +255737,27 @@
 @@||cmp.inmobi.com^
 @@||widget.intercom.io^
 @@||ia.hit.interia.pl^
+@@||iufostworldcongress-singapore.com^
 @@||www.jdoqocy.com^
 @@||stat.jseea.cn^
 @@||api.karte.io^
 @@||ad.kazakinfo.com^
 @@||advert.kf5.com^
 @@||learn.khanacademy.org^
+@@||tongji.koowo.cn^
 @@||omsc.kpn.com^
+@@||ku.dk^
 @@||tube.e.kuaishou.com^
 @@||trk.ecomm.lenovo.com^
 @@||torimochi.line-apps.com^
 @@||oa.tr.line.me^
+@@||ads.lingxing.com^
 @@||cl.link-ag.net^
 @@||linka.page^
+@@||ads.listonic.com^
 @@||skyapi.onedrive.live.com^
 @@||storage.live.com^
+@@||skyapi.live.net^
 @@||skydrivesync.policies.live.net^
 @@||logentries.com^
 @@||admin.mailchimp.com^
@@ -255735,10 +255765,14 @@
 @@||taiga.maven.io^
 @@||link.meet5.net^
 @@||action.metaffiliation.com^
+@@||ads.microsoft.com^
 @@||insideruser.microsoft.com^
 @@||settings-win.data.microsoft.com^
+@@||microsoftazuresponsorships.com^
+@@||ads.midwayusa.com^
 @@||api.huangye.miui.com^
 @@||log.mmstat.com^
+@@||code.sms.mob.com^
 @@||sdkapi.sms.mob.com^
 @@||meizu.coapi.moji.com^
 @@||link.morningbrew.com^
@@ -255758,6 +255792,8 @@
 @@||cloud.notification-naviextras.com^
 @@||link.nzz.ch^
 @@||c.office.com^
+@@||widget.rave.office.net^
+@@||api.onedrive.com^
 @@||sgqcvfjvr.onet.pl^
 @@||onl.bz^
 @@||nineto5mac-d.openx.net^
@@ -255767,6 +255803,7 @@
 @@||crm-cdn.peek-cloppenburg.com^
 @@||validate.perfdrive.com^
 @@||pgpartner.com^
+@@||ads.pinterest.com^
 @@||pics.porn300.com^
 @@||app.powerbi.com^
 @@||grp07.ias.rakuten.co.jp^
@@ -255788,7 +255825,12 @@
 @@||ad.siemens.com.cn^
 @@||cs.silverpop.com^
 @@||sax.sina.com.cn^
+@@||api.slightcommunicativeinterconnectedness.xyz^
+@@||ads.smartmidea.net^
+@@||ads.snapchat.com^
+@@||widget.sndcdn.com^
 @@||sobot.com^
+@@||ads.spotify.com^
 @@||gs.statcounter.com^
 @@||www.statcounter.com^
 @@||stats.gov.cn^
@@ -255805,18 +255847,26 @@
 @@||obituaries.therecord.com^
 @@||obituaries.thestar.com^
 @@||catchup.thisisdax.com^
+@@||widget.tianqiapi.com^
 @@||tj.gov.cn^
 @@||tongji.cn^
 @@||tongji.edu.cn^
+@@||torproject.org^
 @@||tracker.eu.org^
 @@||click.trafficguard.ai^
 @@||ap01.records.in.treasuredata.com^
+@@||ads.cdn.tvb.com^
 @@||api.ads.tvb.com^
 @@||img.ads.tvb.com^
+@@||ads.twitter.com^
 @@||stats.uptimerobot.com^
 @@||vcentry2.valuecommerce.ne.jp^
 @@||vcentry3.valuecommerce.ne.jp^
 @@||content.viralize.tv^
+@@||ad.vivo.com.cn^
+@@||ads.vk.com^
+@@||ads.vk.ru^
+@@||metrics.vrch.at^
 @@||goto.walmart.com^
 @@||omniture.walmart.com^
 @@||news.warhammer.com^
@@ -255824,11 +255874,14 @@
 @@||track.webgains.com^
 @@||anwb.webpower.eu^
 @@||future.biz.weibo.com^
+@@||widget.weibo.com^
 @@||edge-enterprise.activity.windows.com^
 @@||edge.activity.windows.com^
 @@||analysis.windows.net^
 @@||belgium.wolterskluwer.com^
 @@||s1.wp.com^
+@@||widgets.wp.com^
+@@||ads.x.com^
 @@||news-app.abumedia.yql.yahoo.com^
 @@||redirect.appmetrica.yandex.com^
 @@||app-advertise.zhihuishu.com^
