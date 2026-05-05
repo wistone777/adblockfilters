@@ -226,7 +226,7 @@ class Filter(object):
         unblockList, unblockSet_unblock = self.__domainSort(unblockDict, blackSet, whiteDict)
         filterList_var, filterList, domainSet_filter = self.__filterSort(filterDict, set(blockList), set(unblockList), blackSet, whiteSet)
 
-        # 生成合并规则 AdGuard, AdGuardHome, DNSMasq, InviZible, SmartDNS等
+        # 生成合并规则 AdGuard, AdGuardHome
         generaterList:List[APPBase] = [
             AdGuard           (blockList, unblockList, filterDict, filterList, filterList_var, ChinaSet, self.path + "/adblockfilters.txt",           sourceRule),
             AdGuardHome       (blockList, unblockList, filterDict, filterList, filterList_var, ChinaSet, self.path + "/adblockdns.txt",               sourceRule),
