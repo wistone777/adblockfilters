@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260506014511
-! Last modified: 2026/05/06 01:45:11
-! Blocked domains: 5318
+! Version: 20260506115606
+! Last modified: 2026/05/06 11:56:06
+! Blocked domains: 5262
 ! unBlocked domains: 21
 !
 ||014d3c192313c843.com^
@@ -440,7 +440,6 @@
 ||a32a.com.cn^
 ||a3p4.net^
 ||a479f0043be93b94.com^
-||a4bc2bc23ceed7cf.com^
 ||a4xvv2g18l.com^
 ||aa325302ec3d5c7b.com^
 ||aa528266aaffe0dd.com^
@@ -973,7 +972,6 @@
 ||baiducom.bj.bcebos.com^
 ||dingbu.bj.bcebos.com^
 ||fc-feed.cdn.bcebos.com^
-||global-staticplat.cdn.bcebos.com^
 ||mobads-pre-config.cdn.bcebos.com^
 ||qwe0231141.bj.bcebos.com^
 ||tob-cms.bj.bcebos.com^
@@ -1242,7 +1240,6 @@
 ||analytics.cnblogs.com^
 ||adm.cloud.cnfol.com^
 ||abcd.cnhuoche.com^
-||hmjs.cnmo-img.com.cn^
 ||webcert.cnmstl.net^
 ||adp.cnool.net^
 ||clickcount.cnool.net^
@@ -1320,7 +1317,6 @@
 ||ad.cyapi.cn^
 ||cyhbrjf.cn^
 ||cyq8vqq9s.com^
-||bwamis.cyuqraj.cn^
 ||a1.cyyangqiguan.com^
 ||lcatscpzx.cz592401.cn^
 ||c1.czcol.cn^
@@ -1477,7 +1473,6 @@
 ||doglobal.net^
 ||ads.doit.com.cn^
 ||dolphinpaper.com^
-||go.domino.com.cn^
 ||domob.cn^
 ||domob.com.cn^
 ||donchen501.cn^
@@ -1544,7 +1539,6 @@
 ||dvertyg.com^
 ||dvzk66.cn^
 ||dweixin.cn^
-||gmlddrla.dwsfipix.cn^
 ||untitled.dwstatic.com^
 ||dxpmedia.com^
 ||2021.dxsbb.com^
@@ -1584,14 +1578,12 @@
 ||ed1f62e2bb0f7d60.com^
 ||bhdleoncredito.edgeone.app^
 ||c2vydmvydxbkyxri-kte1fxva3p.edgeone.app^
-||critical-blush-g6rnkksr8r.edgeone.app^
 ||dotnotblock-pfwzl61nwt.edgeone.app^
 ||hq-cpanel-uptime-upgrade-hnrv61j7if.edgeone.app^
 ||0j9h876we-7gtl3x3m8j.edgeone.dev^
 ||fixverify-kzlxv1e5mb.edgeone.dev^
 ||gautamandgautam-byizfzvunb.edgeone.dev^
 ||gtttt.edgeone.dev^
-||gwqoplkgomencav.edgeone.dev^
 ||halblivcaslsa.edgeone.dev^
 ||healthnuringsafehomeoffloras.edgeone.dev^
 ||heydressuniversitydepartcolordesign.edgeone.dev^
@@ -1727,7 +1719,6 @@
 ||t-e.flyme.cn^
 ||t-flow.flyme.cn^
 ||log-auth.flysleep.cn^
-||gpmpnf.fnjsbkt.cn^
 ||adv-sv-show.focus.cn^
 ||adv-sv-stat.focus.cn^
 ||bdu.focus.cn^
@@ -1866,7 +1857,6 @@
 ||cpux.gmud.top^
 ||channel-analysis-js.gmw.cn^
 ||wpubzc.gnnja.cn^
-||go-todesk.hl.cn^
 ||go2yd.com^
 ||gocye.com^
 ||godloveme.cn^
@@ -1926,7 +1916,6 @@
 ||event-log-api-data-platform-data-lake-prod.gryphline.com^
 ||eventlog.gryphline.com^
 ||native-log-collect.gryphline.com^
-||atkufywo.gscahf.cn^
 ||gscatk.cn^
 ||logs.gshopper.com^
 ||w1.gskwai.com^
@@ -2147,14 +2136,11 @@
 ||hly.com^
 ||hmtoday.com^
 ||m.hmucc.com^
-||gwzokx.hnhcwl.cn^
 ||hnltcw.com^
 ||online.hnoexpo.com^
 ||hnol.net^
-||con-qrszl.ho2dh9.cn^
 ||metrics.hollisterco.cn^
 ||hologramid.cn^
-||homedecordiscount.shop^
 ||log.homestyler.com^
 ||hot-binance.com.cn^
 ||om.hotels.cn^
@@ -2519,7 +2505,6 @@
 ||koowo.com^
 ||a.koudai.com^
 ||b.kouke5.com^
-||vhkyauq.kprqddrd.cn^
 ||kqg8jh8rk.com^
 ||krk-telegram.com.cn^
 ||marketing.krones.com^
@@ -2670,7 +2655,6 @@
 ||matomo.lb-link.cn^
 ||cc.lbesec.com^
 ||lbprjdi.cn^
-||kdbgqvu.lbye3zc.cn^
 ||lccfjszp.cn^
 ||ldhy.click^
 ||mnqlog.ldmnq.com^
@@ -2748,7 +2732,6 @@
 ||ws-p2p-pull.live-voip.com^
 ||live-www-kaiyun.com.cn^
 ||ljarfvg.cn^
-||con-bvul.lkcqzi.cn^
 ||elsbhefb.lmfnil.cn^
 ||lnk0.com^
 ||lnk8.cn^
@@ -2767,7 +2750,6 @@
 ||sdk.loveota.net^
 ||lquickq.hl.cn^
 ||lrswl.com^
-||awevcvvbh.ls352272.cn^
 ||ny.lshdw.cc^
 ||a1.lshou.com^
 ||lt-wps.com.cn^
@@ -2780,14 +2762,12 @@
 ||192168.luyouwang.com^
 ||luyouxia.net^
 ||lwlqsgr.cn^
-||wghio.lx1cz9.cn^
 ||analytics.ly200.com^
 ||lycjsix.cn^
 ||lydownload.net^
 ||lyjq9gwob.com^
 ||lyszsz.cn^
 ||lyua.cn^
-||vqgpoht.lz128199.cn^
 ||m-i4.cn^
 ||m2-okx.com.cn^
 ||m3cqjc3og6.com^
@@ -2832,7 +2812,6 @@
 ||message.meitu.com^
 ||tuiguang.meitu.com^
 ||xiuxiu.android.dl.meitu.com^
-||adgame.waimai.meituan.com^
 ||httpdns.meituan.com^
 ||report.meituan.com^
 ||analytics.meituan.net^
@@ -3119,7 +3098,6 @@
 ||a.nowscore.com^
 ||z.nowscore.com^
 ||nphqw.cn^
-||bzwvszd.npivpsgg.cn^
 ||nptpjz.cn^
 ||nrjzkj.cn^
 ||nrpazo.cn^
@@ -3156,8 +3134,6 @@
 ||apps5.oingo.com^
 ||ojg8sflgl.com^
 ||okhan.net^
-||okx-app.cn^
-||okx-apzc.com.cn^
 ||okxqukuailianliulanqi.org.cn^
 ||oneapm.com^
 ||onelnk.com^
@@ -3168,12 +3144,8 @@
 ||online.sh.cn^
 ||olpv.onlylady.com^
 ||onrunningshop.com^
-||ontariobe.help^
-||ontariodx.help^
 ||ontariogh.help^
-||ontariohz.help^
 ||ontarioob.help^
-||ontariopv.help^
 ||ontariort.help^
 ||ooniu.com^
 ||analytics.ooofoo.com^
@@ -3263,7 +3235,6 @@
 ||stat2.pixpin.cn^
 ||pjcn.org^
 ||pl53l7tyw.com^
-||placidocn.com^
 ||load.tbyvvwvv.plasmatreatment.cn^
 ||up.play-analytics.com^
 ||bdx.playnext.cn^
@@ -3329,7 +3300,6 @@
 ||qg6uf.cn^
 ||qguwoq.cn^
 ||kgwqyj.qh118705.cn^
-||kumcrfdk.qh229548.cn^
 ||dhvuuxhmt.qh399063.cn^
 ||jspassport.ssl.qhimg.com^
 ||qhonzpl.cn^
@@ -3717,7 +3687,6 @@
 ||securemsg.qh.cn^
 ||securemsg.sc.cn^
 ||securemsg.xz.cn^
-||www.selgrospl.com^
 ||sellfox.com^
 ||senbiaojita.com^
 ||sensorsdata.cn^
@@ -3898,7 +3867,6 @@
 ||hui.sohu.com^
 ||i.go.sohu.com^
 ||images.sohu.com^
-||imp.go.sohu.com^
 ||lm.tv.sohu.com^
 ||pb.hd.sohu.com^
 ||push.tv.sohu.com^
@@ -3968,7 +3936,6 @@
 ||svwo.cn^
 ||sxk9m8x.cn^
 ||sxundrh.cn^
-||gmbl.sy99.de^
 ||sybnzs.cn^
 ||sanalytics.sydneyuniversity.cn^
 ||symaa.cn^
@@ -4476,24 +4443,10 @@
 ||ex-romsp-unifyconfig.vivoglobal.com^
 ||id-analyzer-appstore.vivoglobal.com^
 ||id-third-appstore.vivoglobal.com^
-||in-ad-mkt-vivofs.vivoglobal.com^
-||in-adlog.vivoglobal.com^
-||in-adreq.vivoglobal.com^
-||in-adsjssdk.vivoglobal.com^
-||in-analyzer-appstore.vivoglobal.com^
-||in-apponrt-stsdk.vivoglobal.com^
-||in-apport-stsdk.vivoglobal.com^
-||in-apppnrt-stsdk.vivoglobal.com^
-||in-appprt-stsdk.vivoglobal.com^
 ||in-cfg-stsdk.vivoglobal.com^
 ||in-cota.vivoglobal.com^
 ||in-ctdbonrt-stsdk.vivoglobal.com^
 ||in-ctdbort-stsdk.vivoglobal.com^
-||in-ctdbpnrt-stsdk.vivoglobal.com^
-||in-ctdbprt-stsdk.vivoglobal.com^
-||in-domaincfg.vivoglobal.com^
-||in-errup.vivoglobal.com^
-||in-ex-adlog.vivoglobal.com^
 ||in-monitor-stsdk.vivoglobal.com^
 ||in-news-abroad-backstage-interface.vivoglobal.com^
 ||in-onrt-stsdk.vivoglobal.com^
@@ -4652,7 +4605,6 @@
 ||xjkugh.waterdropfilter.com^
 ||bd.watu.cn^
 ||phputils.wc-os.com^
-||factorship.wcyrkdd.cn^
 ||manage.wdfans.cn^
 ||wdpkx.cn^
 ||analyse.weather.com.cn^
@@ -4745,7 +4697,6 @@
 ||wpsw-wps.hl.cn^
 ||wpwpquse.cn^
 ||wrating.com^
-||efeou.wrerji.cn^
 ||wsacjdg.cn^
 ||wsds.cn^
 ||mlog.wangsu.com.wswebcdn.com^
@@ -4836,10 +4787,6 @@
 ||data.mistat.intl.xiaomi.com^
 ||de.pandora.xiaomi.com^
 ||dvb.pandora.xiaomi.com^
-||global-ad-extranet-pri-azams.alb.xiaomi.com^
-||global-ad-extranet-pri-azpn.alb.xiaomi.com^
-||global-ad-intl-pri-alisgp.alb.xiaomi.com^
-||globalvideo.cdn.pandora.intl.xiaomi.com^
 ||hybrid.xiaomi.com^
 ||image.cdn.pandora.xiaomi.com^
 ||in-miuilog.sms.intl.xiaomi.com^
@@ -5037,7 +4984,6 @@
 ||sensors.yodo1api.com^
 ||uc-ap.yodo1api.com^
 ||sdk.yolanda.hk^
-||sxgahmjk.yottnats.cn^
 ||youdao-fyi.hl.cn^
 ||a.youdao.com^
 ||ad-sdk-config.youdao.com^
@@ -5085,7 +5031,6 @@
 ||youku-crm-product.youku.com^
 ||youkuhonor.com^
 ||youmi.net^
-||global-report.ml.youngjoygame.com^
 ||api.youngle.site^
 ||yousuode.cn^
 ||youxiaoad.com^
@@ -5277,7 +5222,6 @@
 ||dm.zjut.cc^
 ||abcd.zle.com^
 ||efg.zle.com^
-||gl.zle.com^
 ||iceability.zlvvw.cn^
 ||zmdesf.cn^
 ||zmg15qfvi.com^
