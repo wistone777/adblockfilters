@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260508015617
-! Last modified: 2026/05/08 01:56:17
-! Blocked domains: 7451
+! Version: 20260508114533
+! Last modified: 2026/05/08 11:45:33
+! Blocked domains: 7457
 ! unBlocked domains: 44
 !
 ||011211.cn^
@@ -314,7 +314,6 @@
 ||service.jiagu.360.cn^
 ||show.look.360.cn^
 ||soft.data.weather.360.cn^
-||softdl4.360.cn^
 ||stat.m.360.cn^
 ||stat.sd.360.cn^
 ||tf.360.cn^
@@ -430,6 +429,7 @@
 ||recsys-crawl.4paradigm.com^
 ||m.4qonm.cn^
 ||4rw6x0b.cn^
+||4zw.cn^
 ||1.5000yan.com^
 ||5017e4fc7e5818b7.com^
 ||4399stat.5054399.com^
@@ -497,6 +497,7 @@
 ||1.5646.cn^
 ||3.5646.cn^
 ||56fba.cn^
+||56q8.cn^
 ||57.com.cn^
 ||57573zubo36833.com^
 ||advert.58.com^
@@ -741,10 +742,12 @@
 ||abckzo.cn^
 ||abdd56f81d36ce86.com^
 ||smetrics.abercrombie.cn^
+||abiq.cn^
 ||discover.absciex.com.cn^
 ||accesshub.hk.cn^
 ||accesshub.ln.cn^
 ||disk.accord1key.cn^
+||acfb.cn^
 ||apilog-web.acfun.cn^
 ||apilog.app.acfun.cn^
 ||jscode.acg68.com^
@@ -789,6 +792,7 @@
 ||admobile.top^
 ||admon.cn^
 ||adn-plus.com.cn^
+||adqa.cn^
 ||adquan.com^
 ||adreal.cn^
 ||ads-go.adroi.com.cn^
@@ -1010,7 +1014,6 @@
 ||httpdns-sc.aliyuncs.com^
 ||huga88mbbq-sdk.rum.aliyuncs.com^
 ||hxyhxsq4jc-sdk.rum.aliyuncs.com^
-||imagefiles-backup.oss-ap-southeast-7.aliyuncs.com^
 ||img-dsp.oss-cn-beijing.aliyuncs.com^
 ||j2c03hoppk-default-cn.rum.aliyuncs.com^
 ||jiayi1.oss-cn-shanghai.aliyuncs.com^
@@ -1764,7 +1767,6 @@
 ||log.cmbchina.com^
 ||cmcdl.cmcm.com^
 ||lcf.cmplay.cmcm.com^
-||dubapkg.cmcmcdn.com^
 ||cmmob.cn^
 ||config.cmpassport.com^
 ||config1.cmpassport.com^
@@ -2723,6 +2725,7 @@
 ||gqdfgyz.cn^
 ||cms.grandcloud.cn^
 ||download.grandcloud.cn^
+||greatliteautobest.cn^
 ||baidu.greenxf.cn^
 ||cp.greenxf.cn^
 ||z.grfyw.com^
@@ -2940,7 +2943,6 @@
 ||hh04050aoik.com^
 ||hh6666.com^
 ||hhttm.top^
-||hhbs.hhu.edu.cn^
 ||sdd.hi1718.com^
 ||hi9377.com^
 ||s1.hiapk.com^
@@ -3064,6 +3066,7 @@
 ||hrjg.com.cn^
 ||hseda.com^
 ||hsehk.cn^
+||hsp.cn^
 ||hsrgnac.cn^
 ||g.hsw.cn^
 ||hsych.com^
@@ -3160,6 +3163,7 @@
 ||sdk.hzsanjiaomao.com^
 ||adashx.ut.hzshudian.com^
 ||h-adashx.ut.hzshudian.com^
+||hzy.cn^
 ||ad.hzyoka.com^
 ||i-fk.cn^
 ||i-zoom.com.cn^
@@ -3637,7 +3641,6 @@
 ||tj.koudaitong.com^
 ||b.kouke5.com^
 ||bundle.kpzip.com^
-||d.kpzip.com^
 ||mininews.kpzip.com^
 ||kqg8jh8rk.com^
 ||krk-telegram.com.cn^
@@ -4033,6 +4036,7 @@
 ||mathtype.cn^
 ||metrics.mathworks.cn^
 ||smetrics.mathworks.cn^
+||maxisgt.vip^
 ||mayi360.cn^
 ||mazarine-ap.com^
 ||ad.mazc.org^
@@ -4232,6 +4236,7 @@
 ||mlstx.cn^
 ||da.mmarket.com^
 ||i.mmcdn.cn^
+||mmjh.top^
 ||mmkkiivv.com^
 ||vnzq.mmpuh.cn^
 ||dutrkqs.mmtofz.cn^
@@ -4326,12 +4331,10 @@
 ||ad-1258444056.cos.accelerate.myqcloud.com^
 ||adstore-1252524079.file.myqcloud.com^
 ||adstore-index-1252524079.file.myqcloud.com^
-||bj5y6-0f-9h4-9fgg4-1324992141.cos.ap-bangkok.myqcloud.com^
 ||cdn-10049480.file.myqcloud.com^
 ||cndjs-1251973891.coshk.myqcloud.com^
 ||dianying-1304791696.cos.ap-shanghai.myqcloud.com^
 ||ggtp-1255424916.cos.ap-chengdu.myqcloud.com^
-||j-0-09g-9bh-h-ggf-1324992141.cos.ap-bangkok.myqcloud.com^
 ||leindisncieamrocea-1341831283.cos.sa-saopaulo.myqcloud.com^
 ||mibook-10006092.cos.myqcloud.com^
 ||moren-1252794300.file.myqcloud.com^
@@ -4730,6 +4733,7 @@
 ||www.q4ee.top^
 ||ssh.q4hwkg.cn^
 ||q83v5haaz.com^
+||qafe.cn^
 ||qazwex.cn^
 ||cp.qbaobei.com^
 ||apilog.qbb6.com^
@@ -5590,6 +5594,7 @@
 ||tongji.southmoney.com^
 ||spreadable.com.cn^
 ||sq59.cn^
+||sqij.cn^
 ||srbzw.cn^
 ||data.ssports.com^
 ||show.ssports.com^
@@ -6436,7 +6441,6 @@
 ||httpdns.volcengineapi.com^
 ||apmplus.volces.com^
 ||apmplus.ap-southeast-1.volces.com^
-||dindong.tos-cn-hongkong.volces.com^
 ||gator.volces.com^
 ||mssdk.volces.com^
 ||tab.volces.com^
@@ -6461,6 +6465,7 @@
 ||vx2tbw9xin.com^
 ||vxhsj.cn^
 ||vyye.cn^
+||vzmt.cn^
 ||vzvvifw.cn^
 ||w3cfba6ufr.com^
 ||e.w6xj6.cn^
@@ -7406,6 +7411,7 @@
 ||stat.zol.com.cn^
 ||wappv.zol.com.cn^
 ||ydjs.zol.com.cn^
+||static.zongheng.com^
 ||zonst.com^
 ||zooj.cn^
 ||adm.zookingsoft.com^
