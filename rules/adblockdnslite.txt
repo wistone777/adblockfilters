@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260510014253
-! Last modified: 2026/05/10 01:42:53
-! Blocked domains: 7430
+! Version: 20260510124008
+! Last modified: 2026/05/10 12:40:08
+! Blocked domains: 7411
 ! unBlocked domains: 45
 !
 ||011211.cn^
@@ -38,7 +38,6 @@
 ||0a8b2c66e6fe6d23.com^
 ||0f6479801e7aaa9f.com^
 ||cdn.0i-i0.com^
-||0iz.cn^
 ||25w.0tzp8c.cn^
 ||0wk6gdkg8r.com^
 ||0x5.me^
@@ -419,7 +418,6 @@
 ||recsys-crawl.4paradigm.com^
 ||m.4qonm.cn^
 ||4rw6x0b.cn^
-||4zw.cn^
 ||1.5000yan.com^
 ||5017e4fc7e5818b7.com^
 ||4399stat.5054399.com^
@@ -488,7 +486,6 @@
 ||1.5646.cn^
 ||3.5646.cn^
 ||56fba.cn^
-||56q8.cn^
 ||57.com.cn^
 ||57573zubo36833.com^
 ||advert.58.com^
@@ -553,7 +550,6 @@
 ||68287zubo85737.com^
 ||688mob.com^
 ||68fe958fd7727335.com^
-||68y.cn^
 ||sygame.695157.com^
 ||html.696157.com^
 ||69bfe01be02b42e8.com^
@@ -722,10 +718,8 @@
 ||abckzo.cn^
 ||abdd56f81d36ce86.com^
 ||smetrics.abercrombie.cn^
-||abiq.cn^
 ||discover.absciex.com.cn^
 ||disk.accord1key.cn^
-||acfb.cn^
 ||apilog-web.acfun.cn^
 ||apilog.app.acfun.cn^
 ||jscode.acg68.com^
@@ -771,7 +765,6 @@
 ||admobile.top^
 ||admon.cn^
 ||adn-plus.com.cn^
-||adqa.cn^
 ||adquan.com^
 ||adreal.cn^
 ||ads-go.adroi.com.cn^
@@ -2696,7 +2689,6 @@
 ||gqdfgyz.cn^
 ||cms.grandcloud.cn^
 ||download.grandcloud.cn^
-||greatliteautobest.cn^
 ||baidu.greenxf.cn^
 ||cp.greenxf.cn^
 ||z.grfyw.com^
@@ -3038,7 +3030,6 @@
 ||hrjg.com.cn^
 ||hseda.com^
 ||hsehk.cn^
-||hsp.cn^
 ||hsrgnac.cn^
 ||g.hsw.cn^
 ||hsych.com^
@@ -3137,7 +3128,6 @@
 ||sdk.hzsanjiaomao.com^
 ||adashx.ut.hzshudian.com^
 ||h-adashx.ut.hzshudian.com^
-||hzy.cn^
 ||ad.hzyoka.com^
 ||i-fk.cn^
 ||i-zoom.com.cn^
@@ -3471,7 +3461,6 @@
 ||jinnf.cn^
 ||jinshanduba.org.cn^
 ||eo.jinzpeng.cn^
-||jiongnet.cn^
 ||mad1.jirou.com^
 ||h5.jiumaster.com^
 ||analytics.jiuzhilan.com^
@@ -4012,7 +4001,6 @@
 ||mathtype.cn^
 ||metrics.mathworks.cn^
 ||smetrics.mathworks.cn^
-||maxisgt.vip^
 ||mayi360.cn^
 ||mazarine-ap.com^
 ||ad.mazc.org^
@@ -4213,7 +4201,6 @@
 ||mlstx.cn^
 ||da.mmarket.com^
 ||i.mmcdn.cn^
-||mmjh.top^
 ||mmkkiivv.com^
 ||vnzq.mmpuh.cn^
 ||dutrkqs.mmtofz.cn^
@@ -4329,7 +4316,6 @@
 ||gstat.myzaker.com^
 ||myip.myzaker.com^
 ||push-android.myzaker.com^
-||mzcb.cn^
 ||aries.mzres.com^
 ||n4d3ev3m1.com^
 ||n69.com^
@@ -4509,7 +4495,6 @@
 ||visit.oschina.net^
 ||osrrltw.cn^
 ||otme.cn^
-||oubh.cn^
 ||cp.oupeng.com^
 ||img-ad.oupeng.com^
 ||max-files.oupeng.com^
@@ -4699,7 +4684,6 @@
 ||www.q4ee.top^
 ||ssh.q4hwkg.cn^
 ||q83v5haaz.com^
-||qafe.cn^
 ||qazwex.cn^
 ||cp.qbaobei.com^
 ||apilog.qbb6.com^
@@ -5556,7 +5540,6 @@
 ||tongji.southmoney.com^
 ||spreadable.com.cn^
 ||sq59.cn^
-||sqij.cn^
 ||srbzw.cn^
 ||data.ssports.com^
 ||show.ssports.com^
@@ -6428,7 +6411,6 @@
 ||vx2tbw9xin.com^
 ||vxhsj.cn^
 ||vyye.cn^
-||vzmt.cn^
 ||vzvvifw.cn^
 ||w3cfba6ufr.com^
 ||e.w6xj6.cn^
@@ -6647,7 +6629,6 @@
 ||xads-telegram.com.cn^
 ||zamknj.xagnnx.cn^
 ||xazbts.com^
-||xb9.cn^
 ||js1.xbaixing.com^
 ||enappstat.xbext.com^
 ||enstat.xbext.com^

@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260510014253
-! Last modified: 2026/05/10 01:42:53
-! Blocked Filters: 100918
+! Version: 20260510124008
+! Last modified: 2026/05/10 12:40:08
+! Blocked Filters: 100917
 !
 ###AC_ad
 ###AD_160
@@ -87046,7 +87046,6 @@ zzzyk.com###Tinfo
 ||bukalapak.com/track-external-visit
 ||bukalapak.com/track_external.json
 ||bullchat.com/sponsor/
-||bullfeeding.com^$popup
 ||bullz-eye.com/blog_ads/
 ||bullz-eye.com/images/ads/
 ||bumimi.com/money/
