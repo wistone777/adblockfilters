@@ -1,18 +1,9 @@
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-! 收集补充规则
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-! 拦截规则
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-! https://github.com/217heidai/adblockfilters/issues/96
-! https://github.com/217heidai/adblockfilters/issues/101
-||adx-data.yfanads.com^
-||api.yfanads.com^
-||tracker.yfanads.com^
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-! 放行规则
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-! 部分邮件确认按钮跳转
-@@||r.*.awstrack.me^
-! https://github.com/217heidai/adblockfilters/issues/131
-@@||lients2.googleusercontent.com/crx/blobs/Ad_*
+! 腾讯视频提示广告拦截
+@@||h5vv6.video.qq.com/getvinfo$domain=v.qq.com
+! 虎牙非直播视频不播放
+@@||cdn.huya.com/leaf/$xhr
+! YouTube 不播放
+@@||googlevideo.com^$domain=youtube.com,important
+@@||rr2---sn-un57enel.googlevideo.com/videoplayback
+! bing 奖励取消屏蔽
+@@||cn.bing.com/rewardsapp/$important
