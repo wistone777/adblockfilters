@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260511014344
-! Last modified: 2026/05/11 01:43:44
-! Blocked Filters: 100332
+! Version: 20260511125516
+! Last modified: 2026/05/11 12:55:16
+! Blocked Filters: 100333
 !
 ###AC_ad
 ###AD_160
@@ -88991,7 +88991,6 @@ zzzyk.com###Tinfo
 ||eastmoney.com/trade/hqb_hq.html
 ||eastmoney.com/usercollect/
 ||eastmoney.com/web/prd/jump_tracker.js
-||easyads28.mobi^$popup
 ||easyai.tech/wp-content/uploads/*-576x1024.
 ||easydmarc.com/tools/$third-party
 ||easydmp.net/collect_
@@ -89002,7 +89001,6 @@ zzzyk.com###Tinfo
 ||easypic.com/js/easypicads.js
 ||easyporn.xxx/tmp/
 ||easyview.eu/sw.js
-||eatcells.com/land/$popup
 ||eatwell101.com/wp-content/themes/*/custom/ads/
 ||eavesofefinegoldf.info^$popup
 ||ebay.com/delstats/
@@ -97301,6 +97299,9 @@ zzzyk.com###Tinfo
 ||static.xshuyaya.com/m/d.js
 ||static.youku.com/*/index/js/iresearch.js
 ||static.youku.com/*/js/cps.js
+||static.zongheng.com^*/adClickStat.js
+||static.zongheng.com^*/ad_click.js
+||static.zongheng.com^*/logger.min.js
 ||static0.wi-fi.ru/static/000/ios/index.html
 ||staticasset.amarujala.com/handler/recomUserEvent.js
 ||staticfile.qq.com/datong/$script
