@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260517181824
-! Last modified: 2026/05/17 18:18:24
-! Blocked Filters: 100831
+! Version: 20260518015044
+! Last modified: 2026/05/18 01:50:44
+! Blocked Filters: 100829
 !
 ###AC_ad
 ###AD_160
@@ -95260,7 +95260,6 @@ zzzyk.com###Tinfo
 ||pleasetrack.com^$popup
 ||pleasevisitmywebsite.com/wp-content/uploads/*/getimage
 ||pleasuregirl.net/bload
-||plesk.page/*?phone=$document
 ||pless-intermedia.pl/public/slajdy/html/*.html$subdocument,domain=bielskiedrogi.pl
 ||plibcdn.com/templates/base_master/js/jquery.shows.min.js
 ||plibcdn.com/templates/base_master/js/jquery.shows2.min.js
@@ -95552,7 +95551,6 @@ zzzyk.com###Tinfo
 ||prd.media.cnn.com/global/*/dash.mpd$domain=cnn.com
 ||prebid-*.rubiconproject.com^
 ||prebid-cache*.ifunny.co^
-||precisejoker.com^$popup
 ||pregchan.com/.static/pages/dlsite.html
 ||premium-members.com^$popup
 ||premium4kflix.website^$popup
