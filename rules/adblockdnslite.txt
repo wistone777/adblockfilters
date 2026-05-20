@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260520025406
-! Last modified: 2026/05/20 02:54:06
-! Blocked domains: 7717
+! Version: 20260520125845
+! Last modified: 2026/05/20 12:58:45
+! Blocked domains: 7715
 ! unBlocked domains: 45
 !
 ||0001zhekoushouyoupingtai.org.cn^
@@ -58,6 +58,7 @@
 ||adm.10jqka.com.cn^
 ||v.110route.cn^
 ||ytx-file.110route.cn^
+||soft.110route.com^
 ||1.11130.com.cn^
 ||oss-asq-static.11222.cn^
 ||1133.cc^
@@ -297,7 +298,6 @@
 ||service.jiagu.360.cn^
 ||show.look.360.cn^
 ||soft.data.weather.360.cn^
-||softdl4.360.cn^
 ||stat.m.360.cn^
 ||stat.sd.360.cn^
 ||tf.360.cn^
@@ -1726,7 +1726,6 @@
 ||log.cmbchina.com^
 ||cmcdl.cmcm.com^
 ||lcf.cmplay.cmcm.com^
-||dubapkg.cmcmcdn.com^
 ||cmmob.cn^
 ||config.cmpassport.com^
 ||config1.cmpassport.com^
@@ -7668,7 +7667,6 @@
 ||stat.zol.com.cn^
 ||wappv.zol.com.cn^
 ||ydjs.zol.com.cn^
-||static.zongheng.com^
 ||zonst.com^
 ||zooj.cn^
 ||adm.zookingsoft.com^
