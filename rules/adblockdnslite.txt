@@ -3,14 +3,13 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260520194358
-! Last modified: 2026/05/20 19:43:58
-! Blocked domains: 7665
+! Version: 20260521031459
+! Last modified: 2026/05/21 03:14:59
+! Blocked domains: 7646
 ! unBlocked domains: 44
 !
 ||0001zhekoushouyoupingtai.org.cn^
 ||001zhekoushouyouhezi.org.cn^
-||010aa.cn^
 ||011211.cn^
 ||013572.cn^
 ||photo.0234408.cn^
@@ -75,7 +74,6 @@
 ||js1.122cha.com^
 ||ad.12306.cn^
 ||12322app.com^
-||1239aaa123.com^
 ||123cha.com^
 ||uimg.123hala.com^
 ||1827897262.v.123pan.cn^
@@ -1459,7 +1457,6 @@
 ||btyou.com^
 ||xww.bucea.edu.cn^
 ||llt.bugu360.net^
-||buildingcredit.com.cn^
 ||butou.cn^
 ||bvmlt.top^
 ||bw-bybit.hl.cn^
@@ -1825,7 +1822,6 @@
 ||doubleclick.ctfile.com^
 ||mydisplay.ctfile.com^
 ||v5-se-bjtc-reading-ad.qznovelvod.com.ctlcdn.cn^
-||ctonline.com.cn^
 ||ctr-media.info^
 ||ma-adx.ctrip.com^
 ||u.ctrip.com^
@@ -1998,7 +1994,6 @@
 ||dhlel.cn^
 ||dhlfrpqn.cn^
 ||dhllz.com.cn^
-||dhlsc.cn^
 ||ssl.di9qu.com.cn^
 ||diannaodian.com^
 ||dianru.cn^
@@ -2165,7 +2160,6 @@
 ||page.acm.dzwww.com^
 ||api.e-cg.cn^
 ||api.e-toys.cn^
-||e-zoom.com.cn^
 ||eagle-tex.cn^
 ||earmasterchina.cn^
 ||track.easeus.com^
@@ -2293,7 +2287,6 @@
 ||exevcl.cn^
 ||veepai-device-log.eye4.cn^
 ||eyewand.cn^
-||eyouonline.com.cn^
 ||eyouv.cn^
 ||eyp7uowejx.com^
 ||g.f11w.com^
@@ -2442,7 +2435,6 @@
 ||fucnm.com^
 ||fugetech.com^
 ||fujincenter.com^
-||funding.org.cn^
 ||funkoonlinegb.club^
 ||adm.funshion.com^
 ||conf.funshion.com^
@@ -2676,7 +2668,6 @@
 ||googleadservices.com^
 ||googleanalytics.com^
 ||googlec.com.cn^
-||googlecloud.org.cn^
 ||googleflights-cn.net^
 ||googlei.com.cn^
 ||googleminiapps.cn^
@@ -2691,7 +2682,6 @@
 ||googletraveladservices-cn.com^
 ||googletraveladservices.com^
 ||googlevads-cn.com^
-||googlex.com.cn^
 ||googlle-cchrome.com.cn^
 ||gostats.cn^
 ||gouzhibao.cn^
@@ -2702,7 +2692,6 @@
 ||gr-wps.com.cn^
 ||cms.grandcloud.cn^
 ||download.grandcloud.cn^
-||greatliteautobest.cn^
 ||baidu.greenxf.cn^
 ||cp.greenxf.cn^
 ||z.grfyw.com^
@@ -3621,7 +3610,6 @@
 ||tracking.kdnet.net^
 ||m.keai36.cn^
 ||kehuduan.com^
-||kejixueyuan.cn^
 ||keran.hl.cn^
 ||keyne-in.com.cn^
 ||elq.keysight.com.cn^
@@ -3936,7 +3924,6 @@
 ||lieqitianxia.cn^
 ||lieying.cn^
 ||life-wendingyule.com.cn^
-||lightonline.com.cn^
 ||lilangdianqi.cn^
 ||limkokwing-edu.cn^
 ||line-go.hl.cn^
@@ -4275,7 +4262,6 @@
 ||mlstx.cn^
 ||da.mmarket.com^
 ||i.mmcdn.cn^
-||mmjh.top^
 ||mmkkiivv.com^
 ||vnzq.mmpuh.cn^
 ||dutrkqs.mmtofz.cn^
@@ -5199,7 +5185,6 @@
 ||p.raidmedia.com.cn^
 ||u.raidmedia.com.cn^
 ||luaqxb.rainso.com^
-||rakutodelivery.com.cn^
 ||ads-sdk-api.ranfenghd.com^
 ||bespoke-analytics.razerapi.com^
 ||rbioclv.cn^
@@ -5595,7 +5580,6 @@
 ||sogou-mvh.com.cn^
 ||sogou-qh.com.cn^
 ||sogou-sco.com.cn^
-||sogou-sogou.cn^
 ||sogou-tp.com.cn^
 ||sogou-wpss.com.cn^
 ||sogou-xr.com.cn^
@@ -6049,7 +6033,6 @@
 ||sky.tongjiai.com^
 ||tongruitex.cn^
 ||tonnn.com^
-||tooffice.cn^
 ||tuba.toolg.cn^
 ||toolhon.club^
 ||ato.tooopen.com^
@@ -6535,7 +6518,6 @@
 ||sca-vcode-api.vivoglobal.com^
 ||sca-vcode-od.vivoglobal.com^
 ||sca-vcode-or.vivoglobal.com^
-||sg-cfg-stsdk.vivoglobal.com^
 ||stsdk.vivoglobal.com^
 ||tr-album-api.vivoglobal.com^
 ||tr-cota.vivoglobal.com^
@@ -7643,7 +7625,6 @@
 ||ad.zuimeitianqi.com^
 ||bd1.zuimeitianqi.com^
 ||bd2.zuimeitianqi.com^
-||hw.zuimeitianqi.com^
 ||hwad.zuimeitianqi.com^
 ||log2.zuimeitianqi.com^
 ||stat.zuimeitianqi.com^
