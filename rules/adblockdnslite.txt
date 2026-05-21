@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260521200854
-! Last modified: 2026/05/21 20:08:54
-! Blocked domains: 7672
+! Version: 20260522025406
+! Last modified: 2026/05/22 02:54:06
+! Blocked domains: 7648
 ! unBlocked domains: 45
 !
 ||0001zhekoushouyoupingtai.org.cn^
@@ -2105,7 +2105,6 @@
 ||s.dpcq1.net^
 ||dpjzzgw.cn^
 ||drdwy.com^
-||dream-wendingyule.com.cn^
 ||drivethelife.com^
 ||drokozz.club^
 ||dspack.com.cn^
@@ -2250,7 +2249,6 @@
 ||trk-cdpetl.emdlz.com.cn^
 ||analytics.emqx.com^
 ||ename.com.cn^
-||ename.net^
 ||count.enet.com.cn^
 ||frame.enet.com.cn^
 ||images.enet.com.cn^
@@ -2275,7 +2273,6 @@
 ||ergeapp.com^
 ||log.ergeduoduo.com^
 ||erlpbwy.cn^
-||es-trading.com.cn^
 ||analytics.escience.org.cn^
 ||ethan.wang^
 ||c.etoolads.cn^
@@ -2833,13 +2830,11 @@
 ||hcbmq.cn^
 ||hccms.com.cn^
 ||img.hcwifi.cn^
-||hcxyey.hl.cn^
 ||hczzw.com^
 ||e.hdanc.com^
 ||m.hdanc.com^
 ||hdbaichuan.cn^
 ||hdswgc.com^
-||head-wendingyule.com.cn^
 ||headline-hth.com.cn^
 ||hechaocheng.cn^
 ||ad.hefei.cc^
@@ -2972,14 +2967,11 @@
 ||api-cloudfalcon.hismarttv.com^
 ||api-dynhost.hismarttv.com^
 ||api-gps.hismarttv.com^
-||api-gps-em.hismarttv.com^
 ||api-gps-eu.hismarttv.com^
 ||api-gps-na.hismarttv.com^
-||api-gps-sa.hismarttv.com^
 ||api-launcher-em.hismarttv.com^
 ||api-launcher-eu.hismarttv.com^
 ||api-launcher-na.hismarttv.com^
-||api-launcher-sa.hismarttv.com^
 ||api-logsdk.hismarttv.com^
 ||api-shoppingguider.hismarttv.com^
 ||api-vidaaasst.hismarttv.com^
@@ -3067,7 +3059,6 @@
 ||ht-htx.hl.cn^
 ||ht55.cn^
 ||hthonline.com.cn^
-||html-wendingyule.com.cn^
 ||htnxvfw.cn^
 ||httpdns.pro^
 ||m.hua6.cn^
@@ -3689,7 +3680,6 @@
 ||rbxmnbuzo.ksfmdqq.cn^
 ||andmlb.kshwtj.com^
 ||w1.kskwai.com^
-||ksmas.hl.cn^
 ||dl.cm.ksmobile.com^
 ||pgapi.ksmobile.com^
 ||ups.ksmobile.net^
@@ -3940,7 +3930,6 @@
 ||liebaovip.com^
 ||lieqitianxia.cn^
 ||lieying.cn^
-||life-wendingyule.com.cn^
 ||lilangdianqi.cn^
 ||limkokwing-edu.cn^
 ||line-go.hl.cn^
@@ -3951,7 +3940,6 @@
 ||linecnz.com.cn^
 ||linefly.com.cn^
 ||lineguard.com.cn^
-||linevv.com.cn^
 ||linew.com.cn^
 ||lingd.cn^
 ||link-live.cn^
@@ -4064,7 +4052,6 @@
 ||maihehd.com^
 ||zc1.maillist-manage.com.cn^
 ||main-live-wc2026.com.cn^
-||make-wendingyule.com.cn^
 ||makeding.com^
 ||usejj.makepolo.cn^
 ||adx.mala.cn^
@@ -4536,7 +4523,6 @@
 ||officezj.com.cn^
 ||official-youdao.com.cn^
 ||offie-wps.com.cn^
-||offiie-wps.com.cn^
 ||a.oh100.com^
 ||js.oh100.com^
 ||apps5.oingo.com^
@@ -5765,7 +5751,6 @@
 ||sxk9m8x.cn^
 ||jjk.sxklm.cn^
 ||sxltfj.cn^
-||sxm-wps.com.cn^
 ||sxundrh.cn^
 ||sxxjdz.com^
 ||sy-bybit.hl.cn^
@@ -5950,7 +5935,6 @@
 ||tongji.techweb.com.cn^
 ||tecunonline.com^
 ||telegram-list-bot.ru^
-||telegramvv.com.cn^
 ||data.tempersyi.com^
 ||apd-pcdnvodstat.teg.tencent-cloud.net^
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
@@ -6783,7 +6767,6 @@
 ||wps-pqr.com.cn^
 ||wps-qh.com.cn^
 ||wps-rh.com.cn^
-||wps-wpspcpc.com.cn^
 ||wps-xr.com.cn^
 ||wps-zu.com.cn^
 ||wps.ac.cn^
@@ -6804,9 +6787,7 @@
 ||api-ad-adapter-mb.wps.com^
 ||mo.res.wpscdn.cn^
 ||abroadad.cache.wpscdn.com^
-||wpsofficednb.com.cn^
 ||wpss-kuailian.com.cn^
-||wpswodrr.com.cn^
 ||wpwpquse.cn^
 ||wq89381.com^
 ||wrating.com^
@@ -6826,14 +6807,12 @@
 ||ww-kuailiana.hl.cn^
 ||ww-kuailianb.hl.cn^
 ||ww-kuailiand.hl.cn^
-||ww-shadowsocketi.hl.cn^
 ||ww-youdaoc.com.cn^
 ||wwads.cn^
 ||vhs.wwstat.com^
 ||www-app-line.com.cn^
 ||www-google.cn^
 ||www-qishiu.com.cn^
-||www-uwps.com.cn^
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
 ||1500026601.vodplayer.wxamedia.com^
@@ -7065,7 +7044,6 @@
 ||bchina-1.xsfaya.com^
 ||xshellcn.com^
 ||xshengjngsaijangjnkoushuituihuan.com.cn^
-||xspace.icu^
 ||rdbd.xsread.com^
 ||xssncc2tv.com^
 ||xtwjx.cn^
@@ -7347,7 +7325,6 @@
 ||yrnv.cn^
 ||yrqwnc.cn^
 ||ys630.com^
-||ad-material.ys7.com^
 ||log.ys7.com^
 ||m.ysgsq.cn^
 ||ysjwj.com^
@@ -7472,7 +7449,6 @@
 ||zh-wding.com.cn^
 ||zh-wendinggame.com.cn^
 ||zh-wendinggames.com.cn^
-||zh1-wps.com.cn^
 ||zhads.com^
 ||tfs.zhamm.cn^
 ||zhangxinzhixun.com^
