@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260521031459
-! Last modified: 2026/05/21 03:14:59
-! Blocked domains: 7646
+! Version: 20260521130425
+! Last modified: 2026/05/21 13:04:25
+! Blocked domains: 7645
 ! unBlocked domains: 44
 !
 ||0001zhekoushouyoupingtai.org.cn^
@@ -6576,7 +6576,6 @@
 ||mssdk.volces.com^
 ||tab.volces.com^
 ||volctrack.com^
-||vole11.cn^
 ||report.voovmeeting.com^
 ||vorluic.cn^
 ||vpie.net^

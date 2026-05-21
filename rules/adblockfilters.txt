@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260521031459
-! Last modified: 2026/05/21 03:14:59
-! Blocked Filters: 97218
+! Version: 20260521130425
+! Last modified: 2026/05/21 13:04:25
+! Blocked Filters: 97216
 !
 ###AC_ad
 ###AD_160
@@ -24088,6 +24088,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@/advt.png$domain=freevpn4you.net
 @@/adx.$domain=tanx.com
 @@/analytics.php?$domain=xcar.com.cn
+@@/anime$xmlhttprequest,stealth=referrer,domain=vidwish.live|megaplay.buzz
 @@/api/ad/*$domain=pinduoduo.com
 @@/api/ads?$domain=nmkjxy.com
 @@/api/models?$domain=tik.porn
@@ -24250,6 +24251,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@/static/stream*.png$stealth=referrer,xmlhttprequest,domain=streamocean.online|streambtw.com
 @@/storage/js/*.js$~third-party,domain=wowmail.app|inipulsa.my.id|anon.tools|s-nr.dk
 @@/store_ad/*$domain=pcstore.com.tw
+@@/stream$xmlhttprequest,stealth=referrer,domain=kwik.cx
 @@/stream/*/*.m3u8$xmlhttprequest,domain=faselhd.cafe
 @@/stream/*/*.ts$xmlhttprequest,domain=faselhd.cafe
 @@/stylesheet/*$xmlhttprequest,stealth=referrer,domain=gamingzen.xyz
@@ -34067,6 +34069,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@||windows7forum.pl^$generichide
 @@||windowsbulletin.com^$generichide
 @@||windowscentral.com/sites/wpcentral.com/files/advagg_js/$script
+@@||windowsforum.kr/prebid.js
 @@||winvistaclub.com/wp-content/uploads/$domain=thewindowsclub.com,stealth=referrer
 @@||winwk.com^$generichide
 @@||wired.com^$generichide
@@ -47327,8 +47330,6 @@ fileserve.com#%#//scriptlet('prevent-window-open')
 filesharingtalk.com##a[href^="http://affiliate.astraweb.com/"]
 filesharingtalk.com##div[style="background-color: white; border-width: 2px; border-style: dashed; border-color: white;"]
 filesmerge.com#?#.slider-body > div.slider_item:has(> div > h4:contains(/Ads|Werbung|Mainostaminen|Publicité|Publicidad|Pubblicità|广告|Реклама/))
-filespayout.com##.box-content > a[target="_blank"]
-filespayout.com,game3rb.com##center > a[rel]
 filespayouts.com###normal-box
 filespayouts.com##.idm-banner
 filespayouts.com##center > a[onclick^="window.open"][rel]
@@ -49133,6 +49134,7 @@ game3rb.com###overly-noti
 game3rb.com###post-footer:has(> a[target])
 game3rb.com##.entry-content > center > a[target="_blank"] > button
 game3rb.com##.post-body > div[style] > a[target="_blank"] > button
+game3rb.com##center > a[rel]
 game3rb.com#%#//scriptlet("abort-current-inline-script", "loadScript", ")]['innerHTML'")
 game3rb.com#%#//scriptlet("abort-current-inline-script", "onload", "onclick")
 game3rb.com#%#//scriptlet("abort-on-property-read", "plzdisa")
@@ -60270,6 +60272,7 @@ mmorpgitalia.it#$#.adContainer { height: 1px!important; }
 mmsi01.com##div[style^="position:fixed;inset:0px;"]
 mmsi01.com#%#//scriptlet('prevent-window-open')
 mmsi01.com,uns.bio,anitaku.to,alions.pro,flaswish.com,vidhidepro.com,fc2stream.tv,mycloud123.top,doodporn.xyz,imfb.xyz,mm9844.*,anigogo.net,faptiti.com,javuncen.xyz,sbplay1.com##div[style^="position:fixed;inset:0px;z-index:2147483647;background:black;opacity:0.01"]
+mmsi02.com#%#//scriptlet('prevent-window-open')
 mmsmasala.com#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
 mmsmasala27.com#%#//scriptlet('prevent-fetch', 'adsbygoogle')
 mmsmasala27.com,chaturflix.cam,omegascans.org#%#//scriptlet('abort-current-inline-script', 'Date.prototype.toISOString', 'wpadmngr.com')
@@ -80591,7 +80594,7 @@ yeptube.*##.main-frame > section:has(> div.container > div#spot_video_livecams)
 yeptube.*##.navbar-pages > li.navbar-page:has(> a[href][target="_blank"][rel="nofollow"])
 yeptube.*##.player-col:has(> iframe.player-ads)
 yeptube.*##.player-live-title
-yeptube.*,vids.st,area.waffi.cloud,nutripulse.one,vercel.app,zdrive.to,1moviesz.to,apksum.com,xvideos-full.com,freemanga.me,funlove.info,javsubidn.tv,streamvid.dev,vidnest.live,vidnest.io,familyporn.tv,5play.app,bingespree.net,spencerdevs.xyz,easyvidplayer.com,cloudhostingz.com,sharedwebs.com,fitnessplanss.com,porn4days.blue,embedplayer.site,animahd.com,exposestrat.com,embedsports.top,vidplayer.live,vik1ngfile.site,fbol.top,sterham.net,embed4me.com,megatukmax.xyz,primewire.tf,ytapi.cc,mygomp3.com,imagebam.com,ezplayer.me,datavaults.co,clickapi.net,y2down.cc,themezon.net,serverguidez.com,streamup.ws,vidlink.pro,cdn.hentaianimezone.com,themezon.net,galaxyporn.net,teknoasian.com,downloadyoutubesubtitles.com,alex71.com,kecapku.com,vidfast.pro,pornharlot.net,meong.club,hianimez.*,travelironguide.com,kreditexperte.online,shortnest.com,vikingf1le.us.to,mixzdrive.com,get.linkbulks.com,play.upns.live,dropzy.io,dayuploads.com,filespayouts.com,ranoz.gg,zovo.ink,manhwahentai.me,filespayout.com,1movielinkbd.com,ytmp3.la,swiftuploads.com,techbloogs.com,oii.la,englismovies.pro,tpi.li,go.cloutgist.com,brbeast.com,vidsrc2.*,tutwuri.id,lokerwfh.net,insmyst.com,iir.la,tvi.la,cosplay18.pics,hianime.*,mobiletvshows.site,movies4u.*,x-x-x.tube,pornx.to,4khd.com,dlhd.*,kissanime.*,vidsrc.*,pahe.*#%#//scriptlet('prevent-window-open')
+yeptube.*,vids.st,area.waffi.cloud,nutripulse.one,vercel.app,zdrive.to,1moviesz.to,apksum.com,xvideos-full.com,freemanga.me,funlove.info,javsubidn.tv,streamvid.dev,vidnest.live,vidnest.io,familyporn.tv,5play.app,bingespree.net,spencerdevs.xyz,easyvidplayer.com,cloudhostingz.com,sharedwebs.com,fitnessplanss.com,porn4days.blue,embedplayer.site,animahd.com,exposestrat.com,embedsports.top,vidplayer.live,vik1ngfile.site,fbol.top,sterham.net,embed4me.com,megatukmax.xyz,primewire.tf,ytapi.cc,mygomp3.com,imagebam.com,ezplayer.me,datavaults.co,clickapi.net,y2down.cc,themezon.net,serverguidez.com,streamup.ws,vidlink.pro,cdn.hentaianimezone.com,themezon.net,galaxyporn.net,teknoasian.com,downloadyoutubesubtitles.com,alex71.com,kecapku.com,vidfast.pro,pornharlot.net,meong.club,hianimez.*,travelironguide.com,kreditexperte.online,shortnest.com,vikingf1le.us.to,mixzdrive.com,get.linkbulks.com,play.upns.live,dropzy.io,dayuploads.com,filespayouts.com,ranoz.gg,zovo.ink,manhwahentai.me,1movielinkbd.com,ytmp3.la,swiftuploads.com,techbloogs.com,oii.la,englismovies.pro,tpi.li,go.cloutgist.com,brbeast.com,vidsrc2.*,tutwuri.id,lokerwfh.net,insmyst.com,iir.la,tvi.la,cosplay18.pics,hianime.*,mobiletvshows.site,movies4u.*,x-x-x.tube,pornx.to,4khd.com,dlhd.*,kissanime.*,vidsrc.*,pahe.*#%#//scriptlet('prevent-window-open')
 yeptube.com#%#//scriptlet('abort-on-property-read', 'initBetter')
 yeptube.com,proporn.com##.puFloatDiv
 yeptube.net,tubeon.*##.thr-rcol
@@ -88579,15 +88582,9 @@ zzzyk.com###Tinfo
 ||imzog.com/sizo^
 ||in.com/common/script_catch.js
 ||inbox.lv^*/ga.js
-||inc*-rev.static-cloudflare.workers.dev^
-||inccrev*.static-cloudflare.workers.dev^
 ||incgrepacks.com/wp-content/uploads/2024/06/str.gif
 ||incomaker.com//tracking/
-||increase*-rev.static-cloudflare.workers.dev^
-||increase*rev.static-cloudflare.workers.dev^
-||increase-rev*.static-cloudflare.workers.dev^
 ||incrementxplay.com/api/adserver/
-||increv*.static-cloudflare.workers.dev^
 ||ind.sh/view.php?$third-party
 ||indeed.com/cmp/_rpc/dwell-log?
 ||indeed.com/cmp/_rpc/flog
@@ -95957,6 +95954,7 @@ zzzyk.com###Tinfo
 ||vptpcs.com/templates/base_master/js/ppdr/
 ||vptpcs.com/templates/base_master/js/videoban.js
 ||vptpcs.com/templates/frontend/viptube/js/adx_flash.js
+||vq4b0q.fun^$popup
 ||vs*.gzcu.u3.ucweb.com^
 ||vsping-*.myqcloud.com/ggw/
 ||vsrc.*.js?_=
