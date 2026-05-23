@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260523182242
-! Last modified: 2026/05/23 18:22:42
-! Blocked domains: 7524
+! Version: 20260524015550
+! Last modified: 2026/05/24 01:55:50
+! Blocked domains: 7489
 ! unBlocked domains: 46
 !
 ||0001zhekoushouyoupingtai.org.cn^
@@ -693,9 +693,6 @@
 ||smetrics.abercrombie.cn^
 ||discover.absciex.com.cn^
 ||disk.accord1key.cn^
-||account-kaiyun-sports.com.cn^
-||account-maiqiuzhan.com.cn^
-||account-xingkong-sport.com.cn^
 ||apilog-web.acfun.cn^
 ||apilog.app.acfun.cn^
 ||jscode.acg68.com^
@@ -1034,7 +1031,6 @@
 ||aa.analog.com^
 ||images.h.analog.com^
 ||analysys.cn^
-||android-wending-pg.com.cn^
 ||androidblender.com^
 ||anfeng.com^
 ||api.antibanads.com^
@@ -1712,7 +1708,6 @@
 ||clickeye.cn^
 ||clicki.cn^
 ||clickvalue.cn^
-||client-wending-pg.com.cn^
 ||7mnpeh.com1.z0.glb.clouddn.com^
 ||7xi9g1.com1.z0.glb.clouddn.com^
 ||bkt.clouddn.com^
@@ -1873,7 +1868,6 @@
 ||ee.d6s2pn5t.cn^
 ||m.d6s2pn5t.cn^
 ||d7ytrv7yxa.com^
-||d86f7ca749edbd17.com^
 ||dabaicai.cn^
 ||dabaicai.com^
 ||daccp.cn^
@@ -2030,10 +2024,7 @@
 ||digitalunion.cn^
 ||dingdangcat.com.cn^
 ||ccyoo.dingdingxiaoer.cn^
-||dingdongdianwanyouxipingtai.com.cn^
 ||bea-s.dinghuoche.com^
-||dingjunhuiganggangbisaijegjntian.com.cn^
-||dingjweiqimingjuxinshang.com.cn^
 ||dingjzuquycwangq.com.cn^
 ||dingku.com.cn^
 ||dinglihuafu.com.cn^
@@ -2342,7 +2333,6 @@
 ||fanyi027.com.cn^
 ||fanyi100.com.cn^
 ||fanyinyuan.com.cn^
-||fanyiyoudao-ci.com.cn^
 ||fastapi.net^
 ||fastcache.com.cn^
 ||dsp.fcbox.com^
@@ -3136,7 +3126,6 @@
 ||track.hujiang.com^
 ||trackcommon.hujiang.com^
 ||u8.hujiang.com^
-||hulichuang.mobi^
 ||e.hun3f.cn^
 ||m.hun3f.cn^
 ||log.hunantv.com^
@@ -3558,7 +3547,6 @@
 ||jnsz.net.cn^
 ||c.jntxst.cn^
 ||v.jntxst.cn^
-||jnwan9diandingjunhuibisaizhibomianfei.com.cn^
 ||jnykjgs.cn^
 ||jnyngg.cn^
 ||ub1.job592.com^
@@ -3727,7 +3715,6 @@
 ||ku-shadowrocket.hl.cn^
 ||ku6.com^
 ||kuaichuan112-119buhangzhe.com.cn^
-||kuaichuanbisaimianfeizhibo.com.cn^
 ||kuaichuanjnrizhibobisaie.com.cn^
 ||kuaichuanshju40j16jbaihuren.com.cn^
 ||kuaichuanvshurenr.com.cn^
@@ -3895,7 +3882,6 @@
 ||cherry.le.com^
 ||stat.le.com^
 ||lead-ding-ding.com.cn^
-||ledger666.online^
 ||ledgerwallet.download^
 ||metric.leigod.com^
 ||leigodco.com^
@@ -4576,14 +4562,10 @@
 ||oneway.mobi^
 ||onezapp.com^
 ||online-8868sprots.com.cn^
-||online-anbo-sport.com.cn^
 ||online-bet365.com.cn^
-||online-jinnianhui.com.cn^
 ||online-live-kaiyun.com.cn^
 ||online-premier-kaiyun.com.cn^
 ||online-shaba.com.cn^
-||online-worldcup-tips.com.cn^
-||online-worldcup-yu.com.cn^
 ||online-xiongmao.com.cn^
 ||online.sh.cn^
 ||forspeed.onlinedown.net^
@@ -4626,7 +4608,6 @@
 ||startup.oupeng.com^
 ||turbo2sdk-push.oupeng.com^
 ||ouqo05161luj.com^
-||ourl.cn^
 ||at-af.outfit7.com^
 ||bidder.dsp.outfit7.com^
 ||hb-af-us-central1.outfit7.com^
@@ -4774,7 +4755,6 @@
 ||pqr-youdao.com.cn^
 ||prasquinor.jp^
 ||prlioxb.cn^
-||promo-wending-pg.com.cn^
 ||info.protiviti.com.cn^
 ||pstarv.cn^
 ||dm.pstatp.com^
@@ -4869,9 +4849,6 @@
 ||qipskd.cn^
 ||kbae.qiqqh.cn^
 ||s1.qiqutt.cn^
-||qishibisaizhibomianfei.com.cn^
-||qishiduijntianbisai.com.cn^
-||qishiduimianfeiluxianghuifang.com.cn^
 ||qishuei-d.com.cn^
 ||qishuei-f.com.cn^
 ||qishuei-g.com.cn^
@@ -5232,7 +5209,6 @@
 ||images.response.reedexpo.com.cn^
 ||news.reedexpo.com.cn^
 ||solutions.refinitiv.cn^
-||register-wending-pg.com.cn^
 ||www2.info.renesas.cn^
 ||ebp.renren.com^
 ||jebe.renren.com^
@@ -5308,9 +5284,6 @@
 ||news.s9377.com^
 ||sacre.cn^
 ||sadrfv.cn^
-||safe-kaiyun-sports.com.cn^
-||safe-leyu-sports.com.cn^
-||safe-mk-sports.com.cn^
 ||404.safedog.cn^
 ||safee.com.cn^
 ||safeora.shop^
@@ -5444,7 +5417,6 @@
 ||si-sogou.com.cn^
 ||sigmob.com^
 ||smetrics.marketing.signify.com.cn^
-||signup-wending-pg.com.cn^
 ||silasbuchanan.shop^
 ||simengadx.com^
 ||simicloud.com^
@@ -5780,7 +5752,6 @@
 ||tad.suning.com^
 ||suntechauto.com.cn^
 ||superads.cn^
-||support-wending-pg.com.cn^
 ||lcs.dev.surepush.cn^
 ||susapi.dev.surepush.cn^
 ||test.surepush.cn^
@@ -6298,7 +6269,6 @@
 ||cocoawu.b0.upaiyun.com^
 ||iosipa.b0.upaiyun.com^
 ||upceshop.cn^
-||update-wending-pg.com.cn^
 ||updatehub.nx.cn^
 ||updatehub.sx.cn^
 ||uphzxdv.cn^
@@ -6814,7 +6784,6 @@
 ||abroadad.cache.wpscdn.com^
 ||wpss-kuailian.com.cn^
 ||wpwpquse.cn^
-||wq89381.com^
 ||wrating.com^
 ||wrvdmh.cn^
 ||wsacjdg.cn^
@@ -6909,7 +6878,6 @@
 ||xianliao.me^
 ||xianshangzixun.com^
 ||xianshangzixun.net^
-||xianyishidadingjzuqiujuxing.com.cn^
 ||xianzhice.com^
 ||xiaobaixitong.com^
 ||xiaobeier.cn^
@@ -7072,7 +7040,6 @@
 ||xryrylt.cn^
 ||bchina-1.xsfaya.com^
 ||xshellcn.com^
-||xshengjngsaijangjnkoushuituihuan.com.cn^
 ||rdbd.xsread.com^
 ||xssncc2tv.com^
 ||xtwjx.cn^
@@ -7376,7 +7343,6 @@
 ||mqtt.zhihu.com^
 ||sugar.zhihu.com^
 ||collector2c.zhihuishu.com^
-||analytics.zhihuiya.com^
 ||ads.zhinengxiyifang.cn^
 ||logapi.zhipin.com^
 ||logapi-and.zhipin.com^
@@ -7507,7 +7473,6 @@
 ||hwad.zuimeitianqi.com^
 ||log2.zuimeitianqi.com^
 ||stat.zuimeitianqi.com^
-||zuixinyiqishatanzuqiugjadui.com.cn^
 ||zujz.cn^
 ||zukddms.cn^
 ||zunmi.cn^
