@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260525202020
-! Last modified: 2026/05/25 20:20:20
-! Blocked domains: 7984
+! Version: 20260526022229
+! Last modified: 2026/05/26 02:22:29
+! Blocked domains: 7951
 ! unBlocked domains: 46
 !
 ||0001zhekoushouyoupingtai.org.cn^
@@ -65,7 +65,6 @@
 ||1.11467.com^
 ||tg.1155t.cn^
 ||1188.com^
-||11wwwqishuiyinyue.com.cn^
 ||ax.120ask.com^
 ||eclick.120ask.com^
 ||ip.120ask.com^
@@ -228,9 +227,7 @@
 ||m.24ihe.cn^
 ||25662zubo23739.com^
 ||2607.cn^
-||26wwwqishuiyinyue.com.cn^
 ||26zsd.cn^
-||27wwwqishuiyinyue.com.cn^
 ||a1.289.com^
 ||2a.com.cn^
 ||2bj.cn^
@@ -389,7 +386,6 @@
 ||m.45le.cn^
 ||4a9.cn^
 ||a.4aqq.com^
-||4chuanyibifen50wanfengding.com.cn^
 ||4h44.com^
 ||jb.4hw.com.cn^
 ||js.4hw.com.cn^
@@ -509,7 +505,6 @@
 ||5vkyqkc.cn^
 ||m.5vst8h.cn^
 ||5wapp.com^
-||5wwwqishuiyinyue.com.cn^
 ||shrek.6.cn^
 ||simba.6.cn^
 ||union.6.cn^
@@ -607,7 +602,6 @@
 ||8k69vb6421.com^
 ||8le8le.com^
 ||8ox.cn^
-||8wwwqishuiyinyue.com.cn^
 ||8x5vviy4r2.com^
 ||web.900.la^
 ||90370.com^
@@ -666,7 +660,6 @@
 ||9v7sbm9zc.com^
 ||9wad.com^
 ||9wee.com^
-||9wwwqishuiyinyue.com.cn^
 ||9xu.com^
 ||app.9yyg.cn^
 ||a0c77.com^
@@ -676,13 +669,11 @@
 ||a3p4.net^
 ||a4xvv2g18l.com^
 ||aa-deepll.hl.cn^
-||aa-goujia.hl.cn^
 ||aa67678156.com^
 ||aaaweb.cn^
 ||www.aaawz.cc^
 ||aafanke.cc^
 ||aaoffice.cn^
-||aap-goujia.hl.cn^
 ||aaqaz.cn^
 ||abbyychina.com^
 ||abc-sougou.com.cn^
@@ -1425,7 +1416,6 @@
 ||hw-v2-web-player-tracker.biliapi.net^
 ||data.bilibili.com^
 ||interface.bilibili.com^
-||mall.bilibili.com^
 ||miniapp.bilibili.com^
 ||tracker.chat.bilibili.com^
 ||line1-log.biligame.net^
@@ -1466,7 +1456,6 @@
 ||bob-sports-online.com.cn^
 ||bobo.com^
 ||m.bogubogu.cn^
-||bohrclaw.com.cn^
 ||click.bokecc.com^
 ||p.bokecc.com^
 ||paybank.bokxboy.cn^
@@ -1940,7 +1929,6 @@
 ||daraz.com^
 ||marketing.net.daraz.lk^
 ||net.daraz.pk^
-||sgtm.darryring.com^
 ||dartsearch-cn.net^
 ||dashet.com^
 ||datacaciques.com^
@@ -2024,7 +2012,6 @@
 ||engine.dcad01.com^
 ||xcx.dcad01.com^
 ||dcvbnng.com^
-||dd-ding.com.cn^
 ||paybank.ddahucf.cn^
 ||ddsdsad.com^
 ||dm1.ddwk8.cn^
@@ -2076,7 +2063,6 @@
 ||dingdangcat.com.cn^
 ||ccyoo.dingdingxiaoer.cn^
 ||bea-s.dinghuoche.com^
-||dingjzuquycwangq.com.cn^
 ||dingku.com.cn^
 ||dinglihuafu.com.cn^
 ||dinglongmiye.com.cn^
@@ -2367,7 +2353,6 @@
 ||sccdn.f2zd.com^
 ||g.f5gh.com^
 ||m.f846b.cn^
-||facebook-fb-ai.com^
 ||facebook6688.cn^
 ||fakjkwp.cn^
 ||z2.fakutownee.cn^
@@ -2942,7 +2927,6 @@
 ||fingerprint-upload.hellobike.com^
 ||helloworldu.hl.cn^
 ||alibaba-inc.kefu.helps.live^
-||here-wendingyule.com.cn^
 ||hetianwq.com^
 ||hxsame.hexun.com^
 ||itv.hexun.com^
@@ -3589,7 +3573,6 @@
 ||api.jialiangad.com^
 ||ads.jianchiapp.com^
 ||acc.jiangsujiaxue.com^
-||jianhunonlineshouyougw7.org.cn^
 ||ahm.jiankang123.net^
 ||jiankongbao.com^
 ||tr.jianshu.com^
@@ -3643,7 +3626,6 @@
 ||www.jmine.cn^
 ||jmlinks.cn^
 ||jmlk.co^
-||jnrikuaichuanbisaihuifangluxiang.com.cn^
 ||save.jnrsmcu.com^
 ||jnsz.net.cn^
 ||c.jntxst.cn^
@@ -3676,7 +3658,6 @@
 ||jspcdn.cn^
 ||fpb1.jsq886.com^
 ||jszctech.com^
-||log.jtexpress.com.cn^
 ||juandou.com^
 ||jugao.com^
 ||juhuisuan.com^
@@ -3687,7 +3668,6 @@
 ||wuliao.juqingba.cn^
 ||jusha.com^
 ||1.jushtong.com^
-||just-wendingyule.com.cn^
 ||paypay-card.juwmqax.cn^
 ||juzi.cn^
 ||jwg365.cn^
@@ -4434,7 +4414,6 @@
 ||api.mobcells.com^
 ||mobgi.com^
 ||mobid.cn^
-||mobile-wendingyule.com.cn^
 ||ent.mobileanjian.com^
 ||mobiledissector.com^
 ||mobilephonelocator.net^
@@ -4756,7 +4735,6 @@
 ||visit.oschina.net^
 ||otme.cn^
 ||oukeyqukuailiandlrukougw7.org.cn^
-||oukeyqukuailiangwrukou7.org.cn^
 ||cp.oupeng.com^
 ||img-ad.oupeng.com^
 ||max-files.oupeng.com^
@@ -4839,6 +4817,7 @@
 ||pfqwbqs.cn^
 ||pgluck-wending.com.cn^
 ||vendhelpuous.pgvjmp.cn^
+||pharmnet.com.cn^
 ||smetrics.marketing.lighting.philips.com.cn^
 ||photozoomchina.com^
 ||paybank.phqedz.cn^
@@ -5333,7 +5312,6 @@
 ||chat.quickcep.com^
 ||qujishu.com^
 ||qukuailiandizhichaxun7.org.cn^
-||qukuailianliulanqi7.org.cn^
 ||qulishi.com^
 ||bc.qunar.com^
 ||log.flight.qunar.com^
@@ -5361,7 +5339,6 @@
 ||v5-se-gddgtc-reading-ad.qznovelvod.com^
 ||v5-se-sjy-daily-reading-ad.qznovelvod.com^
 ||v5-se-ws-reading-ad.qznovelvod.com^
-||v5-se-zjjxtc-reading-ad.qznovelvod.com^
 ||v5-se-zjnbtc-reading-ad.qznovelvod.com^
 ||v6-daily-reading-ad.qznovelvod.com^
 ||v6-reading-ad.qznovelvod.com^
@@ -5609,9 +5586,6 @@
 ||jpaasne.e.shifen.com^
 ||statichf.shihuocdn.cn^
 ||shijeshidadingjlanqulsai.com.cn^
-||shikuang8zuixinqiuyuanbuding7.org.cn^
-||shikuangzuqiu8buding7.org.cn^
-||shikuangzuqiu8zuixinbuding7.org.cn^
 ||shikuangzuqiuonlinexiazai.org.cn^
 ||shilian168.cn^
 ||shop265.com^
@@ -6036,7 +6010,6 @@
 ||talkingdata.com^
 ||talkingdata.com.cn^
 ||tangchaohes.cn^
-||tangyoubeibanjuesaiguoyuduizhenqueding.com.cn^
 ||clog.tanshudata.com^
 ||affiliate.tantanapp.com^
 ||pco-sm-log.tantanapp.com^
@@ -6175,7 +6148,6 @@
 ||site.tdk.cn^
 ||tracking.tdk.cn^
 ||te37w.cn^
-||teamviewer.hl.cn^
 ||teaonline.com.cn^
 ||teatrove.shop^
 ||js.static.tebaidu.cn^
@@ -6346,7 +6318,6 @@
 ||tradplus.com^
 ||tradplusad.com^
 ||trezor.cn^
-||tronqukuailianliulanqichaxun7.org.cn^
 ||tronscanqukuaichaxunjiaoyijilu.org.cn^
 ||ta.trs.cn^
 ||trust-wending.com.cn^
@@ -6689,7 +6660,6 @@
 ||asia-vpushort-stsdk.vivoglobal.com^
 ||au-vcode-od.vivoglobal.com^
 ||br-p.vivoglobal.com^
-||cl-vcode-od.vivoglobal.com^
 ||cname-asia-comonrt-stsdk.vivoglobal.com^
 ||cname-asia-st-exappupgrade.vivoglobal.com^
 ||cname-in-apport-stsdk.vivoglobal.com^
@@ -7132,7 +7102,6 @@
 ||1500022744.vodplayer.wxamedia.com^
 ||1500026601.vodplayer.wxamedia.com^
 ||s.wxktv.cn^
-||wxz-wps.com.cn^
 ||wy213.com^
 ||paypay-card.wygqrku.cn^
 ||m.wz382.cn^
@@ -7465,7 +7434,6 @@
 ||01.yd-jun.com^
 ||yd126.com^
 ||ydgsvls.cn^
-||ydingdashuju7.org.cn^
 ||ydingshuju7.org.cn^
 ||kl.yditweb.cn^
 ||ydmob.com^
@@ -7972,7 +7940,6 @@
 ||zukddms.cn^
 ||zunmi.cn^
 ||1.zuowenjun.com^
-||zuqiujisuanqishengpingfu7.org.cn^
 ||e.zvfuka.cn^
 ||m.zvfuka.cn^
 ||ndrenefs.zwanyu.cn^
