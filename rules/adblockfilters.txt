@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260525015405
-! Last modified: 2026/05/25 01:54:05
-! Blocked Filters: 101546
+! Version: 20260525131529
+! Last modified: 2026/05/25 13:15:29
+! Blocked Filters: 101542
 !
 ###AC_ad
 ###AD_160
@@ -67003,8 +67003,6 @@ pgatour.com##.css-1t41kwh
 phandroid.com##[href^="https://howl.link/"]
 phaply.net.vn##.no-margin-ads
 pharmacytimes.com##div[class*="728px"][class*="98px"]
-pharmnet.com.cn###img1
-pharmnet.com.cn##.ad9502
 pherotruth.com##.footerad
 pherotruth.com##.headerad
 pherotruth.com#%#//scriptlet('abort-current-inline-script', 'Array.prototype.shift', 'void 0===')
@@ -95666,8 +95664,6 @@ zzzyk.com###Tinfo
 ||pg.totaaltv.nl/api/metrics
 ||ph-files.imgix.net/381feabc-7331-4b7e-a5be-1d606cf38c06.png$domain=producthunt.com
 ||ph-files.imgix.net/c160f39d-096a-4679-a8ef-eb68c537359c.png$domain=producthunt.com
-||pharmnet.com.cn/cnbanner/
-||pharmnet.com.cn/js/float_div.js
 ||phb123.com/skin/js/tongji.js
 ||phbkm.com/js/
 ||pheniter.com^$popup
