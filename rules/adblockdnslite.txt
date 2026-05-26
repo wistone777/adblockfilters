@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260526022229
-! Last modified: 2026/05/26 02:22:29
-! Blocked domains: 7951
+! Version: 20260526125742
+! Last modified: 2026/05/26 12:57:42
+! Blocked domains: 7943
 ! unBlocked domains: 46
 !
 ||0001zhekoushouyoupingtai.org.cn^
@@ -226,6 +226,7 @@
 ||2481e.com^
 ||m.24ihe.cn^
 ||25662zubo23739.com^
+||25t9uxgnx.com^
 ||2607.cn^
 ||26zsd.cn^
 ||a1.289.com^
@@ -3185,7 +3186,6 @@
 ||huatihui-online.com.cn^
 ||ads.huawei.com^
 ||ads.cloud.huawei.com^
-||drcn-weather.cloud.huawei.com^
 ||hwa.his.huawei.com^
 ||httpdns.huaweicloud.com^
 ||uba.huaweicloud.com^
@@ -4480,17 +4480,11 @@
 ||myfeng.cn^
 ||mygeek.cn^
 ||cdn.adm.myhayo.com^
-||ceshi127722.obs.cn-north-4.myhuaweicloud.com^
 ||nsp-logservice-hiview-p05-dra.obs.ap-southeast-3.myhuaweicloud.com^
 ||nsp-logservice-hiview-p06-dra.obs.ap-southeast-3.myhuaweicloud.com^
 ||nsp-logservice-hiview-p07-dra.obs.ap-southeast-3.myhuaweicloud.com^
 ||nsp-logservice-hiview-p08-dra.obs.ap-southeast-3.myhuaweicloud.com^
-||nsp-logservice-hiview-p41-drcn.obs.cn-north-2.myhuaweicloud.com^
-||nsp-logservice-hiview-p43-drcn.obs.cn-north-2.myhuaweicloud.com^
-||nsp-logservice-hiview-p50-drcn.obs.cn-north-2.myhuaweicloud.com^
-||nsp-logservice-weardevice-p51-drcn.obs.cn-north-2.myhuaweicloud.com^
 ||r39-g003-h8ig0w-u8f0we8-fgw0rgf-0we880e-rhgth.obs.ap-southeast-2.myhuaweicloud.com^
-||teslaamg.obs.cn-east-3.myhuaweicloud.com^
 ||myhug.cn^
 ||metrics-picture-hk.d1.mykeeta.com^
 ||mylikechat.com^
@@ -4508,7 +4502,6 @@
 ||ggtp-1255424916.cos.ap-chengdu.myqcloud.com^
 ||j-0-09g-9bh-h-ggf-1324992141.cos.ap-bangkok.myqcloud.com^
 ||leindisncieamrocea-1341831283.cos.sa-saopaulo.myqcloud.com^
-||mhmh1-1251344380.cos.ap-chengdu.myqcloud.com^
 ||mibook-10006092.cos.myqcloud.com^
 ||moren-1252794300.file.myqcloud.com^
 ||pichk.myqcloud.com^
@@ -6173,7 +6166,6 @@
 ||tpns.sgp.tencent.com^
 ||tpstelemetry.tencent.com^
 ||tencentapigw.com^
-||tencentapigw.com.cn^
 ||gz.apigw.tencentcs.com^
 ||sh.apigw.tencentcs.com^
 ||ad.tencentmusic.com^
