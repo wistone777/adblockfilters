@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260529200943
-! Last modified: 2026/05/29 20:09:43
-! Blocked domains: 7120
+! Version: 20260530032816
+! Last modified: 2026/05/30 03:28:16
+! Blocked domains: 7106
 ! unBlocked domains: 46
 !
 ||011211.cn^
@@ -2987,8 +2987,6 @@
 ||pyk.in-neo.cn^
 ||inad.com^
 ||dlres.ind9ed.com^
-||index-match-wending-pg.com.cn^
-||index-news-j9game.com.cn^
 ||ssp.indexmob.com^
 ||analytics.infility.cn^
 ||link.infineon.cn^
@@ -3102,7 +3100,6 @@
 ||paypay-card.iyelxkt.cn^
 ||dev.iyuba.cn^
 ||iyumiao.com.cn^
-||iz-htx.hl.cn^
 ||izatcloud.net^
 ||adapi.izuiyou.com^
 ||adstat.izuiyou.com^
@@ -3626,7 +3623,6 @@
 ||lined.com.cn^
 ||lineg.com.cn^
 ||lineu.com.cn^
-||lineup-preview-kaiyun.com.cn^
 ||lingd.cn^
 ||linkcenter.hk.cn^
 ||linkcenter.ln.cn^
@@ -4395,6 +4391,7 @@
 ||prasquinor.jp^
 ||prdohgp.cn^
 ||prlioxb.cn^
+||proewildfire.cn^
 ||info.protiviti.com.cn^
 ||pstarv.cn^
 ||dm.pstatp.com^
@@ -4923,17 +4920,9 @@
 ||safeguard-365wm.com.cn^
 ||safeora.shop^
 ||safeplay-kaiyun.com.cn^
-||safew-ca.com.cn^
-||safew-go.org.cn^
-||safew-hi.com.cn^
-||safew-io.com.cn^
 ||safew-jm.com.cn^
 ||safew-js.com.cn^
-||safew-pc.org.cn^
-||safew-s1.org.cn^
-||safew-tv.org.cn^
 ||safeweiji.com.cn^
-||safewgo.org.cn^
 ||saitef.cn^
 ||samevay.com.cn^
 ||smetrics.samsung.com.cn^
@@ -5850,7 +5839,6 @@
 ||uqz.com^
 ||urbanfind.club^
 ||uri6.com^
-||use-sougou.com.cn^
 ||usercenter.ha.cn^
 ||usercenter.he.cn^
 ||usercenter.nx.cn^
@@ -6340,7 +6328,6 @@
 ||vhs.wwstat.com^
 ||www-google.cn^
 ||www-qishiu.com.cn^
-||www-stream-wending-pg.com.cn^
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
 ||1500026601.vodplayer.wxamedia.com^
@@ -7084,7 +7071,6 @@
 ||zonst.com^
 ||zooj.cn^
 ||adm.zookingsoft.com^
-||zoom01webin.sbs^
 ||zoosnet.net^
 ||zoossoft.cn^
 ||zoossoft.net^

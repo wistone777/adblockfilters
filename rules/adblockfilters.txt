@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260529200943
-! Last modified: 2026/05/29 20:09:43
-! Blocked Filters: 99461
+! Version: 20260530032816
+! Last modified: 2026/05/30 03:28:16
+! Blocked Filters: 99473
 !
 ###AC_ad
 ###AD_160
@@ -26490,6 +26490,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@||connatix.com*/connatix.player.$script,domain=ebaumsworld.com|funker530.com|tvinsider.com|washingtonexaminer.com
 @@||connatix.com/min/connatix.renderer.infeed.min.js$domain=accuweather.com|collider.com|gamepress.gg|salon.com
 @@||connatix.com^$domain=euronews.com
+@@||connatix.com^$domain=nypost.com
 @@||connatix.com^$domain=sport-fm.gr|sport24.gr|variety.com
 @@||connatix.com^$domain=sun-sentinel.com
 @@||connect.facebook.*/en_US/AudienceNetworkPrebid.js$domain=cbssports.com
@@ -45845,7 +45846,9 @@ edm.com##.wp-block-group.has-alt-background-color:has(> .wp-block-group__inner-c
 edm.com##.wp-block-group.has-alt-background-color:has(> .wp-block-group__inner-container > .mai-ad-video)
 edmtunes.com##div[id^="sticky-footer-div-gpt-ad-"]
 edmunds.com###adhesion-container
+edmunds.com###results-container > div[style]:has(> div.sponsored-cars)
 edmunds.com##.car-news-marquee
+edmunds.com##.usurp-card-list > li:has(> div > div.exco-player)
 edn.com###SideBarWrap
 edn.com###bannerWrap
 edoujin.net#%#//scriptlet('prevent-refresh')
@@ -46563,7 +46566,6 @@ erorealm.com,base64decode.org,base64encode.org,numgen.org,pdfmrg.com,pdfspl.com,
 erosxsun.xyz,westmanga.me###teaserbottom
 erothots.co##.bnr
 erothots.co##.work-sites
-erothots.co,zenporn.com##.bnrs
 erothots1.com##.magic-sites > a:not([href="https://t.me/+A8WVFYmWOONjYTY0"])
 erothots1.com##a[href="https://simpshub.com/"]
 erothots1.com,erothots.co,erothots.is,erothots.*##a[href^="https://www.camsoda.com/tour"]
@@ -64470,8 +64472,9 @@ nypost.com##.recirc--outbrain
 nypost.com##.single__outbrain
 nypost.com##.widget_nypost_dfp_ad_widget
 nypost.com##body .ad--container
-nypost.com#%#//scriptlet('adjust-setTimeout', '[native code]', '7000', '0.001')
+nypost.com#%#(()=>{const t={apply:(t,e,n)=>{try{const t=n[0];7e3===n[1]&&"function"==typeof t&&t.toString().includes("[native code]")&&(n[1]=0)}catch(t){}return Reflect.apply(t,e,n)}};window.setTimeout=new Proxy(window.setTimeout,t);const e=window.EventTarget.prototype.addEventListener,n={apply:(t,n,o)=>{try{if("DOMContentLoaded"===o[0]){const t=document.querySelector('body > iframe[src="javascript:false"]');t&&(t.contentWindow.setTimeout=window.setTimeout,EventTarget.prototype.addEventListener=e)}}catch(t){}return Reflect.apply(t,n,o)}};window.EventTarget.prototype.addEventListener=new Proxy(window.EventTarget.prototype.addEventListener,n)})();
 nypost.com#?#.recirc--outbrain
+nypost.com#@#.cnx-player-wrapper
 nypost.com#@#.recirc
 nypost.com#@#[class^="s2nPlayer"]
 nypost.com,pagesix.com##.billboard-overlay
@@ -64902,6 +64905,7 @@ ondemandkorea.com#%#//scriptlet('prevent-fetch', '/doubleclick\.net|adsbygoogle\
 ondemandkorea.com#?##curation-carousel > div[class^="css-"]:has([id^="Inline-Left-1_"])
 ondemandkorea.com#?#.Layout > div[class^="css-"] > div[class^="css-"]:has(iframe[id^="google_ads_iframe_"])
 ondemandkorea.com#?#article section[class^="css-"] ~ aside[class^="css-"]:has(div[id^="Companion_"][id*="_"])
+one.com.mt###popup-root
 onebitco.com##div[style^="height: 250px; width: 300px; position: fixed;"]
 onebox.mydown.com##.advertisement_pic
 onebox.mydown.com##.fcAgain
@@ -65267,6 +65271,7 @@ optyczne.pl###warning[style^="z-index:"]
 opuree.com#%#window.detector_active = true;
 oralhoes.com###vid-ads
 orangenews.hk##img[advid]
+orangepix.is,erothots.co,zenporn.com##.bnrs
 orangespotlight.com#%#//scriptlet("abort-on-property-read", "adBlockDetected")
 orbispatches.com##div[class="small text-muted text-center"]
 orbispatches.com#$#body .adsbyvli { display: block !important; height: 30px !important; }
@@ -67844,6 +67849,9 @@ primeradivision.pl,fcbarca.com##.banner
 primesrc.me#%#//scriptlet('remove-attr', 'href', 'a.splash')
 primetechieforum.com#%#//scriptlet('prevent-element-src-loading', 'img', 'doubleclick.net')
 primetimer.com###primis-ad-container
+primetimer.com##.optidigital-wrapper-div
+primetimer.com#$#body { overflow: auto !important; }
+primetimer.com#$#div[id^="adwall-"] { display: none !important; }
 primevid.click##a[href^="https://fairscrew.com/"]
 primevid.click##div[style="position: fixed; top: 0px; left: 0px; width: 100vw; height: 100vh; z-index: 3; background-color: transparent;"]
 primevideo.com#%#//scriptlet('json-prune', 'cuepointPlaylist vodPlaybackUrls.result.playbackUrls.cuepoints')
@@ -67944,7 +67952,6 @@ productreview.com.au#?#header + div[class]:has(> div > div#sticky-top-advertisem
 productreview.com.au#?#main div#search-results + div > div[class]:has(> div div[id^="google_ads_iframe_"])
 productreview.com.au#?#main div#search-results + div > div[class]:has(> div div[style="line-height:0"])
 productz.com##.productz-ad-container
-proewildfire.cn##.comiis_nav ~ a
 proff.no##.MuiBox-root[style="text-align:center;min-height:320px;margin-top:16px"]
 profil.wp.pl###rightLogBox > img.imgRight[src^="/login/"] ~ div[class]
 profil.wp.pl##div[id^="placeholder"]
@@ -70376,6 +70383,7 @@ satellites.pro##.placea
 satisfactory-calculator.com###DynamicInStream-Slot-1
 satisfactory-calculator.com###DynamicWidth-Slot-1
 satisfactory-calculator.com###DynamicWidth-Slot-2
+satkurier.pl###billboard1
 satkurier.pl##body div[id^="banner_"]
 satkurier.pl##body div[id^="idmnet_horizontal"]
 satkurier.pl##div[id^="blok_"][id$="_box_300x250"]
@@ -71782,6 +71790,7 @@ skyroad.downallbook.com##IMG[height='60'][width='98%']
 skyscanner.*##[data-testid="inline-ad-panel-desktop-layout"]:has([data-testid="adInfoBtn"])
 skyscanner.*##div[class*="InlineAd_card-wrapper"]
 skyscanner.*##div[class^="InlineAd_container_"]
+skyscanner.*##div[data-backpack-ds-component]:has(#inline-ad-button)
 skyscanner.*,tianxun.com##[class^="FlightsResults"] > div:has([class^="Sponsored"])
 skyscanner.*,tianxun.com##div > a:has(div[class^="DefaultBanner_sponsorshipRow"])
 skyscanner.*,tianxun.com##div:has(> a[data-testid="inline-brand-banner"])
@@ -76569,6 +76578,7 @@ tktube.com#%#//scriptlet('abort-on-property-read', 'StripchatSpot')
 tl.net###main-content > div[style^="max-width: 740px; height:108px; overflow: hidden; padding:"]
 tl.net###main-right-sidebar > div[style="margin-top: 2px; margin-bottom: 2px; height: 250px"]
 tld-list.com##div.row > .text-center > .ib
+tldr.tech#?#.flex:has(> div.w-full > span.text-white.underline:contains(Sponsored))
 tlgrm.eu##.channel-card--promoted
 tlgrm.eu#?#.cfeed-card:contains(Promoted post)
 tlgrm.eu#?#.cfeed-card:has-text(Promoted post)
@@ -78744,6 +78754,7 @@ usnews.com##div[data-ad-props]
 usnews.com#$#.content:has(> div[class^="Splash__BucketWrapper"] > div > div[class^="Ad__Container"]) { display: none !important; }
 usnews.com#$#main div.pt5 { padding-top: 0px !important; }
 uspassporthelpguide.com##.ad-text-sm
+ussoccer.com##div[class^="PreviewStory_advertising"]
 ustream.to###adblockz_alert
 ustream.to#%#//scriptlet("set-constant", "adblock_user", "0")
 ustream.to#%#//scriptlet("set-constant", "ads_blocked", "noopFunc")
@@ -80118,6 +80129,7 @@ wbur.org##.bp-label
 wbur.org##.section--bp
 wbur.org##.section--takeover
 wbur.org#?#div[class^="CardWrapper"] > article:has(> .uw > .bp--rec)
+wc2026fifa.com##a[data-track] > img
 wcax.com,kxii.com,kwtx.com,alaskasnewssource.com,ky3.com##body .arc-ad
 wccftech.com##.ad a[href][rel="sponsored"]
 wccftech.com##.bg-horizontal
@@ -89303,7 +89315,6 @@ zzzyk.com###Tinfo
 ||go.aff.estrelabetpartners.com^$popup
 ||go.camterest.com^$popup
 ||go.com/capmon/GetDE/?
-||go.fap18.net/ftt2/js.php
 ||go.goasrv.com^$removeheader=location
 ||go.inxxx.cam^$xmlhttprequest,domain=inxxx.com
 ||go.nutraingredients.com/pd.js
@@ -93595,6 +93606,8 @@ zzzyk.com###Tinfo
 ||oracleimg.com/us/assets/metrics/ora_docs.js
 ||orange.jo/ar/offers/pages/$domain=~orange.jo
 ||orangebuddies.nl/image/banners/
+||orangepix.is/b_pics/*.gif
+||orangepix.is/istrp/*.gif
 ||oraubsoux.net^$popup
 ||orbit*.lun.ua^
 ||orbita-lviv.com/jquerys.js
@@ -94336,7 +94349,6 @@ zzzyk.com###Tinfo
 ||product.rightmove.co.uk/featured-customer-v2.html
 ||product.rightmove.co.uk/localhomepages.html$subdocument
 ||production-adserver-*.amazonaws.com^
-||proewildfire.cn/fd.js
 ||profamouslife.com/js/adcash.js
 ||profollow.com/form/
 ||proginn.com/cms/10000/
