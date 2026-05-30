@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockfilterslite.txt
-! Version: 20260530032816
-! Last modified: 2026/05/30 03:28:16
-! Blocked Filters: 41830
+! Version: 20260530124509
+! Last modified: 2026/05/30 12:45:09
+! Blocked Filters: 41831
 !
 ###AC_ad
 ###AD_160
@@ -38151,6 +38151,7 @@ zzztube.com,videoporn.tube##.b-random-column
 ||4438x*.com/Runtime/js/
 ||57577.live^$csp=script-src
 ||58avgo.*/AirADPic/
+||5dm.*/htm$image
 ||67.21.92.*.gif
 ||77ds.*/js/77ad.js
 ||78dm.net.cn/acg_201*_250

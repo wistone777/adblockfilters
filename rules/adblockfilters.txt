@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260530032816
-! Last modified: 2026/05/30 03:28:16
-! Blocked Filters: 99473
+! Version: 20260530124509
+! Last modified: 2026/05/30 12:45:09
+! Blocked Filters: 99475
 !
 ###AC_ad
 ###AD_160
@@ -23047,6 +23047,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 58.com,pcpop.com,phpernote.com,zh141.com##div[id^="ad_"]
 590m.com,jdxiazai.cn,089u.com,306t.com,ctfile.com,474b.com,u062.com#?#.card:has(div[id="760ad"])
 591hx.com##.banner_w
+5dm.dev##div[id^="player_p"]
 5masterzzz.*,everydayporn.co,bussyhunter.com##div[style^="position: absolute; inset: 0px;"]
 5masterzzz.*,everydayporn.co,bussyhunter.com#%#//scriptlet('prevent-window-open')
 5mio.org$$script:contains(HTMLAllCollection)
@@ -25614,6 +25615,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@||bizpacreview.com^$csp=script-src 'self' *.leadpages.net *.gstatic.com *.google.com *.googleapis.com *.playwire.com *.facebook.com *.bootstrapcdn.com *.twitter.com *.spot.im
 @@||bizx.info$domain=sourceforge.net
 @@||bjjhq.com/HttpCombiner.ashx?$script,~third-party
+@@||blackbaud.net/proxy/api/track/
 @@||blackcircles.ca^$script,~third-party
 @@||blackmod.net^$generichide
 @@||blackwot.ru/ads/ads.js$domain=blackwot.ru
@@ -83779,6 +83781,7 @@ zzzyk.com###Tinfo
 ||591hx.com/js/sy.js
 ||591hx.com/lunbo/
 ||591hx.com/zyrk_dy/gwjl.html
+||5dm.*/htm$image
 ||5dyx.com/static/jquery.js
 ||5dyx.com/static/js/deny.js
 ||600km.com/template/*/ad/
@@ -88074,7 +88077,6 @@ zzzyk.com###Tinfo
 ||easypic.com/js/easypicads.js
 ||easyporn.xxx/tmp/
 ||easyview.eu/sw.js
-||eatcells.com/land/$popup
 ||eatwell101.com/wp-content/themes/*/custom/ads/
 ||eavesofefinegoldf.info^$popup
 ||ebay.com/delstats/
