@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260602203511
-! Last modified: 2026/06/02 20:35:11
-! Blocked domains: 6649
+! Version: 20260603040003
+! Last modified: 2026/06/03 04:00:03
+! Blocked domains: 6611
 ! unBlocked domains: 45
 !
 ||011211.cn^
@@ -753,13 +753,11 @@
 ||app-analytics-services.com^
 ||app-measurement-cn.com^
 ||app-measurement.com^
-||app-web5-whatsapp.com.cn^
 ||appadhoc.net^
 ||mobile.appchina.com^
 ||appdriver.cn^
 ||appdriver.com.cn^
 ||appgo.cn^
-||apple-pgwen.com.cn^
 ||iadsdk.apple.com^
 ||securemetrics.apple.com.cn^
 ||fpb1.apple886.com^
@@ -776,7 +774,6 @@
 ||a.armystar.com^
 ||trk.arozone.cn^
 ||arpun.com^
-||atelier-mobilier.com^
 ||aiseet.aa.atianqi.com^
 ||atpanel.com^
 ||atplay.cn^
@@ -1152,7 +1149,6 @@
 ||lerg.bpafree.cn^
 ||bpuvuun0xg.com^
 ||brightstyle.shop^
-||brotherfreight.com^
 ||bs2site.at^
 ||m.bs641.cn^
 ||bsbaswq.cn^
@@ -1236,7 +1232,6 @@
 ||cbhzxctgm.com^
 ||adv.ccb.com^
 ||ad.ccement.com^
-||ccfyq.hl.cn^
 ||cchytech.com^
 ||ccies.cn^
 ||ads.ccstock.cn^
@@ -1410,7 +1405,6 @@
 ||ggdata1.cnr.cn^
 ||phpstat.cntcm.com.cn^
 ||cntingyun.com^
-||cnweb-wending.com.cn^
 ||cnzz.cn^
 ||cnzz.com^
 ||coco988.cn^
@@ -1817,7 +1811,6 @@
 ||grand.ele.me^
 ||h-adashx.ut.ele.me^
 ||advert-server.elecfans.com^
-||elite-ayx.com.cn^
 ||metrics.ellechina.com^
 ||trk.elmorietschle.cn^
 ||d.elong.cn^
@@ -1940,8 +1933,6 @@
 ||fjzimaoqu.cn^
 ||datareport.fkw.com^
 ||flash.cn^
-||fleet-dafayule.com.cn^
-||fleet-oubaosports.com.cn^
 ||bd1.flfgw.cn^
 ||bd2.flfgw.cn^
 ||flipf.cn^
@@ -2571,7 +2562,6 @@
 ||huayiav.cn^
 ||hubcloud.com.cn^
 ||hubiazhi.com^
-||huibo-bw.com^
 ||huishenghuiying.com^
 ||huishenghuiying.com.cn^
 ||huiun.com^
@@ -2856,13 +2846,7 @@
 ||xladapi.izuiyou.com^
 ||xlstat.izuiyou.com^
 ||j69t.vip^
-||j69v.vip^
-||j70f.vip^
-||j70g.vip^
-||j70i.vip^
-||j71p.vip^
 ||j72j.vip^
-||j72w.vip^
 ||jab88.com^
 ||jaccsz.com^
 ||eventlog.jackpot.de^
@@ -2985,7 +2969,6 @@
 ||www.jmine.cn^
 ||jmlinks.cn^
 ||jmlk.co^
-||save.jnrsmcu.com^
 ||jnsz.net.cn^
 ||c.jntxst.cn^
 ||v.jntxst.cn^
@@ -3024,7 +3007,6 @@
 ||wuliao.juqingba.cn^
 ||jusha.com^
 ||juzi.cn^
-||jw-gate.hl.cn^
 ||jwg365.cn^
 ||jxdown.com^
 ||jxdyk65ay.com^
@@ -3146,7 +3128,6 @@
 ||c.kuaiduizuoye.com^
 ||rd.kuaigames.com^
 ||log.kuaigeng.com^
-||kuailian-oxz.com.cn^
 ||kuailinf.com.cn^
 ||kuailinm.com.cn^
 ||kuailinp.com.cn^
@@ -3233,8 +3214,6 @@
 ||wa.kuwo.cn^
 ||kuxkddg.cn^
 ||kuyun.com^
-||kv1q8d5m2v7x4k.org.cn^
-||kv4n8c1t7q5x2m.org.cn^
 ||kvxc7buwv3.com^
 ||api.kwaizt.com^
 ||open.kwaizt.com^
@@ -3366,7 +3345,6 @@
 ||lilangdianqi.cn^
 ||limkokwing-edu.cn^
 ||lingd.cn^
-||link3.cc^
 ||ads.linkedin.cn^
 ||datasink.linkfox.com^
 ||linkhaitao.com^
@@ -3379,7 +3357,6 @@
 ||fan.liuxiaoer.com^
 ||xi.liuxiaoer.com^
 ||adbd.liuxue86.com^
-||live-bsportsgo.com.cn^
 ||hw-p2p-pull.live-voip.com^
 ||tx-p2p-pull.live-voip.com^
 ||mkadsearch.lizhifm.com^
@@ -3899,12 +3876,10 @@
 ||natdetection.onethingpcs.com^
 ||oneway.mobi^
 ||onezapp.com^
-||online-duobao-sports.com.cn^
 ||online-starsport.com.cn^
 ||online.sh.cn^
 ||forspeed.onlinedown.net^
 ||fpbcode.onlinedown.net^
-||onlinekaiyun.com.cn^
 ||olpv.onlylady.com^
 ||olpvimg.onlylady.com^
 ||olstats.onlylady.com^
@@ -4090,7 +4065,6 @@
 ||pvkc.cn^
 ||pxwu.cn^
 ||cdn.pyadx.com^
-||pz-gate.hl.cn^
 ||pzkrgcp.cn^
 ||q1yv4669q6.com^
 ||www.q4ee.top^
@@ -4492,7 +4466,6 @@
 ||luaqxb.rainso.com^
 ||umami.rainyun.cn^
 ||bespoke-analytics.razerapi.com^
-||rb-youdao.com.cn^
 ||rbioclv.cn^
 ||rcpuierp.cn^
 ||rcqmvmq.cn^
@@ -4544,8 +4517,6 @@
 ||feedback.cn.ronghub.com^
 ||logcollection.ronghub.com^
 ||stats.cn.ronghub.com^
-||rosy-feifansports.com.cn^
-||rosy-yibeisports.com.cn^
 ||rovz7ekw3r.com^
 ||rpahyhn.cn^
 ||rplzmw.cn^
@@ -4577,11 +4548,7 @@
 ||g.s8dj.com^
 ||news.s9377.com^
 ||sacre.cn^
-||safe-bibo.com.cn^
-||safe-tianbo.com.cn^
 ||safeora.shop^
-||safew-appk-cn.com.cn^
-||safew-appu-cn.com.cn^
 ||saitef.cn^
 ||samevay.com.cn^
 ||smetrics.samsung.com.cn^
@@ -5174,7 +5141,6 @@
 ||log.tec73.com^
 ||tongji.techweb.com.cn^
 ||tecunonline.com^
-||telegram-qu.com.cn^
 ||data.tempersyi.com^
 ||apd-pcdnvodstat.teg.tencent-cloud.net^
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
@@ -5260,7 +5226,6 @@
 ||to8to.com^
 ||tobidad.com^
 ||todesk-dl.com.cn^
-||todesk-qp.com.cn^
 ||todesk-zw.com.cn^
 ||abtest.todesk.com^
 ||rybbit.todesk.com^
@@ -5343,7 +5308,6 @@
 ||b.tvsou.com^
 ||md.tvzhe.com^
 ||mi.tvzhe.com^
-||tw-linee.com.cn^
 ||twdjn.cn^
 ||twh5.com^
 ||tb.code.twyxi.com^
@@ -5903,7 +5867,6 @@
 ||m.wv26d.cn^
 ||wwads.cn^
 ||vhs.wwstat.com^
-||www-line-zh.com.cn^
 ||s.wxktv.cn^
 ||wy213.com^
 ||m.wz382.cn^
@@ -6185,7 +6148,6 @@
 ||bmjs.xzw.com^
 ||y0764.cn^
 ||y6a7ap3io3.com^
-||yabo-online.com.cn^
 ||yahekby.cn^
 ||yahoo.com.cn^
 ||m.yalayi.com^
