@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260603040003
-! Last modified: 2026/06/03 04:00:03
-! Blocked Filters: 100322
+! Version: 20260603135647
+! Last modified: 2026/06/03 13:56:47
+! Blocked Filters: 100307
 !
 ###AC_ad
 ###AD_160
@@ -23475,8 +23475,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 9am.ro##.ad-in-artilce
 9am.ro##.minh-250
 9am.ro##.retail_insert_in_article
-9anime-hub.com###mdl-register
-9anime-hub.com#%#//scriptlet('prevent-setTimeout', '-register')
 9anime-tv.com##body > iframe[class][style^="border:"][style*="z-index:"]:not([src])
 9anime-tv.com#?#.theiaStickySidebar > div[id^="text-html-widget-"]:has(> .widget-title > h4:contains(/^Advertisement$/))
 9anime.*#%#//scriptlet("abort-current-inline-script", "document.createElement", "ppu_")
@@ -35051,7 +35049,6 @@ a9vg.com##.a9-back-top_qrcode
 aa.com.tr#?#.container > style ~ div.ad:has(> span > a:not([href^="https://www.aa.com.tr/"]))
 aa25.cn###content_head
 aa25.cn,kafan.cn###content_top
-aaaweb.cn##a[href$=".yhzu.cn"]
 aads.com,ad-maven.com,adcash.com,admitad.com,adskeeper.com,adspyglass.com,adsupply.com,chpadblock.com,exoclick.com,hilltopads.com,juicyads.com,monetag.com,popads.net,propellerads.com,purpleads.io,trafficshop.com,yavli.com##HTML
 aae3.com###menu
 aae3.com##form + center > p[align="center"]
@@ -40004,8 +40001,6 @@ bombuj.si#%#//scriptlet('remove-attr', 'href', 'a[id][target="_blank"][onclick*=
 bombuj.si#%#//scriptlet('trusted-click-element', '#players .blink_me_ad > p > font > font', '', '300')
 bonappetit.com##[data-testid="sticky-hero-ad"]
 bonbonme.com##.topbannerer
-bondagevalley.cc##.pleasedoit
-bondagevalley.cc#%#//scriptlet('abort-current-inline-script', 'jQuery', '/makeMoney|please/')
 bongda.com.vn##.adv
 bongdaplus.vn###ad-in-page
 bongdaplus.vn##iframe[src^="http://demo.klick.vn:"]
@@ -65104,7 +65099,6 @@ olamovies.*#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com')
 olamovies.*#%#//scriptlet('set-constant', 'adsbygoogle', 'emptyObj')
 olarila.com#%#//scriptlet('prevent-fetch', 'adsbygoogle')
 olawa24.pl##.place-items-center > div > a[href^="https://olawa24.pl/redirect?token="][rel]
-old-young.net#%#//scriptlet('prevent-window-open', '_blank')
 old-young.net#%#//scriptlet('set-constant', 'detectAdBlock', 'noopFunc')
 old.reddit.com##.native-ad-container
 old.reddit.com##.sb-unit
@@ -68303,8 +68297,6 @@ powiatowa.info#?#.jm-title-wrap > .jm-title:contains(/^REKLAMA$/)
 powstream.*,stre4mplay.*,streampiay.*,stemplay.*,steamplay.*,steanplay.*,streamp1ay.*,streanplay.*###uverlay
 powstream.*,stre4mplay.*,streampiay.*,stemplay.*,steamplay.*,steanplay.*,streamp1ay.*,streanplay.*##.ad
 powv1deo.cc##iframe[src^="//tontent.powv1deo.cc/"]
-powvideo.net###keepFloatin
-powvideo.net##iframe[src^="//wontent.powvideo.net/apw.hh"]
 powvideo.net,streamplay.to,uxstyle.com###overlay
 poynter.org###above-the-brands
 pp.ua###id_ad_image
@@ -69232,7 +69224,6 @@ quicksounds.com#%#//scriptlet("abort-current-inline-script", "document.getElemen
 quienhabla.mx#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com')
 quikr.com##.promotion_banners
 quikr.com,theync.com,all-that-is-interesting.com##.header-banner
-quins.us###mgStickyBanner
 quintenews.com##center > a[target="_blank"][href]
 quintenews.com##div[id^="placement_"]
 quipmag.com##.nlg-sidebar-inner > .widget_text
@@ -77547,6 +77538,7 @@ torrentgalaxy.unblockninja.com###blockalert
 torrentgalaxy.unblockninja.com###stopad
 torrenthound.com##.whitebg td
 torrentino.me##div[class^="banner-"]
+torrentio.to,old-young.net#%#//scriptlet('prevent-window-open', '_blank')
 torrentleech.org###disableAdPic > a > img
 torrentleech.org##.login-banner
 torrentleech.org##div[style="height:640px; width:160px;"]
@@ -82739,7 +82731,6 @@ xxxporn.me#$#.kPYsnxpplayer-promo-col { visibility: hidden !important; }
 xxxporn.pics##.download
 xxxporn.tube###watch_sidevide
 xxxporn.tube###watch_undervideo
-xxxpornhd.pro##.video-container > div.link
 xxxrapid.com##.video-actions-content
 xxxscenes.net###execphp-3
 xxxshake.com##.fluid-b > div.fluid-b-title
@@ -86610,7 +86601,6 @@ zzzyk.com###Tinfo
 ||bombaytimes.com/bbtrue/
 ||bombuj.tv/adblock/fuckadblock2.js
 ||bonbonme.com/js/g1313166/
-||bondagevalley.cc/upload/photos/kcs.webp
 ||bondzgi*.
 ||bonertube.com/*/license.*.js
 ||bonertube.com/*/script.js
@@ -88579,7 +88569,6 @@ zzzyk.com###Tinfo
 ||downlinker.*/ads.js
 ||download-adblockgenius.com^$popup
 ||download-file.org^$popup
-||download-performance.com^$popup
 ||download.cnet.com/revamp.js
 ||download.megaup.net/*.jpg$~third-party,image,redirect=1x1-transparent.gif
 ||download.megaup.net/download
@@ -89286,7 +89275,6 @@ zzzyk.com###Tinfo
 ||fetishshrine.com/jsb/js_script.js
 ||fetishshrine.com/plugin.js
 ||fetlife.com/ads/
-||fewcents.co^$third-party
 ||feyorra.top/next.js
 ||ffdm*.cc/dd.js
 ||ffdm2.cc/ht_cpc.js
@@ -95113,9 +95101,6 @@ zzzyk.com###Tinfo
 ||powv1deo.cc/js/dpu*/pu*.min.js
 ||powv1deo.cc/player*/*/vast.js
 ||powvibeo.*/ben/$subdocument,~third-party
-||powvideo.net/bon/exonat.html
-||powvideo.net/bun/$important
-||powvideo.net/js/pu*/pu*.min.js?v=
 ||poxiao.com/template/default/images/12345.js
 ||ppcdn.it/iol/tracklib.3.js
 ||ppcnt.*/go.php?id=$popup
