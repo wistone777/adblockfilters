@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260604194507
-! Last modified: 2026/06/04 19:45:07
-! Blocked domains: 7236
+! Version: 20260605031431
+! Last modified: 2026/06/05 03:14:31
+! Blocked domains: 7223
 ! unBlocked domains: 46
 !
 ||011211.cn^
@@ -887,7 +887,6 @@
 ||loggw.alipaydns.com^
 ||alipaylog.com^
 ||acjs.aliyun.com^
-||click.aliyun.com^
 ||1e4441z5fvl-sdk.rum.aliyuncs.com^
 ||1fur2cuzsul-sdk.rum.aliyuncs.com^
 ||1fw35mn5y7h-sdk.rum.aliyuncs.com^
@@ -899,7 +898,6 @@
 ||aixuntupian.oss-cn-hongkong.aliyuncs.com^
 ||alime-pic.oss-cn-hangzhou.aliyuncs.com^
 ||appgiftwall.oss-us-west-1.aliyuncs.com^
-||axyleu11gz-default-cn.rum.aliyuncs.com^
 ||beacon-api.aliyuncs.com^
 ||c3gdk-default-cn.rum.aliyuncs.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
@@ -1652,8 +1650,6 @@
 ||clickeye.cn^
 ||clicki.cn^
 ||clickvalue.cn^
-||7mnpeh.com1.z0.glb.clouddn.com^
-||7xi9g1.com1.z0.glb.clouddn.com^
 ||bkt.clouddn.com^
 ||advertise.cloudlinks.cn^
 ||cm-todesk.com.cn^
@@ -2077,7 +2073,6 @@
 ||earmasterchina.cn^
 ||track.easeus.com^
 ||easou.com^
-||mini.eastday.com^
 ||tongji.eastday.com^
 ||ay.eastmoney.com^
 ||bdstatic.eastmoney.com^
@@ -2157,7 +2152,6 @@
 ||ergeapp.com^
 ||log.ergeduoduo.com^
 ||erlpbwy.cn^
-||analytics.escience.org.cn^
 ||ethan.wang^
 ||c.etoolads.cn^
 ||marketing.etouch.cn^
@@ -2821,7 +2815,6 @@
 ||api-vipgw-launcher.hismarttv.com^
 ||auth-em.hismarttv.com^
 ||auth-eu.hismarttv.com^
-||auth-jp.hismarttv.com^
 ||auth-launcher-em.hismarttv.com^
 ||auth-launcher-eu.hismarttv.com^
 ||auth-launcher-jp.hismarttv.com^
@@ -3226,7 +3219,6 @@
 ||adstat.izuiyou.com^
 ||xladapi.izuiyou.com^
 ||xlstat.izuiyou.com^
-||j65s.vip^
 ||j67c.vip^
 ||j69t.vip^
 ||j69v.vip^
@@ -4234,7 +4226,6 @@
 ||nmlastcallluxury.com^
 ||nnocsin.cn^
 ||web.novogene.com^
-||grow.nowcoder.com^
 ||a.nowscore.com^
 ||z.nowscore.com^
 ||util.nphoto.net^
@@ -4253,7 +4244,6 @@
 ||c.nuhcpf.com^
 ||log.nuomi.com^
 ||ads.nuonuo.com^
-||metric.nuonuo.com^
 ||m.nuxyz.cn^
 ||promotionad.nvcam.net^
 ||ad.nvdvr.cn^
@@ -5019,7 +5009,6 @@
 ||safew-appn-cn.com.cn^
 ||safew-appu-cn.com.cn^
 ||safew-appx-cn.com.cn^
-||safew-ca.org.cn^
 ||safew-pc.org.cn^
 ||safeweiji.com.cn^
 ||safewgo.org.cn^
@@ -5903,8 +5892,6 @@
 ||bdjs.uimg.cn^
 ||uimr.cn^
 ||ujian.cc^
-||ukfhqu.shop^
-||countly.ulanzistudio.com^
 ||ulink.cc^
 ||ultrapay.net^
 ||um1.cn^
