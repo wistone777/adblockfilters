@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260605031431
-! Last modified: 2026/06/05 03:14:31
-! Blocked domains: 7223
+! Version: 20260605131052
+! Last modified: 2026/06/05 13:10:52
+! Blocked domains: 7212
 ! unBlocked domains: 46
 !
 ||011211.cn^
@@ -78,7 +78,6 @@
 ||metrics.123245.com^
 ||123cha.com^
 ||uimg.123hala.com^
-||1827897262.v.123pan.cn^
 ||bdad.123pan.cn^
 ||ent1.12584.cn^
 ||health1.12584.cn^
@@ -527,7 +526,6 @@
 ||6613167.cn^
 ||1.66law.cn^
 ||bj.ad.track.66mobi.com^
-||attach.66rpg.com^
 ||6711.com^
 ||6789.net^
 ||kl.67it.com^
@@ -1428,7 +1426,6 @@
 ||bswsmlp.cn^
 ||s.btime.com^
 ||btyou.com^
-||xww.bucea.edu.cn^
 ||butou.cn^
 ||bvmlt.top^
 ||bwin2808.com^
@@ -3074,7 +3071,6 @@
 ||a3.ikafan.com^
 ||a4.ikafan.com^
 ||ikuailian.com^
-||static.ilclock.com^
 ||ilkwork.com^
 ||smetrics.illumina.com.cn^
 ||metrics.ilovematlab.cn^
@@ -3480,8 +3476,6 @@
 ||a.koudai.com^
 ||tj.koudaitong.com^
 ||b.kouke5.com^
-||bundle.kpzip.com^
-||d.kpzip.com^
 ||mininews.kpzip.com^
 ||kqg8jh8rk.com^
 ||krakow-rynowekta-ai.com^
@@ -4291,7 +4285,6 @@
 ||online-starsports.com.cn^
 ||online-youbosport.com.cn^
 ||online.sh.cn^
-||forspeed.onlinedown.net^
 ||fpbcode.onlinedown.net^
 ||onlinekaiyun.com.cn^
 ||olpv.onlylady.com^
@@ -5472,7 +5465,6 @@
 ||mxana.tacool.com^
 ||tagmanager.cn^
 ||tagtic.cn^
-||en.taichuan.com^
 ||takjttz.cn^
 ||talk99.cn^
 ||talkingdata.com^
@@ -6956,7 +6948,6 @@
 ||gw.d.ywopt.com^
 ||123.ywxww.net^
 ||adsclick.yx.js.cn^
-||qiniuyunxz.yxflzs.com^
 ||ad.a.yximgs.com^
 ||ali-ad.a.yximgs.com^
 ||ali-p2p-v2.pull.yximgs.com^
@@ -7061,7 +7052,6 @@
 ||sugar.zhihu.com^
 ||zhihu-web-analytics.zhihu.com^
 ||collector2c.zhihuishu.com^
-||www.zhikey.com^
 ||zhilingshidai.com^
 ||zhimaad.cn^
 ||zhimengad.com^
@@ -7181,7 +7171,6 @@
 ||stat.zol.com.cn^
 ||wappv.zol.com.cn^
 ||ydjs.zol.com.cn^
-||static.zongheng.com^
 ||zonst.com^
 ||zooj.cn^
 ||adm.zookingsoft.com^
