@@ -3,6 +3,7 @@ on:
   workflow_dispatch:
   schedule:
   - cron: '0 17,1,9 * * *' 
+
 env:
   TZ: Asia/Shanghai
   SINGBOX_VERSION: 1.12.12
@@ -14,12 +15,12 @@ jobs:
 
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@main
+        uses: actions/checkout@v6
 
-      - name: Setup Python 3.9.x
-        uses: actions/setup-python@main
+      - name: Setup Python 3.14
+        uses: actions/setup-python@v6
         with:
-          python-version: '3.9.x'
+          python-version: '3.14'
 
       - name: Install Dependencies
         run: |
@@ -36,6 +37,24 @@ jobs:
           rm -rf __pycache__
           rm -rf app/__pycache__
           echo "message=$(date)" >> $GITHUB_OUTPUT
+
+      - name: Compile Sing-Box filters
+        run: |
+          wget https://github.com/SagerNet/sing-box/releases/download/v${{env.SINGBOX_VERSION}}/sing-box-${{env.SINGBOX_VERSION}}-linux-amd64.tar.gz
+          tar -zxvf sing-box-${{env.SINGBOX_VERSION}}-linux-amd64.tar.gz
+          chmod +x sing-box-${{env.SINGBOX_VERSION}}-linux-amd64/sing-box
+          ./sing-box-${{env.SINGBOX_VERSION}}-linux-amd64/sing-box rule-set compile --output rules/adblocksingbox.srs     rules/adblocksingbox.json
+          ./sing-box-${{env.SINGBOX_VERSION}}-linux-amd64/sing-box rule-set compile --output rules/adblocksingboxlite.srs rules/adblocksingboxlite.json
+          rm -rf sing-box*
+      
+      - name: Compile mihomo filters
+        run: |
+          wget https://github.com/MetaCubeX/mihomo/releases/download/v${{env.MIHOMO_VERSION}}/mihomo-linux-amd64-v${{env.MIHOMO_VERSION}}.gz
+          gzip -d mihomo-linux-amd64-v${{env.MIHOMO_VERSION}}.gz
+          chmod +x mihomo-linux-amd64-v${{env.MIHOMO_VERSION}}
+          ./mihomo-linux-amd64-v${{env.MIHOMO_VERSION}} convert-ruleset domain yaml rules/adblockmihomo.yaml     rules/adblockmihomo.mrs
+          ./mihomo-linux-amd64-v${{env.MIHOMO_VERSION}} convert-ruleset domain yaml rules/adblockmihomolite.yaml rules/adblockmihomolite.mrs
+          rm -rf mihomo*
       
       - name: Commit Changes
         uses: stefanzweifel/git-auto-commit-action@v7
@@ -48,12 +67,12 @@ jobs:
 
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@main
+        uses: actions/checkout@v6
       
-      - name: Setup Python 3.9.x
-        uses: actions/setup-python@main
+      - name: Setup Python 3.14
+        uses: actions/setup-python@v6
         with:
-          python-version: '3.9.x'
+          python-version: '3.14'
 
       - name: Install Dependencies
         run: |
@@ -70,7 +89,7 @@ jobs:
 
     steps:
       - name: Delete workflow runs
-        uses: Mattraks/delete-workflow-runs@main
+        uses: Mattraks/delete-workflow-runs@v2
         with:
           retain_days: 1
           keep_minimum_runs: 5
