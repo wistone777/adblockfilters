@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260608015858
-! Last modified: 2026/06/08 01:58:58
-! Blocked domains: 6933
+! Version: 20260608132334
+! Last modified: 2026/06/08 13:23:34
+! Blocked domains: 6929
 ! unBlocked domains: 46
 !
 ||00951294-apple.com^
@@ -1496,7 +1496,6 @@
 ||p.data.cctv.com^
 ||cctvgb.com.cn^
 ||m.cdfdfq.cn^
-||alioss.cdn-go.com.cn^
 ||cdn-gw-dv.net^
 ||tracker.cdnbye.com^
 ||by.tel.cdndm.com^
@@ -1522,7 +1521,6 @@
 ||ce71jubc2.com^
 ||tvuser-ch.cedock.com^
 ||cengqinglin.cn^
-||cennostow.net^
 ||centralstylemarket.shop^
 ||update.cg100iii.com^
 ||cgigc.com.cn^
@@ -4359,7 +4357,6 @@
 ||ssh.q4hwkg.cn^
 ||q83v5haaz.com^
 ||qawxpzm.cn^
-||qazwex.cn^
 ||cp.qbaobei.com^
 ||qbdgame.com^
 ||dn-growing.qbox.me^
@@ -5489,7 +5486,6 @@
 ||testin.cn^
 ||tgwopez.cn^
 ||th7.cn^
-||thaloraktatravornai.com^
 ||advert.api.thejoyrun.com^
 ||adpai.thepaper.cn^
 ||imgadpai.thepaper.cn^
@@ -6254,7 +6250,6 @@
 ||xianzhice.com^
 ||xiaobeier.cn^
 ||xiaodongrui.com^
-||cdn.xiaoduoai.com^
 ||adx.xiaodutv.com^
 ||nsclickvideo.xiaodutv.com^
 ||xda.xiaodutv.com^
@@ -6895,6 +6890,7 @@
 ||stat.zol.com.cn^
 ||wappv.zol.com.cn^
 ||ydjs.zol.com.cn^
+||static.zongheng.com^
 ||zonst.com^
 ||zooj.cn^
 ||adm.zookingsoft.com^
