@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260611203720
-! Last modified: 2026/06/11 20:37:20
-! Blocked domains: 6972
+! Version: 20260612032852
+! Last modified: 2026/06/12 03:28:52
+! Blocked domains: 6977
 ! unBlocked domains: 46
 !
 ||011211.cn^
@@ -2213,9 +2213,13 @@
 ||bdu.focus.cn^
 ||pv.focus.cn^
 ||focusbatz.shop^
+||focusgardenmeble.shop^
 ||focusgardenmoda.shop^
 ||focusgardenshop.club^
+||focusgardm.shop^
+||focusgardom.shop^
 ||focusgpl.shop^
+||focussklep.shop^
 ||focustaze.shop^
 ||foisonad.com^
 ||metrics.ford.com^
@@ -2283,7 +2287,6 @@
 ||fywuywf.cn^
 ||fzqfoil.cn^
 ||simulatelab-datasink.fzzixun.com^
-||xyoss.g.com.cn^
 ||g15wt3ci68.com^
 ||r01.g1c5.com^
 ||kcc.g31hc.cn^
@@ -2532,6 +2535,7 @@
 ||gym-sport.club^
 ||gym-sports.club^
 ||gym-sportsl.club^
+||gymyoga.club^
 ||gz-data.com^
 ||bbn.gzblogger.cn^
 ||kn.gzcce.cn^
@@ -5169,6 +5173,7 @@
 ||tongji.southmoney.com^
 ||spicesaga.shop^
 ||sportmora.shop^
+||sportzz.shop^
 ||spreadable.com.cn^
 ||srbzw.cn^
 ||srqxnvjdd.com^
