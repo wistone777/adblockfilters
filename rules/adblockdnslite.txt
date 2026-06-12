@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260612032852
-! Last modified: 2026/06/12 03:28:52
-! Blocked domains: 6977
+! Version: 20260612132616
+! Last modified: 2026/06/12 13:26:16
+! Blocked domains: 6961
 ! unBlocked domains: 46
 !
 ||011211.cn^
@@ -2064,9 +2064,6 @@
 ||client-api.ele.me^
 ||grand.ele.me^
 ||h-adashx.ut.ele.me^
-||elite-ayx.com.cn^
-||elite-jinshayule.com.cn^
-||elite-xcsports.com.cn^
 ||metrics.ellechina.com^
 ||trk.elmorietschle.cn^
 ||d.elong.cn^
@@ -2227,7 +2224,6 @@
 ||smetrics.sandbox.ford.com^
 ||forestseasons.com.cn^
 ||formysql.com^
-||fortrans.com.cn^
 ||fotao9.com^
 ||frontier100-toutiao-lf.fqnovel.com^
 ||log0-applog-lf.fqnovel.com^
@@ -2886,9 +2882,6 @@
 ||hyfyuan.com^
 ||hypecenter.shop^
 ||hypers.com^
-||dsp.hypers.com.cn^
-||hw-t.hypers.com.cn^
-||t.hypers.com.cn^
 ||hytzp.cn^
 ||hzbxm.com^
 ||hzdhr.cn^
@@ -4271,9 +4264,6 @@
 ||pl53l7tyw.com^
 ||placidocn.com^
 ||load.tbyvvwvv.plasmatreatment.cn^
-||cg.play-analytics.com^
-||dnha.play-analytics.com^
-||up.play-analytics.com^
 ||open.play.cn^
 ||bdx.playnext.cn^
 ||pmensrl.cn^
@@ -4725,7 +4715,6 @@
 ||v9-reading-ad.qznovelvod.com^
 ||v95-se-zjwztc-reading-ad.qznovelvod.com^
 ||v96-reading-ad.qznovelvod.com^
-||qzy2007.com^
 ||r-golsport.club^
 ||r-golsports.club^
 ||m.r507p.cn^
@@ -4785,11 +4774,6 @@
 ||feedback.cn.ronghub.com^
 ||logcollection.ronghub.com^
 ||stats.cn.ronghub.com^
-||rosy-feifansports.com.cn^
-||rosy-gysports.com.cn^
-||rosy-kaiyuan.com.cn^
-||rosy-yibeisports.com.cn^
-||rosy-yibosports.com.cn^
 ||rovz7ekw3r.com^
 ||rpahyhn.cn^
 ||rplzmw.cn^
