@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260615020747
-! Last modified: 2026/06/15 02:07:47
-! Blocked Filters: 100910
+! Version: 20260615141531
+! Last modified: 2026/06/15 14:15:31
+! Blocked Filters: 100907
 !
 ###AC_ad
 ###AD_160
@@ -99293,7 +99293,6 @@ zzzyk.com###Tinfo
 ||unblocked.*/zpp/
 ||unblockedapi.com^$popup
 ||unblog.fr/cu.js
-||uncernedasesiumw.org^$popup
 ||under-click.
 ||underclick.
 ||underwriting.allclassical.org/player-banners/
@@ -99334,7 +99333,6 @@ zzzyk.com###Tinfo
 ||upaiyun.com/wp-content/uploads/2016/12/wenzhangyouce
 ||upcomics.org/k4.gif
 ||updatecompletelyfreetheproduct.vip^$popup
-||updateenow.com^$popup
 ||updateland.com/wp-content/uploads/*/Amazon-Prime-Video
 ||upfastfile.com/upload/natogame_
 ||upgiveunsteps.shop^$popup
@@ -99609,7 +99607,6 @@ zzzyk.com###Tinfo
 ||vptpcs.com/templates/base_master/js/ppdr/
 ||vptpcs.com/templates/base_master/js/videoban.js
 ||vptpcs.com/templates/frontend/viptube/js/adx_flash.js
-||vq4b0q.fun^$popup
 ||vroom.be^*/stats.js?
 ||vroom.be^*/stats.php?
 ||vs*.gzcu.u3.ucweb.com^
