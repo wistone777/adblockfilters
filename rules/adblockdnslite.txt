@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260622021503
-! Last modified: 2026/06/22 02:15:03
-! Blocked domains: 6893
+! Version: 20260622142225
+! Last modified: 2026/06/22 14:22:25
+! Blocked domains: 6879
 ! unBlocked domains: 46
 !
 ||011211.cn^
@@ -914,7 +914,6 @@
 ||alldk.com^
 ||allyes.cn^
 ||allyes.com^
-||alpenora.shop^
 ||adashx.ut.amap.com^
 ||amap-aos-info-nogw.amap.com^
 ||apsrgeo.amap.com^
@@ -1424,7 +1423,6 @@
 ||baidu1.cardbaobao.com^
 ||baidua1.cardbaobao.com^
 ||baidua2.cardbaobao.com^
-||careza.shop^
 ||cartx.cloud^
 ||casaperch.com^
 ||casee.cn^
@@ -1482,7 +1480,6 @@
 ||ce71jubc2.com^
 ||tvuser-ch.cedock.com^
 ||cengqinglin.cn^
-||centralstylemarket.shop^
 ||update.cg100iii.com^
 ||cgigc.com.cn^
 ||ads.adagent.chacha.com^
@@ -1643,6 +1640,7 @@
 ||log-eap-in.coloros.com^
 ||log-eap-sg.coloros.com^
 ||moa-upload-online.coloros.com^
+||smartcard.apps.coloros.com^
 ||com5.com.cn^
 ||trk.compair.com.cn^
 ||strack.concur.cn^
@@ -2188,7 +2186,6 @@
 ||focusgardenmeble.shop^
 ||focusgardenmoda.shop^
 ||focusgardens-pl.shop^
-||focusgardenshop.club^
 ||focusgardm.shop^
 ||focusgardom.shop^
 ||focusgpl.shop^
@@ -2503,11 +2500,9 @@
 ||pvsa.gxfugy.cn^
 ||gxgbvmg.cn^
 ||gxhzv.cn^
-||gym-fitness.club^
 ||gym-online.shop^
 ||gym-sport.club^
 ||gym-sports.club^
-||gym-sportsl.club^
 ||gymyoga.club^
 ||gz-data.com^
 ||kn.gzcce.cn^
@@ -3936,12 +3931,11 @@
 ||myfeng.cn^
 ||mygeek.cn^
 ||cdn.adm.myhayo.com^
-||ceshi127722.obs.cn-north-4.myhuaweicloud.com^
 ||nsp-logservice-hiview-p05-dra.obs.ap-southeast-3.myhuaweicloud.com^
 ||nsp-logservice-hiview-p06-dra.obs.ap-southeast-3.myhuaweicloud.com^
 ||nsp-logservice-hiview-p07-dra.obs.ap-southeast-3.myhuaweicloud.com^
 ||nsp-logservice-hiview-p08-dra.obs.ap-southeast-3.myhuaweicloud.com^
-||obs.cn-north-2.myhuaweicloud.com^
+||teslaamg.obs.cn-east-3.myhuaweicloud.com^
 ||myhug.cn^
 ||metrics-picture-hk.d1.mykeeta.com^
 ||mylikechat.com^
@@ -4663,8 +4657,6 @@
 ||hades.qyer.com^
 ||u1.qyxxpd.com^
 ||v11-reading-ad.qznovelvod.com^
-||v13-reading-ad.qznovelvod.com^
-||v26-reading-ad.qznovelvod.com^
 ||v3-reading-ad.qznovelvod.com^
 ||v5-se-ex-mc-reading-ad.qznovelvod.com^
 ||v5-se-jltc-reading-ad.qznovelvod.com^
@@ -4673,7 +4665,6 @@
 ||v6-reading-ad.qznovelvod.com^
 ||v95-se-zjwztc-reading-ad.qznovelvod.com^
 ||r-golsport.club^
-||r-golsports.club^
 ||m.r507p.cn^
 ||c.r9uqp.cn^
 ||a2.rabbitpre.com^
@@ -5122,11 +5113,7 @@
 ||data.ssports.com^
 ||show.ssports.com^
 ||3.ssqzj.com^
-||stalco-mall.club^
-||stalco-market.club^
 ||stalcopl.shop^
-||stalcosa.club^
-||stalcoshop.club^
 ||star-media.cn^
 ||star8.net^
 ||stargame.com^
@@ -5145,7 +5132,6 @@
 ||store-pl.shop^
 ||strauss-db.shop^
 ||strauss-market.shop^
-||strauss-workwear.club^
 ||studylabs.cn^
 ||autotrack.studyquicks.com^
 ||stats.studyquicks.com^
@@ -5182,6 +5168,7 @@
 ||sxk9m8x.cn^
 ||jjk.sxklm.cn^
 ||sxltfj.cn^
+||sxundrh.cn^
 ||sxxjdz.com^
 ||sanalytics.sydneyuniversity.cn^
 ||sydyqg.cn^
@@ -5375,7 +5362,6 @@
 ||tpns.tencent.com^
 ||tpns.sgp.tencent.com^
 ||tpstelemetry.tencent.com^
-||tencentapigw.com^
 ||tencentapigw.com.cn^
 ||gz.apigw.tencentcs.com^
 ||sh.apigw.tencentcs.com^
