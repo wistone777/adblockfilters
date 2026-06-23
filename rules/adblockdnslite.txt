@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260623035952
-! Last modified: 2026/06/23 03:59:52
-! Blocked domains: 6920
+! Version: 20260623125432
+! Last modified: 2026/06/23 12:54:32
+! Blocked domains: 6917
 ! unBlocked domains: 46
 !
 ||011211.cn^
@@ -3693,7 +3693,6 @@
 ||ad.mazc.org^
 ||mbai.cn^
 ||mbaobao.com^
-||mcatcher.cn^
 ||tracking.mcdonalds.com.cn^
 ||mckumf5ii4.com^
 ||uid.mdbchina.com^
@@ -4769,7 +4768,6 @@
 ||rtbwave.com^
 ||rua50s4es8.com^
 ||ruan.cn^
-||down.ruanmei.com^
 ||ds.ruanwengfa.com^
 ||sensorsdata.ruguoapp.com^
 ||rui61.cn^
@@ -6875,7 +6873,6 @@
 ||stat.zol.com.cn^
 ||wappv.zol.com.cn^
 ||ydjs.zol.com.cn^
-||static.zongheng.com^
 ||zonst.com^
 ||zooj.cn^
 ||adm.zookingsoft.com^

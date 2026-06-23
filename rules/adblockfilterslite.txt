@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockfilterslite.txt
-! Version: 20260623035952
-! Last modified: 2026/06/23 03:59:52
-! Blocked Filters: 42842
+! Version: 20260623125432
+! Last modified: 2026/06/23 12:54:32
+! Blocked Filters: 42846
 !
 ###AC_ad
 ###AD_160
@@ -29868,6 +29868,7 @@ dramacool.*##.sidebar.mCS-autoHide
 dramacool.*#?#.content-right > div.block-tab > div.block > div.tab-content:has(> div.ads_place_160)
 dramacool.*#?#.content-right > div.block-tab > ul.tab > li:contains(/^Ads$/)
 drc1bk94f7rq8.cloudfront.net,shiropro-re.net#@##ad_link
+dreadcentral.com,justjared.com##.widget_tpd_ad_widget
 drivespark.com,express.co.uk,goodreturns.in##div[id^="taboola-"]
 drivespark.com,gizbot.com##.photos-add
 droidinformer.org,freedownloadmanager.org###inf_bnr_1
@@ -42148,6 +42149,9 @@ zzztube.com,videoporn.tube##.b-random-column
 ||static.qiyi.com/js/pingback/
 ||static.youku.com/*/index/js/iresearch.js
 ||static.youku.com/*/js/cps.js
+||static.zongheng.com^*/adClickStat.js
+||static.zongheng.com^*/ad_click.js
+||static.zongheng.com^*/logger.min.js
 ||staticfile.qq.com/datong/$script
 ||staticfile.qq.com/qimei/$script
 ||statics.123*.com/static/ks/

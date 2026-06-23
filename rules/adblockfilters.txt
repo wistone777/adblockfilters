@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260623035952
-! Last modified: 2026/06/23 03:59:52
-! Blocked Filters: 101740
+! Version: 20260623125432
+! Last modified: 2026/06/23 12:54:32
+! Blocked Filters: 101746
 !
 ###AC_ad
 ###AD_160
@@ -46351,6 +46351,8 @@ douglas.*##div.product-grid-column:has(button[data-testid="sponsored-button"])
 douglas.at,douglas.be,douglas.ch,douglas.cz,douglas.de,douglas.es,douglas.hr,douglas.hu,douglas.it,douglas.lt,douglas.lv,douglas.nl,douglas.pl,douglas.pt,douglas.ro,douglas.si,douglas.sk,nocibe.fr##[class="cms-criteo"]
 douguo.com###dlayer
 douguo.com##.mbs
+doujin-y.com##.sticky-close
+doujin-y.com##div.center_doujiny
 doujinblog.org##.wppopups-whole
 doujindesu.tv#?#center:has(> a[target="_blank"] > img)
 doulci.net#@##adlabel
@@ -46562,6 +46564,7 @@ drawize.com#%#//scriptlet('set-constant', 'recreateAds', 'noopFunc')
 drawize.com#%#//scriptlet('set-constant', 'showVideoAd', 'noopFunc')
 drc1bk94f7rq8.cloudfront.net,shiropro-re.net#@##ad_link
 dreadcentral.com#%#//scriptlet('trusted-suppress-native-method', 'Element.prototype.setAttribute', ' |"html-load.com"')
+dreadcentral.com,justjared.com##.widget_tpd_ad_widget
 dreamdth.com#%#//scriptlet('prevent-addEventListener', 'load', 'document.createElement')
 drednot.io##.shipyard-ad
 dredyson.com###bloghash-scroll-top + div[id][class*=" "]
@@ -58153,7 +58156,6 @@ justfullporn.net##.order-1:has(> .video-block-happy)
 justinweather.com##.top-ad-banner-wrapper
 justjared.com##.banner-spacer-top {max-height: 50px !important;}
 justjared.com##.header-container__main
-justjared.com##.widget_tpd_ad_widget
 justjared.com##[role="banner"] {top:0 !important}
 justjared.com#$#.banner-spacer-top { max-height: 50px !important; }
 justjared.com#$#[role="banner"] { top:0 !important }
@@ -90158,6 +90160,7 @@ zzzyk.com###Tinfo
 ||douban.com/view/dale-online/dale_ad
 ||douban.com^*/fm_bgad.js
 ||douguo.net/upload/post/d/
+||doujin-y.com/wp-content/uploads/*.gif$image
 ||doupocangqiong1.com/js/ptwap.js
 ||doutula.com/img/upupoo/
 ||douyin.com/api/user/getPcBanner?
@@ -98604,6 +98607,9 @@ zzzyk.com###Tinfo
 ||static.xshuyaya.com/m/d.js
 ||static.youku.com/*/index/js/iresearch.js
 ||static.youku.com/*/js/cps.js
+||static.zongheng.com^*/adClickStat.js
+||static.zongheng.com^*/ad_click.js
+||static.zongheng.com^*/logger.min.js
 ||static0.wi-fi.ru/static/000/ios/index.html
 ||staticasset.amarujala.com/handler/recomUserEvent.js
 ||staticfile.qq.com/datong/$script
