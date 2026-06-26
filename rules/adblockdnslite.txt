@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260626030224
-! Last modified: 2026/06/26 03:02:24
-! Blocked domains: 5034
+! Version: 20260626130335
+! Last modified: 2026/06/26 13:03:35
+! Blocked domains: 5029
 ! unBlocked domains: 35
 !
 ||011211.cn^
@@ -1884,7 +1884,6 @@
 ||sdn.gongkao.hn.cn^
 ||gongyichuangyi.net^
 ||e.goodgz.cn^
-||cdn.file6.goodid.com^
 ||google-analytics-cn.com^
 ||google-analytics.com^
 ||ads.google.cn^
@@ -2221,7 +2220,6 @@
 ||a3.ikafan.com^
 ||a4.ikafan.com^
 ||ikuailian.com^
-||static.ilclock.com^
 ||ilkwork.com^
 ||smetrics.illumina.com.cn^
 ||smetrics.ilovematlab.cn^
@@ -2531,7 +2529,6 @@
 ||b.kouke5.com^
 ||bundle.kpzip.com^
 ||d.kpzip.com^
-||mininews.kpzip.com^
 ||kqg8jh8rk.com^
 ||photo.krryh.cn^
 ||slb-p2p.vcloud.ks-live.com^
@@ -3272,7 +3269,6 @@
 ||logger.qingting.fm^
 ||kf.qingwk.com^
 ||log.qiniuapi.com^
-||sta.qinxue.com^
 ||qipskd.cn^
 ||kbae.qiqqh.cn^
 ||s1.qiqutt.cn^
@@ -4830,7 +4826,6 @@
 ||photo.yqydjr.cn^
 ||yrnv.cn^
 ||ys630.com^
-||ysbaojia.com^
 ||m.ysgsq.cn^
 ||ysjwj.com^
 ||ysont.cn^
