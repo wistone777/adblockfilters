@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260629015858
-! Last modified: 2026/06/29 01:58:58
-! Blocked domains: 5186
+! Version: 20260629132302
+! Last modified: 2026/06/29 13:23:02
+! Blocked domains: 5182
 ! unBlocked domains: 35
 !
 ||011211.cn^
@@ -26,7 +26,6 @@
 ||ssp.08160.cn^
 ||087tqb.cn^
 ||m.08jq9b.cn^
-||0941.org^
 ||0dy3evz6x.com^
 ||cdn.0i-i0.com^
 ||0otmh22aj2.com^
@@ -189,7 +188,6 @@
 ||200218.com^
 ||2004seo.cn^
 ||2005net.net^
-||20091222.com^
 ||wm.20150.net^
 ||202m.com^
 ||2144.cn^
@@ -1241,7 +1239,6 @@
 ||pv.cheshi.com^
 ||qc1.cheshipin.com^
 ||z1.chezhuzhinan.com^
-||t6.china-xian.com^
 ||log.china.cn^
 ||dvs.china.com^
 ||dvsend.china.com^
@@ -3572,7 +3569,6 @@
 ||qq2tdd0xx.com^
 ||qq4g.cn^
 ||qq937.com^
-||down.qqfarmer.com.cn^
 ||sdk-ab-config.qquanquan.com^
 ||tracelog-debug.qquanquan.com^
 ||dpvc1.qqyy.com^
@@ -3593,7 +3589,6 @@
 ||adtrack.quark.cn^
 ||applog.lc.quark.cn^
 ||track.lc.quark.cn^
-||qudajie.com^
 ||n.qudwrj.cn^
 ||v.qudwrj.cn^
 ||analytics.oceanengine.com.queniuiq.com^
@@ -5158,6 +5153,7 @@
 ||stat.zol.com.cn^
 ||wappv.zol.com.cn^
 ||ydjs.zol.com.cn^
+||static.zongheng.com^
 ||zonst.com^
 ||zooj.cn^
 ||adm.zookingsoft.com^
