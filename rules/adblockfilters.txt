@@ -3,8 +3,8 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：adblockdns、adblockfilters、anti-AD、Anti-AD、Anti-AD-加密 DNS、Anti-AD-PCDN、neodevhost。
 ! Homepage: https://github.com/wistone777/adblockfilters
 ! Source: https://raw.githubusercontent.com/wistone777/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260701022913
-! Last modified: 2026/07/01 02:29:13
+! Version: 20260701131550
+! Last modified: 2026/07/01 13:15:50
 ! Blocked Filters: 86968
 !
 ###AC_ad
@@ -38997,6 +38997,7 @@ chatgpt.com##.border-token-border-default.mt-2.border-t:has(button[aria-label="A
 chatgpt.com##[data-testid="bazaar-v2-elevated-box"]:has([data-ad-card-root="true"])
 chatgpt.com##div[class]:has(> button[class] > span.text-nowrap > svg.icon-sm > use[href="/cdn/assets/sprites-core-fxfgsfqf.svg#d3876b"])
 chatgpt.com##div[class]:has(> div.flex > button[aria-label="Ad options"])
+chatgpt.com##div[data-assistant-ads]
 chatgpt.com##div[data-testid] div[class^="max-"] > div[data-ad-card-root]
 chatgpt.com#%#//scriptlet('trusted-json-set', 'WeakMap.prototype.set', '$[?(@.ads_response_id)].*', '$remove$', '', 'arg:1')
 chatgptfree.ai#?#.elementor-widget-container > style + p:contains(/^ADS$/)
@@ -77498,7 +77499,6 @@ zzzyk.com###Tinfo
 ||easyporn.xxx/tmp/
 ||easytechguides.com/b/
 ||easyview.eu/sw.js
-||eatcells.com/land/$popup
 ||eatwell101.com/wp-content/themes/*/custom/ads/
 ||ebay.com/delstats/
 ||ebay.com/nkfytkqtoxtljvzbxhr.js$script,domain=ebay.com
