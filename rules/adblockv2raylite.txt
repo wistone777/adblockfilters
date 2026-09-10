@@ -3,9 +3,9 @@
 # Description: 适用于 V2ray、Xray 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockv2raylite.txt
-# Version: 20260910025550
-# Last modified: 2026/09/10 02:55:50
-# Blocked domains: 5298
+# Version: 20260910095505
+# Last modified: 2026/09/10 09:55:05
+# Blocked domains: 5293
 #
 kwflvcdn.000dn.com @ads
 img.0279.net @ads
@@ -1373,8 +1373,6 @@ dh5t3pyb6r.com @ads
 d1.dhgate.com @ads
 sentry.dhgate.com @ads
 sgtm.dhgate.com @ads
-diament-zyskura.com @ads
-diamentzyskura-pl.com @ads
 diannaodian.com @ads
 catfront.dianping.com @ads
 dianru.com @ads
@@ -1577,8 +1575,6 @@ eoyqzzk.cn @ads
 epaes.com.cn @ads
 m.ercos.cn @ads
 esudrp.cn @ads
-etapcorelix-ai.com @ads
-etapcorelix-pl.com @ads
 ethan.wang @ads
 etoolads.cn @ads
 euuh.cn @ads
@@ -4154,7 +4150,6 @@ adexpo.tencentmusic.com @ads
 adstats.tencentmusic.com @ads
 report.tencentmusic.com @ads
 beacon.tencentwm.com @ads
-tengfeidn.cn @ads
 tepusi888.cn @ads
 answers.teradata.com.cn @ads
 akamai-apigateway-gio-analytics.tesla.cn @ads
