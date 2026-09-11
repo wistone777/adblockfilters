@@ -3,9 +3,9 @@
 # Description: 适用于 MosDNS 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmosdnslite.txt
-# Version: 20260911095411
-# Last modified: 2026/09/11 09:54:11
-# Blocked domains: 5316
+# Version: 20260911202605
+# Last modified: 2026/09/11 20:26:05
+# Blocked domains: 5329
 #
 kwflvcdn.000dn.com
 img.0279.net
@@ -188,7 +188,6 @@ img2.360buyimg.com
 360in.com
 360kuai.com
 360os.com
-crash.pcsafe.360safe.com
 ini.update.360safe.com
 kuaikan.netmon.360safe.com
 mclean.cloud.360safe.com
@@ -518,7 +517,9 @@ mum.alibabachengdun.com
 mum.alibabachengdun.net
 images.info.alibabacloud.com
 beacon-api.aliyuncs.com.gds.alibabadns.com
+cn-beijing-c.dualstack.log.usd.alibabadns.com
 cn-hangzhou-c.dualstack.log.usd.alibabadns.com
+cn-qingdao.dualstack.log.usd.alibabadns.com
 afp.alicdn.com
 alimama.alicdn.com
 asearch.alicdn.com
@@ -977,6 +978,7 @@ brzask-kapitelis.com
 bsbaswq.cn
 bsccdn.net
 bswsmlp.cn
+bsyrimw.xyz
 s.btime.com
 btyou.com
 bursztyn-fondava.com
@@ -1008,6 +1010,7 @@ p6-ad-sign.byteimg.com
 p9-ad-sign.byteimg.com
 s.c-ctrip.com
 c4d4.cn
+download.caihong.com
 gg.caixin.com
 ad.caiyunapp.com
 smetrics.calvinklein.cn
@@ -1058,7 +1061,7 @@ sentry-io.djiops.com.w.cdngslb.com
 sgtm.dhgate.com.cdngtm.com
 httpdns.c.cdnhwc2.com
 httpdns1.cc.cdnhwc5.com
-p66-ad.adkwai.com.3dce113f.cdnhwchcg02.com
+ads-i4.xhscdn.com.057f7a7d.cdnhwcxcy07.com
 ad.cdnjm.cn
 syh-imp.cdnjtzy.com
 cdnmaster.cn
@@ -1547,6 +1550,7 @@ khjfdgsfsdfhjklljdhgdstryt-dp97141gwv85.edgeone.dev
 loginsecurde4-dpqom26teqv9.edgeone.dev
 mailwilling-dp9gqao71lzl.edgeone.dev
 musical-octo-robot-dptlf6z6tv2g.edgeone.dev
+officialgmailveirifcationtunnel-dpfk8fse6v5v.edgeone.dev
 ordinary-silver-rkbwyw06.edgeone.dev
 prior-jade-yjoyvniu.edgeone.dev
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
@@ -1840,6 +1844,7 @@ goi08160kh.com
 gojunkclean.cn
 prom.gome.com.cn
 gongxifc.com
+cdn.file6.goodid.com
 google-analytics-cn.com
 google-analytics.com
 admob.google.cn
@@ -1989,7 +1994,6 @@ cl-data-in.ads.heytapmobi.com
 cl-data-sg.ads.heytapmobi.com
 cl-data.ads.heytapmobi.com
 conf-cn.dc.heytapmobi.com
-conf-eu.dc.heytapmobi.com
 conf-in.dc.heytapmobi.com
 conf-sg.dc.heytapmobi.com
 darvin-ec.ads.heytapmobi.com
@@ -2266,6 +2270,7 @@ iimedia.cn
 ijinshan.com
 daima.ijq.tv
 lm.ijq.tv
+static.ilclock.com
 smetrics.illumina.com.cn
 metrics.ilovematlab.cn
 smetrics.ilovematlab.cn
@@ -2640,7 +2645,6 @@ api.kwaizt.com
 open.kwaizt.com
 kwdgudw.cn
 ky595images.com
-log.kyread.cn
 kzchyhr.cn
 kzki21j8f6.com
 go.eml.l-com.cn
@@ -2737,6 +2741,7 @@ liebaovip.com
 log.liepin.com
 www.limei.com
 lingd.cn
+sentry1.lingkou.xyz
 ads.linkedin.cn
 linkhaitao.com
 litchiads.com
@@ -2744,7 +2749,6 @@ adbd.liuxue86.com
 hw-p2p-pull.live-voip.com
 tx-p2p-pull.live-voip.com
 ws-p2p-pull.live-voip.com
-sentry.lkcoffee.com
 lkme.cc
 lkmhn.com
 a.llysc.cn
@@ -3109,6 +3113,7 @@ nio08310lt.com
 down.nishuoa.com
 nkscdn.com
 nlzyp.cn
+noteonline-pt.shop
 web.novogene.com
 a.nowscore.com
 z.nowscore.com
@@ -3148,6 +3153,7 @@ js.oh100.com
 apps5.oingo.com
 oj95rctd5.com
 ojg8sflgl.com
+okhan.net
 oldulgk.cn
 oneapm.com
 onelnk.com
@@ -3317,6 +3323,7 @@ cp.qbaobei.com
 apilog.qbb6.com
 uplog.qbox.me
 statistics.qcc.com
+qcjslm.com
 bugly.qcloud.com
 log.qvb.qcloud.com
 tracker-00.qvb.qcloud.com
@@ -3554,6 +3561,7 @@ yun-hl.3g.qq.com
 dns.weixin.qq.com.cn
 wxaintpcos.wxqcloud.qq.com.cn
 qq2tdd0xx.com
+down.qqfarmer.com.cn
 sdk-ab-config.qquanquan.com
 tracelog-debug.qquanquan.com
 f.qstatic.com
@@ -3619,7 +3627,6 @@ v3-reading-ad.qznovelvod.com
 v5-bd-daily-reading-ad.qznovelvod.com
 v5-ex-reading-ad.qznovelvod.com
 v5-reading-ad.qznovelvod.com
-v5-se-bjtc-reading-ad.qznovelvod.com
 v5-se-ex-mc-reading-ad.qznovelvod.com
 v5-se-gddgtc-reading-ad.qznovelvod.com
 v5-se-sjy-daily-reading-ad.qznovelvod.com
@@ -3725,6 +3732,7 @@ sbldw.cn
 smetrics.schindler.cn
 scjpqut.cn
 sckexing.cn
+sckfcn.cn
 statscollector.sd-rtn.com
 sd6hon.cn
 sdhuawen.cn
@@ -3836,6 +3844,7 @@ sirsplajp.com
 sirweara.com
 analytics.sixt.cn
 1.sj33.net
+sjds.net
 sjoy7rq.cn
 skfqxkk.cn
 log.skyroam.com.cn
@@ -4175,6 +4184,7 @@ answers.teradata.com.cn
 akamai-apigateway-gio-analytics.tesla.cn
 akamai-apigateway-sentry.tesla.cn
 testin.cn
+tgymhwt.cn
 th7.cn
 advert.api.thejoyrun.com
 adpai.thepaper.cn
@@ -4796,7 +4806,6 @@ ads-i10.xhscdn.com
 ads-i2.xhscdn.com
 ads-i3.xhscdn.com
 ads-i4.xhscdn.com
-ads-i8.xhscdn.com
 ads-img-al.xhscdn.com
 ads-img-bak.xhscdn.com
 ads-img-qc.xhscdn.com
@@ -4961,6 +4970,7 @@ stat.download.xunlei.com
 upgrade.xl9.xunlei.com
 prd-collect-llm.xverse.cn
 xvhttu3c9.com
+cc.xwscg.com
 xxmh456.com
 p2p-punch.xxpkg.com
 xy.com
@@ -4980,6 +4990,7 @@ yahekby.cn
 yahoo.com.cn
 img.yangshengtang123.com
 ca.yangshengtv.com
+yangshengzu.cn
 yatemy.cn
 ycsshb.cn
 yd126.com
@@ -5118,6 +5129,8 @@ app.storage.yunvm.com
 httpdns.yunxindns.com
 statistic-overseas.yunxinfw.com
 yunxish.com
+yur09130og.com
+yur09140og.com
 yvdb.cn
 yw800.com.cn
 ywkkmze.cn
